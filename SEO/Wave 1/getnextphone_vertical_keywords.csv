@@ -1,0 +1,19 @@
+Industry,Keyword,Monthly Volume,Estimated Pricing ($/month),Buyer Temperature
+Legal Services,AI receptionist for law firms,280,$500-1200,Very Hot
+Legal Services,legal intake automation software,190,$400-900,Hot
+Legal Services,law firm appointment scheduling,240,$300-800,Hot
+Medical/Healthcare,AI receptionist for medical offices,620,$600-1500,Very Hot
+Medical/Healthcare,healthcare appointment reminder system,450,$400-1000,Hot
+Medical/Healthcare,medical practice call management,380,$350-900,Hot
+Real Estate,real estate lead capture automation,950,$300-1000,Very Hot
+Real Estate,property inquiry automation,680,$250-800,Very Hot
+Real Estate,open house appointment scheduling,520,$200-700,Hot
+Dental Practice,AI receptionist for dental offices,410,$300-900,Very Hot
+Dental Practice,dental appointment reminders,340,$250-700,Hot
+Dental Practice,practice patient scheduling,290,$300-800,Hot
+Home Services,contractor call answering service,360,$250-700,Hot
+Home Services,plumber lead capture system,280,$200-600,Hot
+Home Services,home service booking automation,220,$200-650,Warm
+Hair/Beauty Salons,salon appointment scheduling AI,520,$150-500,Hot
+Hair/Beauty Salons,beauty business call handling,380,$150-450,Warm
+Hair/Beauty Salons,spa booking automation system,310,$180-550,Warm
