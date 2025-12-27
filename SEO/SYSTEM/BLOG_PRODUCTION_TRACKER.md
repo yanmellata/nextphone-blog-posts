@@ -1,6 +1,6 @@
 # Blog Production Tracker
 
-**Last Updated:** December 24, 2025
+**Last Updated:** December 27, 2025
 
 **Overview:** Track progress on all 276 blog posts (119 Wave 1 complete + 157 Wave 2 in production)
 
@@ -26,7 +26,7 @@
 
 | Phase | Total Posts | Research Done | Outline Done | Draft Done | QA Done | Published |
 |-------|-------------|---------------|--------------|------------|---------|-----------|
-| Phase 9: Integrations | 76 | 8 | 8 | 7 | 0 | 0 |
+| Phase 9: Integrations | 76 | 15 | 15 | 14 | 0 | 0 |
 | Phase 10: Features | 23 | 0 | 0 | 0 | 0 | 0 |
 | Phase 11: Competitors | 14 | 0 | 0 | 0 | 0 | 0 |
 | Phase 12: Workflows | 15 | 0 | 0 | 0 | 0 | 0 |
@@ -298,13 +298,13 @@
 | POST-142 | Make.com AI Receptionist Automation | Make.com integration | Medium | 1500-2000 | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | - | Row 24 CSV |
 | POST-143 | n8n + NextPhone Integration | n8n integration | Low | 1000-1500 | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | - | Row 25 CSV |
 | POST-144 | Verizon Business Phone + AI Integration | Verizon Business integration | High | 2000-2500 | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | - | Row 26 CSV |
-| POST-145 | AT&T Business Phone AI Setup | AT&T Business integration | High | 2000-2500 | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | - | Row 27 CSV |
-| POST-146 | T-Mobile for Business + NextPhone | T-Mobile Business integration | Medium | 1500-2000 | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | - | Row 28 CSV |
-| POST-147 | RingCentral to NextPhone Migration | RingCentral migration | High | 2000-2500 | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | - | Row 29 CSV |
-| POST-148 | Twilio AI Receptionist API Setup | Twilio integration | High | 2000-2500 | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | - | Row 30 CSV |
-| POST-149 | Vonage Business + NextPhone | Vonage integration | Medium | 1500-2000 | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | - | Row 31 CSV |
-| POST-150 | Nextiva Alternative: AI Receptionist | Nextiva alternative | High | 2000-2500 | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | - | Row 32 CSV |
-| POST-151 | Migrate from Grasshopper to AI | migrate from Grasshopper | Medium | 1500-2000 | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | - | Row 33 CSV |
+| POST-145 | AT&T Business Phone AI Setup | AT&T Business integration | High | 2000-2500 | ✅ | ✅ | ✅ | ⏳ | ⏳ | Claude | Row 27 CSV - Draft: 2,418 words (2025-12-27) |
+| POST-146 | T-Mobile for Business + NextPhone | T-Mobile Business integration | Medium | 1500-2000 | ✅ | ✅ | ✅ | ⏳ | ⏳ | Claude | Row 28 CSV - Draft: 3,863 words (2025-12-27) |
+| POST-147 | RingCentral to NextPhone Migration | RingCentral migration | High | 2000-2500 | ✅ | ✅ | ✅ | ⏳ | ⏳ | Claude | Row 29 CSV - Draft: 2,427 words (2025-12-27) |
+| POST-148 | Twilio AI Receptionist API Setup | Twilio integration | High | 2000-2500 | ✅ | ✅ | ✅ | ⏳ | ⏳ | Claude | Row 30 CSV - Draft: 2,430 words (2025-12-27) |
+| POST-149 | Vonage Business + NextPhone | Vonage integration | Medium | 1500-2000 | ✅ | ✅ | ✅ | ⏳ | ⏳ | Claude | Row 31 CSV - Draft: 4,823 words (2025-12-27) |
+| POST-150 | Nextiva Alternative: AI Receptionist | Nextiva alternative | High | 2000-2500 | ✅ | ✅ | ✅ | ⏳ | ⏳ | Claude | Row 32 CSV - Draft: 2,450 words (2025-12-27) |
+| POST-151 | Migrate from Grasshopper to AI | migrate from Grasshopper | Medium | 1500-2000 | ✅ | ✅ | ✅ | ⏳ | ⏳ | Claude | Row 33 CSV - Draft: 5,287 words (2025-12-27) |
 | POST-152 | Ooma Office + NextPhone Integration | Ooma integration | Low | 1000-1500 | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | - | Row 34 CSV |
 | POST-153 | 8x8 Voice + NextPhone Integration | 8x8 integration | Low | 1000-1500 | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | - | Row 35 CSV |
 | POST-154 | Dialpad + NextPhone Integration | Dialpad integration | Medium | 1500-2000 | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | - | Row 36 CSV |
