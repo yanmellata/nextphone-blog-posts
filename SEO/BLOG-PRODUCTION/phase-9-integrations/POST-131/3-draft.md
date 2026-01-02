@@ -4,7 +4,7 @@
 
 - Copper CRM is Google Workspace's recommended CRM, but needs phone integration to capture all leads
 - 74.1% of customer calls go unanswered, costing small businesses an average of $260,400 per year in lost revenue
-- Traditional phone integrations (CloudTalk, JustCall) require manual dialingNextPhone answers calls automatically with AI
+- Traditional phone integrations (CloudTalk, JustCall) require manual dialing—NextPhone answers calls automatically with AI
 - NextPhone integrates with Copper via HTTP webhooks, pushing call data in real-time as the AI gathers information
 - Small teams get 24/7 phone coverage without hiring staff, completing the Google Workspace ecosystem
 
@@ -32,7 +32,7 @@ According to Matthew Izaat, [Google Cloud Product Manager](https://www.copy.ai/g
 
 Small teams that chose Google Workspace over Microsoft or other ecosystems. Agencies, consulting firms, contractors, real estate agents. Typically 5-50 people. Teams that want powerful CRM features without leaving the Google tools they already use.
 
-[Copper CRM pricing](https://www.copper.com/pricing) starts at $25/user per month for the Basic plan. The Professional plan at $59/user per month includes third-party integrationswhich brings us to the phone problem.
+[Copper CRM pricing](https://www.copper.com/pricing) starts at $25/user per month for the Basic plan. The Professional plan at $59/user per month includes third-party integrations—which brings us to the phone problem.
 
 ## The Phone Call Gap
 
@@ -80,7 +80,7 @@ For outbound sales teams, this is efficient. No more typing in phone numbers. No
 
 Here's what these integrations don't solve: missed calls.
 
-CloudTalk, JustCall, and RingCentral are calling tools for when you're available to answer. They help you make calls and log them. But if you can't answerbecause you're on a ladder, in a meeting, or asleep at 9 PMthe call still goes to voicemail.
+CloudTalk, JustCall, and RingCentral are calling tools for when you're available to answer. They help you make calls and log them. But if you can't answer—because you're on a ladder, in a meeting, or asleep at 9 PM—the call still goes to voicemail.
 
 The lead is still lost.
 
@@ -213,7 +213,7 @@ The difference? AI answers automatically. Collects lead data. Logs everything to
 
 For small teams using Google Workspace, it completes the stack.
 
-Ready to stop missing calls? [Try NextPhone free for 14 days](https://getnextphone.com)integrates with Copper in minutes.
+Ready to stop missing calls? [Try NextPhone free for 14 days](https://getnextphone.com)—integrates with Copper in minutes.
 
 ---
 
