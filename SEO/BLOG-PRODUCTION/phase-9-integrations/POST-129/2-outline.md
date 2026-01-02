@@ -22,32 +22,32 @@
 8. How complex is the setup?
 
 **High-Level Section Flow:**
-- Key Takeaways ’ Quick value overview
-- Intro ’ Hook with missed call scenario from SOI contact
-- Section 1 ’ Contactually legacy (what it was, why it mattered)
-- Section 2 ’ The SOI problem for real estate agents
-- Section 3 ’ How phone + CRM integration solves this
-- Section 4 ’ NextPhone integration approach
-- FAQ ’ Address technical concerns
-- Conclusion ’ Recap & CTA
+- Key Takeaways ï¿½ Quick value overview
+- Intro ï¿½ Hook with missed call scenario from SOI contact
+- Section 1 ï¿½ Contactually legacy (what it was, why it mattered)
+- Section 2 ï¿½ The SOI problem for real estate agents
+- Section 3 ï¿½ How phone + CRM integration solves this
+- Section 4 ï¿½ NextPhone integration approach
+- FAQ ï¿½ Address technical concerns
+- Conclusion ï¿½ Recap & CTA
 
 ---
 
 ## 2.2 TOPIC COVERAGE CHECKLIST
 
 ### Table Stakes Topics (MUST Cover)
-- [x] What Contactually was ’ Will cover in: **Section 1**
-- [x] Sphere of influence concept ’ Will cover in: **Section 2**
-- [x] CRM integration benefits ’ Will cover in: **Section 3**
-- [x] Real estate workflow challenges ’ Will cover in: **Section 2**
-- [x] How integration works ’ Will cover in: **Section 4**
+- [x] What Contactually was ï¿½ Will cover in: **Section 1**
+- [x] Sphere of influence concept ï¿½ Will cover in: **Section 2**
+- [x] CRM integration benefits ï¿½ Will cover in: **Section 3**
+- [x] Real estate workflow challenges ï¿½ Will cover in: **Section 2**
+- [x] How integration works ï¿½ Will cover in: **Section 4**
 
 ### Differentiating Topics (SHOULD Cover to Beat Competitors)
-- [x] Contactually shutdown context ’ **Section 1**
-- [x] SOI degradation from missed callbacks ’ **Section 2**
-- [x] Real estate-specific missed call stats ’ **Section 2**
-- [x] HTTP webhook implementation ’ **Section 4**
-- [x] Current CRM alternatives ’ **Section 4**
+- [x] Contactually shutdown context ï¿½ **Section 1**
+- [x] SOI degradation from missed callbacks ï¿½ **Section 2**
+- [x] Real estate-specific missed call stats ï¿½ **Section 2**
+- [x] HTTP webhook implementation ï¿½ **Section 4**
+- [x] Current CRM alternatives ï¿½ **Section 4**
 
 ### Topics to Skip (And Why)
 - Technical API documentation - Reason: Too technical for target audience (agents, not developers)
@@ -89,7 +89,7 @@
 - Broader impact (weakened relationship)
 
 **Data/Stats to Include:**
-- 43% of buyers choose the first agent they reach
+- 78% of buyers choose the first agent who responds (CRITICAL HOOK STAT)
 
 **Transition:** This is the problem Contactually was built to solve. Here's what happenedand what works now.
 
@@ -147,12 +147,14 @@
 - Every missed callback = weakened relationship, lost referral opportunity
 
 **Data/Stats to Include:**
+- **External:** "Over 78% of property buyers choose the first agent who responds" - Moneypenny (LEAD WITH THIS)
+- **External:** "Nearly 70% of buyers and sellers engage with the first real estate agent they speak to" - Callyzer
 - **External:** "46% of calls to real estate agents go unanswered" - Zurple study
-- **External:** "87% of leads will never call back if unanswered" - Callin.io
+- **External:** "69% of callers who reach voicemail won't leave a message" - Callin.io
 - **External:** "80% of real estate teams say most deals come from their SOI" - Follow Up Boss
-- **External:** "33% of business from referrals, 34% from repeat" - RealOffice360
-- **Internal:** "25.4% of calls explicitly request callbacks"
-- **External:** "43% of buyers choose the first agent they speak with"
+- **External:** "33% of business from referrals, 34% from repeat business" - RealOffice360
+- **Internal:** "25.4% of calls explicitly request callbacks" - NextPhone data
+- **External:** "Missing 5 calls/month = $45,000 in annual lost commissions" - Callin.io
 
 **Examples/Quotes:**
 - Scenario: Past client calls for contractor referral, agent misses call, client asks different agent, relationship weakens
@@ -192,7 +194,7 @@
 - NextPhone: $199/month
 
 **Examples/Quotes:**
-- Example: Agent at showing ’ AI answers ’ captures callback request ’ logs to CRM ’ agent follows up later with full context
+- Example: Agent at showing ï¿½ AI answers ï¿½ captures callback request ï¿½ logs to CRM ï¿½ agent follows up later with full context
 
 **Links to Add:**
 - **Internal:** Link to AI Receptionist page with anchor text "AI receptionist"
@@ -222,10 +224,10 @@
 - Response time comparison: <5 seconds (AI) vs. 30+ seconds (traditional answering service)
 
 **Examples/Quotes:**
-- Example workflow: Call comes in ’ AI answers ’ collects info ’ sends to CRM via webhook ’ agent notified
+- Example workflow: Call comes in ï¿½ AI answers ï¿½ collects info ï¿½ sends to CRM via webhook ï¿½ agent notified
 - Template snippet (simplified):
   ```
-  When call ends ’ POST to CRM:
+  When call ends ï¿½ POST to CRM:
   - contact_name: {{caller_name}}
   - phone: {{caller_number}}
   - message: {{call_summary}}
@@ -355,7 +357,7 @@
 - The tool has changed, but the goal remains: never miss a touchpoint
 
 **CTA:**
-"Stop missing calls from your sphere. Try NextPhone free for 14 days ’"
+"Stop missing calls from your sphere. Try NextPhone free for 14 days ï¿½"
 
 ---
 
@@ -367,7 +369,7 @@
 |-----------|------|---------|-------------|----------|
 | Hero | Stock photo | Relatability | Real estate agent on phone during property showing | "Real estate agent answering call during home showing" |
 | Section 2 | Bar chart | Show problem data | Chart: 46% of RE calls unanswered, 87% won't call back | "Chart showing real estate agents miss 46% of calls" |
-| Section 4 | Flowchart | Explain process | Call ’ AI ’ Webhook ’ CRM flow | "Flowchart: NextPhone call to CRM integration via HTTP webhook" |
+| Section 4 | Flowchart | Explain process | Call ï¿½ AI ï¿½ Webhook ï¿½ CRM flow | "Flowchart: NextPhone call to CRM integration via HTTP webhook" |
 
 **Total visuals needed:** 3
 **Notes:** All images <200KB WebP, alt text includes keywords
@@ -406,9 +408,9 @@
 
 | Placement | Type | Copy | Link |
 |-----------|------|------|------|
-| After Key Takeaways | Soft | "See how NextPhone preserves SOI relationships ’" | How It Works page |
-| After Section 4 | Mid | "Stop missing calls from your sphere ’" | Demo page |
-| Conclusion | Hard | "Try NextPhone free for 14 days ’" | Trial signup page |
+| After Key Takeaways | Soft | "See how NextPhone preserves SOI relationships ï¿½" | How It Works page |
+| After Section 4 | Mid | "Stop missing calls from your sphere ï¿½" | Demo page |
+| Conclusion | Hard | "Try NextPhone free for 14 days ï¿½" | Trial signup page |
 
 **Total CTAs:** 3 (soft, mid, hard)
 
@@ -455,7 +457,7 @@
 
 **Technical:**
 - [x] Only ONE H1 (title)
-- [x] H2 ’ H3 hierarchy proper
+- [x] H2 ï¿½ H3 hierarchy proper
 - [x] Primary keyword in: Title, intro, H2s
 - [x] Semantic keywords distributed
 
