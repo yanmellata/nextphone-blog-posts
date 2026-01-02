@@ -124,11 +124,11 @@
 - Use In: SOI importance section
 
 **Source 5:** Industry Behavior
-- Title: "Realtor Lead Follow Up Response Time"
-- URL: https://agentsboost.com/realtor-lead-follow-up-response-time-does-it-really-matter/
-- Key Stat: "43% of buyers choose the first agent they speak with"
+- Title: "Why Missed Calls Cost Realtors More"
+- URL: https://www.moneypenny.com/us/resources/blog/why-missed-calls-cost-realtors-more-in-winter-than-in-summer/
+- Key Stat: "Over 78% of property buyers choose the first agent who responds to their inquiry" and "Nearly 70% of buyers and sellers engage with the first real estate agent they speak to"
 - Published: 2024
-- Use In: Speed to answer importance
+- Use In: Speed to answer importance (CRITICAL STAT)
 
 **Source 6:** Company Announcement
 - Title: "Contactually Closed March 31, 2022"
@@ -140,22 +140,36 @@
 **Source 7:** Real Estate Insights
 - Title: "The Realtor's Guide to Working Your Sphere of Influence in 2025"
 - URL: https://realoffice360.com/crm-blog-for-realtors/the-realtors-guide-to-working-your-sphere-of-influence
-- Key Stat: "Agents making more than $100,000/year get nearly one-third of business from referrals and 34% from repeat business"
+- Key Stat: "Agents making more than $100,000/year get nearly one-third of business from referrals and 34% from repeat business" and "24-36 touchpoints per year recommended by Coach Tom Ferry"
 - Published: 2025
 - Use In: SOI value proposition
+
+**Source 8:** Financial Impact
+- Title: "Best Answering Service for Real Estate: Never Miss a Lead Again"
+- URL: https://callin.io/best-answering-service-for-real-estate-never-miss-a-lead-again/
+- Key Stat: "If each missed client represents $10,000 in commission, missing five calls a month means $45,000 in lost revenue" and "69% of callers who reach voicemail won't leave a message"
+- Published: 2025
+- Use In: ROI calculations section (HOOK POTENTIAL)
+
+**Source 9:** Lead Nurturing
+- Title: "The True Cost of Poor Lead Nurturing and CRM Neglect"
+- URL: https://www.nurtureworq.com/blogs/post/how-real-estate-agents-lose-thousands-the-true-cost-of-poor-lead-nurturing-and-crm-neglect
+- Key Stat: "48% of buyer leads never receive a response" and "If you don't follow up within five minutes, your chances of closing that lead drop by 80%"
+- Published: 2024
+- Use In: Response time criticality
 
 ---
 
 ## 1.5 INTERNAL DATA (NextPhone Factbase)
 
 **Core Stats:**
-- 74.1% missed calls ’ Use in: Problem section (real estate agents miss calls during showings)
-- 25.4% callbacks requested ’ Use in: SOI follow-up section (every missed callback = weakened relationship)
-- 15.9% urgency ’ Use in: Emergency routing (urgent property inquiries)
+- 74.1% missed calls ï¿½ Use in: Problem section (real estate agents miss calls during showings)
+- 25.4% callbacks requested ï¿½ Use in: SOI follow-up section (every missed callback = weakened relationship)
+- 15.9% urgency ï¿½ Use in: Emergency routing (urgent property inquiries)
 - Real estate customer data: 1 agent in dataset, 73% yearly subscription (high LTV)
 
 **Customer Quotes:**
-1. "I didn't even know I was missing that many calls until I saw the data. I just thought business was slow." - Plumber ’ Adapt for real estate context
+1. "I didn't even know I was missing that many calls until I saw the data. I just thought business was slow." - Plumber ï¿½ Adapt for real estate context
 2. Use general quote about answering in <5 seconds
 
 **Industry Examples:**
@@ -166,8 +180,11 @@
 **ROI Calculations:**
 - Real estate agent receives 50 calls/mo (mix of leads + SOI contacts)
 - 46% unanswered (industry stat) = 23 missed calls/mo
-- If just 10% are qualified leads at $10,000 average commission = **$23,000/mo lost**
-- AI cost: $199/mo ’ **ROI: 11,456%**
+- Industry data: $10,000 average commission per closed deal
+- If just 5 calls/month could have converted = **$45,000+ annual loss** (Source: Callin.io)
+- With 78% buyers choosing first responder, missing calls = competitive disadvantage
+- AI cost: $199/mo ($2,388/year) = **ROI: 1,784%** if captures just ONE extra deal/year
+- More realistic: Capturing 2-3 deals/year = **$20,000-30,000 value** from $199/mo investment
 
 **How to Cite:**
  "In our analysis of customer service calls across small businesses, 74.1% went unanswered..."
@@ -191,7 +208,7 @@
 
 3. **Real Estate-Specific Data** - Competitors: Generic CRM benefits, We'll do: 46% of real estate calls unanswered, 87% won't call back, 43% choose first agent they reach, $100K/year lost to missed calls
 
-4. **Practical HTTP Webhook Integration** - Competitors: "Integrations available" with no details, We'll do: Show exact approach - NextPhone HTTP webhooks ’ any CRM (FollowUpBoss, LionDesk, etc.) with template example
+4. **Practical HTTP Webhook Integration** - Competitors: "Integrations available" with no details, We'll do: Show exact approach - NextPhone HTTP webhooks ï¿½ any CRM (FollowUpBoss, LionDesk, etc.) with template example
 
 5. **Long-term Relationship Focus** - Competitors: Focus on lead capture, We'll do: Emphasize SOI nurturing, repeat business (34% of top agents' business), referral generation (33% of $100K+ agents)
 
@@ -235,7 +252,7 @@
 **Visuals:**
 - Hero image: Real estate agent on phone during showing
 - Chart 1: Real estate missed call statistics (46% unanswered)
-- Diagram: HTTP webhook flow (NextPhone ’ CRM)
+- Diagram: HTTP webhook flow (NextPhone ï¿½ CRM)
 
 **Internal Links:**
 - HTTP Webhooks feature page - Why: Explain technical capability
@@ -249,9 +266,9 @@
 - Callin.io stats (87% won't call back) - Section: Call abandonment
 
 **CTAs:**
-- Soft: "See how NextPhone preserves SOI relationships ’"
-- Mid: "Stop missing calls from your sphere ’"
-- Hard: "Try NextPhone free for 14 days ’"
+- Soft: "See how NextPhone preserves SOI relationships ï¿½"
+- Mid: "Stop missing calls from your sphere ï¿½"
+- Hard: "Try NextPhone free for 14 days ï¿½"
 
 ---
 

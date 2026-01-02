@@ -26,13 +26,13 @@
 
 | Phase | Total Posts | Research Done | Outline Done | Draft Done | QA Done | Published |
 |-------|-------------|---------------|--------------|------------|---------|-----------|
-| Phase 9: Integrations | 76 | 15 | 15 | 14 | 0 | 0 |
+| Phase 9: Integrations | 76 | 18 | 18 | 17 | 0 | 0 |
 | Phase 10: Features | 23 | 0 | 0 | 0 | 0 | 0 |
 | Phase 11: Competitors | 14 | 0 | 0 | 0 | 0 | 0 |
 | Phase 12: Workflows | 15 | 0 | 0 | 0 | 0 | 0 |
 | Phase 13: Setup | 12 | 0 | 0 | 0 | 0 | 0 |
 | Phase 14: Trust+Optimization | 17 | 0 | 0 | 0 | 0 | 0 |
-| **Wave 2 TOTAL** | **157** | **0** | **0** | **0** | **0** | **0** |
+| **Wave 2 TOTAL** | **157** | **15** | **15** | **14** | **0** | **0** |
 
 ### Grand Total: 276 Posts (119 Complete + 157 In Production)
 
@@ -291,6 +291,23 @@
 | POST-135 | Connect NextPhone to Calendly | Calendly integration | High | 2000-2500 | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | - | Row 17 CSV |
 | POST-136 | NextPhone Google Calendar Integration | Google Calendar sync | High | 2000-2500 | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | - | Row 18 CSV |
 | POST-137 | Outlook Calendar AI Appointment Sync | Outlook Calendar integration | High | 2000-2500 | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | - | Row 19 CSV |
+| POST-138 | Apple Calendar (iCloud) Integration | Apple Calendar sync | Medium | 1500-2000 | ✅ | ✅ | ✅ | ⏳ | ⏳ | Claude | Row 20 CSV - Draft: 3,505 words |
+| POST-139 | Cal.com + AI Receptionist Integration | Cal.com integration | Medium | 1500-2000 | ✅ | ✅ | ✅ | ⏳ | ⏳ | Claude | Row 21 CSV - Draft: 3,559 words |
+| POST-140 | Acuity Scheduling Phone Integration | Acuity Scheduling integration | Medium | 1500-2000 | ✅ | ✅ | ✅ | ⏳ | ⏳ | Claude | Row 22 CSV - Draft: 4,626 words |
+| POST-141 | Zapier + NextPhone Automation | Zapier phone automation | High | 2000-2500 | ✅ | ✅ | ✅ | ⏳ | ⏳ | Claude | Row 23 CSV - Draft: 3,705 words |
+| POST-142 | Make.com AI Receptionist Automation | Make.com integration | Medium | 1500-2000 | ✅ | ✅ | ✅ | ⏳ | ⏳ | Claude | Row 24 CSV - Draft: 3,120 words |
+| POST-143 | n8n + NextPhone Integration | n8n integration | Low | 1000-1500 | ✅ | ✅ | ✅ | ⏳ | ⏳ | Claude | Row 25 CSV - Draft: 1,639 words |
+| POST-144 | Verizon Business Phone + AI Integration | Verizon Business integration | High | 2000-2500 | ✅ | ✅ | ✅ | ⏳ | ⏳ | Claude | Row 26 CSV - Draft: 2,450 words |
+| POST-128 | LionDesk Real Estate CRM + NextPhone | LionDesk integration | Medium | 1500-2000 | ✅ | ✅ | ✅ | ⏳ | ⏳ | Claude | Row 10 CSV - Draft: 2,051 words |
+| POST-129 | Contactually + NextPhone Integration | Contactually integration | Low | 1000-1500 | ✅ | ✅ | ✅ | ⏳ | ⏳ | Claude | Row 11 CSV - Draft: 1,420 words |
+| POST-130 | Monday.com + NextPhone Integration | Monday.com integration | Medium | 1500-2000 | ✅ | ✅ | ✅ | ⏳ | ⏳ | Claude | Row 12 CSV - Draft: 3,545 words |
+| POST-131 | Copper CRM + NextPhone Integration | Copper CRM integration | Low | 1000-1500 | ✅ | ✅ | ✅ | ⏳ | ⏳ | Claude | Row 13 CSV - Draft: 1,793 words |
+| POST-132 | Insightly CRM + NextPhone Integration | Insightly integration | Low | 1000-1500 | ✅ | ✅ | ✅ | ⏳ | ⏳ | Claude | Row 14 CSV - Draft: 1,450 words |
+| POST-133 | Capsule CRM + NextPhone Integration | Capsule integration | Low | 1000-1500 | ✅ | ✅ | ✅ | ⏳ | ⏳ | Claude | Row 15 CSV - Draft: 2,091 words |
+| POST-134 | Freshsales + NextPhone Integration | Freshsales integration | Medium | 1500-2000 | ✅ | ✅ | ✅ | ⏳ | ⏳ | Claude | Row 16 CSV - Draft: 3,109 words |
+| POST-135 | Connect NextPhone to Calendly | Calendly integration | High | 2000-2500 | ✅ | ✅ | ✅ | ⏳ | ⏳ | Claude | Row 17 CSV - Draft: 4,060 words |
+| POST-136 | NextPhone Google Calendar Integration | Google Calendar sync | High | 2000-2500 | ✅ | ✅ | ✅ | ⏳ | ⏳ | Claude | Row 18 CSV - Draft: 3,424 words |
+| POST-137 | Outlook Calendar AI Appointment Sync | Outlook Calendar integration | High | 2000-2500 | ✅ | ✅ | ✅ | ⏳ | ⏳ | Claude | Row 19 CSV - Draft: 4,236 words |
 | POST-138 | Apple Calendar (iCloud) Integration | Apple Calendar sync | Medium | 1500-2000 | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | - | Row 20 CSV |
 | POST-139 | Cal.com + AI Receptionist Integration | Cal.com integration | Medium | 1500-2000 | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | - | Row 21 CSV |
 | POST-140 | Acuity Scheduling Phone Integration | Acuity Scheduling integration | Medium | 1500-2000 | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | - | Row 22 CSV |
