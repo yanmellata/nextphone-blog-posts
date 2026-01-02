@@ -365,7 +365,7 @@
 | POST-192 | Route4Me + NextPhone Integration | Route4Me integration | Low | 1000-1500 | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | - | Row 74 CSV |
 | POST-193 | AI Receptionist API Tutorial | AI receptionist API integration | Medium | 1500-2000 | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | - | Row 75 CSV |
 | POST-194 | Webhook Setup Guide | webhook integration guide | Medium | 1500-2000 | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | - | Row 76 CSV |
-| POST-195 | Build Custom AI Integrations | custom integration development | Low | 1000-1500 | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | - | Row 77 CSV |
+| POST-195 | Build Custom AI Integrations | custom integration development | Low | 1000-1500 | ✅ | ✅ | ✅ | ⏳ | ⏳ | Claude | Row 77 CSV - Draft: 1,582 words |
 
 ---
 
