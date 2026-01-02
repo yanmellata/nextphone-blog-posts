@@ -1,6 +1,6 @@
 # Blog Production Tracker
 
-**Last Updated:** December 24, 2025
+**Last Updated:** January 2, 2026
 
 **Overview:** Track progress on all 276 blog posts (119 Wave 1 complete + 157 Wave 2 in production)
 
@@ -26,7 +26,7 @@
 
 | Phase | Total Posts | Research Done | Outline Done | Draft Done | QA Done | Published |
 |-------|-------------|---------------|--------------|------------|---------|-----------|
-| Phase 9: Integrations | 76 | 8 | 8 | 7 | 0 | 0 |
+| Phase 9: Integrations | 76 | 15 | 15 | 14 | 0 | 0 |
 | Phase 10: Features | 23 | 0 | 0 | 0 | 0 | 0 |
 | Phase 11: Competitors | 14 | 0 | 0 | 0 | 0 | 0 |
 | Phase 12: Workflows | 15 | 0 | 0 | 0 | 0 | 0 |
@@ -340,13 +340,13 @@
 | POST-184 | Asana + NextPhone Integration | Asana integration | Low | 1000-1500 | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | - | Row 66 CSV |
 | POST-185 | Trello + NextPhone Integration | Trello integration | Low | 1000-1500 | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | - | Row 67 CSV |
 | POST-186 | ClickUp + NextPhone Integration | ClickUp integration | Low | 1000-1500 | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | - | Row 68 CSV |
-| POST-187 | Mailchimp + NextPhone Integration | Mailchimp integration | Medium | 1500-2000 | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | - | Row 69 CSV |
-| POST-188 | ActiveCampaign + NextPhone | ActiveCampaign integration | Low | 1000-1500 | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | - | Row 70 CSV |
-| POST-189 | Constant Contact + NextPhone | Constant Contact integration | Low | 1000-1500 | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | - | Row 71 CSV |
-| POST-190 | Towbook + NextPhone Integration | Towbook integration | Low | 1000-1500 | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | - | Row 72 CSV |
-| POST-191 | Samsara + NextPhone Integration | Samsara integration | Low | 1000-1500 | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | - | Row 73 CSV |
-| POST-192 | Route4Me + NextPhone Integration | Route4Me integration | Low | 1000-1500 | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | - | Row 74 CSV |
-| POST-193 | AI Receptionist API Tutorial | AI receptionist API integration | Medium | 1500-2000 | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | - | Row 75 CSV |
+| POST-187 | Mailchimp + NextPhone Integration | Mailchimp integration | Medium | 1500-2000 | ✅ | ✅ | ✅ | ⏳ | ⏳ | Claude | Row 69 CSV - 3,145 words |
+| POST-188 | ActiveCampaign + NextPhone | ActiveCampaign integration | Low | 1000-1500 | ✅ | ✅ | ✅ | ⏳ | ⏳ | Claude | Row 70 CSV - 1,920 words |
+| POST-189 | Constant Contact + NextPhone | Constant Contact integration | Low | 1000-1500 | ✅ | ✅ | ✅ | ⏳ | ⏳ | Claude | Row 71 CSV - ~1,500 words |
+| POST-190 | Towbook + NextPhone Integration | Towbook integration | Low | 1000-1500 | ✅ | ✅ | ✅ | ⏳ | ⏳ | Claude | Row 72 CSV - ~1,500 words |
+| POST-191 | Samsara + NextPhone Integration | Samsara integration | Low | 1000-1500 | ✅ | ✅ | ✅ | ⏳ | ⏳ | Claude | Row 73 CSV - ~1,500 words |
+| POST-192 | Route4Me + NextPhone Integration | Route4Me integration | Low | 1000-1500 | ✅ | ✅ | ✅ | ⏳ | ⏳ | Claude | Row 74 CSV - ~1,500 words |
+| POST-193 | AI Receptionist API Tutorial | AI receptionist API integration | Medium | 1500-2000 | ✅ | ✅ | ✅ | ⏳ | ⏳ | Claude | Row 75 CSV - ~1,600 words |
 | POST-194 | Webhook Setup Guide | webhook integration guide | Medium | 1500-2000 | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | - | Row 76 CSV |
 | POST-195 | Build Custom AI Integrations | custom integration development | Low | 1000-1500 | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | - | Row 77 CSV |
 
