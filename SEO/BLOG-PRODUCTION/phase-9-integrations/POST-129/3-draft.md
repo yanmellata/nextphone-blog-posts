@@ -3,7 +3,7 @@
 **Key Takeaways:**
 
 - Contactually shut down in 2022, but the need for relationship-focused real estate CRM remains critical
-- Real estate agents miss 46% of calls, and 87% of callers won't call back - devastating for sphere of influence relationships
+- Real estate agents miss 46% of calls, and 69% who reach voicemail won't leave a message - devastating for sphere of influence relationships
 - Every missed callback request (25.4% of calls) weakens SOI relationships that generate 80% of deals
 - NextPhone + CRM integration captures every call and logs it automatically via HTTP webhooks
 - Works with Follow Up Boss, LionDesk, and other modern real estate CRMs using the same approach Contactually would have used
@@ -14,7 +14,7 @@ Your phone rings. It's a past client - someone you helped buy their first home t
 
 But you're showing a property. You can't answer. The call goes to voicemail.
 
-They don't leave a message. They call another agent they know. [Research shows that 43% of buyers choose the first agent they speak with](https://agentsboost.com/realtor-lead-follow-up-response-time-does-it-really-matter/). You just lost a referral - and weakened a relationship you spent years building.
+They don't leave a message. They call another agent they know. [Research shows that over 78% of property buyers choose the first agent who responds to their inquiry](https://www.moneypenny.com/us/resources/blog/why-missed-calls-cost-realtors-more-in-winter-than-in-summer/). You just lost a referral - and weakened a relationship you spent years building.
 
 This is the problem Contactually was built to solve. Here's what happened to Contactually - and what works now.
 
@@ -28,7 +28,7 @@ The platform organized contacts into "buckets" based on relationship strength - 
 
 ### Why It Mattered for Real Estate
 
-Real estate is a relationship business. Your sphere of influence - family, friends, past clients, professional contacts - generates the majority of your deals. According to [Follow Up Boss research](https://www.followupboss.com/blog/spheres-influence), 80% of real estate teams say most of their business comes from their SOI. [Agents making more than $100,000 per year](https://realoffice360.com/crm-blog-for-realtors/the-realtors-guide-to-working-your-sphere-of-influence) get nearly one-third of their business from referrals and 34% from repeat business.
+Real estate is a relationship business. Your sphere of influence - family, friends, past clients, professional contacts - generates the majority of your deals. According to [Follow Up Boss research](https://www.followupboss.com/blog/spheres-influence), 80% of real estate teams say most of their business comes from their SOI. [Agents making more than $100,000 per year](https://realoffice360.com/crm-blog-for-realtors/the-realtors-guide-to-working-your-sphere-of-influence) get nearly one-third of their business from referrals and 34% from repeat business. These relationships require 24-36 touchpoints per year - and every missed call is a missed touchpoint.
 
 Contactually understood this. The platform integrated with 60+ tools, tracked every email and interaction, and made sure no relationship fell through the cracks. It was relationship CRM done right.
 
@@ -62,7 +62,7 @@ Here's the brutal truth: You can't answer your phone when you're:
 
 And the data shows this happens constantly. [Industry research reveals](https://blog.zurple.com/-zurple-research-reveals-average-real-estate-lead-response-time) that 46% of calls to real estate agents go unanswered. Nearly half of the people trying to reach you get voicemail instead.
 
-The response? [87% of leads will never call back](https://callin.io/best-answering-service-for-real-estate-never-miss-a-lead-again/) if their first call goes unanswered. They move on to the next agent.
+What happens next? [69% of callers who reach voicemail won't leave a message](https://callin.io/best-answering-service-for-real-estate-never-miss-a-lead-again/) - they call the next agent on their list. If each missed client represents $10,000 in commission, missing just five calls per month means $45,000 in lost revenue over the year.
 
 In our analysis of customer service calls across small businesses, we found that 74.1% went completely unanswered. That's three out of every four callers reaching out to someone else.
 
@@ -186,7 +186,7 @@ The platform shut down in 2022, but the need remains. You still can't answer you
 
 The agents who thrive aren't the ones with the biggest marketing budgets. They're the ones who never miss a call from their sphere.
 
-Ready to stop missing calls from your sphere? [Try NextPhone free for 14 days](https://getnextphone.com/signup) ’
+Ready to stop missing calls from your sphere? [Try NextPhone free for 14 days](https://getnextphone.com/signup) ï¿½
 
 ---
 
@@ -204,10 +204,10 @@ Ready to stop missing calls from your sphere? [Try NextPhone free for 14 days](h
 
 **Sources:**
 
+- [Why Missed Calls Cost Realtors More](https://www.moneypenny.com/us/resources/blog/why-missed-calls-cost-realtors-more-in-winter-than-in-summer/)
 - [Contactually Closed March 31, 2022](https://www.contactually.com/shutdown)
 - [Zurple Research: Real Estate Lead Response Time](https://blog.zurple.com/-zurple-research-reveals-average-real-estate-lead-response-time)
-- [Speed to Lead Real Estate: Your Response Time Matters](https://www.calldrip.com/blog/speed-to-lead-real-estate)
 - [Best answering service for real estate: Never Miss a Lead Again](https://callin.io/best-answering-service-for-real-estate-never-miss-a-lead-again/)
 - [How to work your real estate SOI to build the ultimate referral machine](https://www.followupboss.com/blog/spheres-influence)
-- [Realtor Lead Follow Up Response Time](https://agentsboost.com/realtor-lead-follow-up-response-time-does-it-really-matter/)
 - [The Realtor's Guide to Working Your Sphere of Influence in 2025](https://realoffice360.com/crm-blog-for-realtors/the-realtors-guide-to-working-your-sphere-of-influence)
+- [The True Cost of Poor Lead Nurturing and CRM Neglect](https://www.nurtureworq.com/blogs/post/how-real-estate-agents-lose-thousands-the-true-cost-of-poor-lead-nurturing-and-crm-neglect)
