@@ -32,7 +32,7 @@
 | Phase 12: Workflows | 15 | 0 | 0 | 0 | 0 | 0 |
 | Phase 13: Setup | 12 | 0 | 0 | 0 | 0 | 0 |
 | Phase 14: Trust+Optimization | 17 | 0 | 0 | 0 | 0 | 0 |
-| **Wave 2 TOTAL** | **157** | **0** | **0** | **0** | **0** | **0** |
+| **Wave 2 TOTAL** | **157** | **15** | **15** | **14** | **0** | **0** |
 
 ### Grand Total: 276 Posts (119 Complete + 157 In Production)
 
@@ -281,6 +281,23 @@
 | POST-125 | Airtable + NextPhone Integration | Airtable integration | High | 2000-2500 | ✅ | ✅ | ✅ | ⏳ | ⏳ | Claude | Row 7 CSV |
 | POST-126 | HighLevel CRM + NextPhone Integration | HighLevel integration | Medium | 1500-2000 | ✅ | ✅ | ✅ | ⏳ | ⏳ | Claude | Row 8 CSV |
 | POST-127 | Follow Up Boss + AI Receptionist | Follow Up Boss AI integration | High | 2000-2500 | ✅ | ✅ | ⏳ | ⏳ | ⏳ | Claude | Row 9 CSV |
+| POST-128 | LionDesk Real Estate CRM + NextPhone | LionDesk integration | Medium | 1500-2000 | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | - | Row 10 CSV |
+| POST-129 | Contactually + NextPhone Integration | Contactually integration | Low | 1000-1500 | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | - | Row 11 CSV |
+| POST-130 | Monday.com + NextPhone Integration | Monday.com integration | Medium | 1500-2000 | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | - | Row 12 CSV |
+| POST-131 | Copper CRM + NextPhone Integration | Copper CRM integration | Low | 1000-1500 | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | - | Row 13 CSV |
+| POST-132 | Insightly CRM + NextPhone Integration | Insightly integration | Low | 1000-1500 | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | - | Row 14 CSV |
+| POST-133 | Capsule CRM + NextPhone Integration | Capsule integration | Low | 1000-1500 | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | - | Row 15 CSV |
+| POST-134 | Freshsales + NextPhone Integration | Freshsales integration | Medium | 1500-2000 | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | - | Row 16 CSV |
+| POST-135 | Connect NextPhone to Calendly | Calendly integration | High | 2000-2500 | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | - | Row 17 CSV |
+| POST-136 | NextPhone Google Calendar Integration | Google Calendar sync | High | 2000-2500 | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | - | Row 18 CSV |
+| POST-137 | Outlook Calendar AI Appointment Sync | Outlook Calendar integration | High | 2000-2500 | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | - | Row 19 CSV |
+| POST-138 | Apple Calendar (iCloud) Integration | Apple Calendar sync | Medium | 1500-2000 | ✅ | ✅ | ✅ | ⏳ | ⏳ | Claude | Row 20 CSV - Draft: 3,505 words |
+| POST-139 | Cal.com + AI Receptionist Integration | Cal.com integration | Medium | 1500-2000 | ✅ | ✅ | ✅ | ⏳ | ⏳ | Claude | Row 21 CSV - Draft: 3,559 words |
+| POST-140 | Acuity Scheduling Phone Integration | Acuity Scheduling integration | Medium | 1500-2000 | ✅ | ✅ | ✅ | ⏳ | ⏳ | Claude | Row 22 CSV - Draft: 4,626 words |
+| POST-141 | Zapier + NextPhone Automation | Zapier phone automation | High | 2000-2500 | ✅ | ✅ | ✅ | ⏳ | ⏳ | Claude | Row 23 CSV - Draft: 3,705 words |
+| POST-142 | Make.com AI Receptionist Automation | Make.com integration | Medium | 1500-2000 | ✅ | ✅ | ✅ | ⏳ | ⏳ | Claude | Row 24 CSV - Draft: 3,120 words |
+| POST-143 | n8n + NextPhone Integration | n8n integration | Low | 1000-1500 | ✅ | ✅ | ✅ | ⏳ | ⏳ | Claude | Row 25 CSV - Draft: 1,639 words |
+| POST-144 | Verizon Business Phone + AI Integration | Verizon Business integration | High | 2000-2500 | ✅ | ✅ | ✅ | ⏳ | ⏳ | Claude | Row 26 CSV - Draft: 2,450 words |
 | POST-128 | LionDesk Real Estate CRM + NextPhone | LionDesk integration | Medium | 1500-2000 | ✅ | ✅ | ✅ | ⏳ | ⏳ | Claude | Row 10 CSV - Draft: 2,051 words |
 | POST-129 | Contactually + NextPhone Integration | Contactually integration | Low | 1000-1500 | ✅ | ✅ | ✅ | ⏳ | ⏳ | Claude | Row 11 CSV - Draft: 1,420 words |
 | POST-130 | Monday.com + NextPhone Integration | Monday.com integration | Medium | 1500-2000 | ✅ | ✅ | ✅ | ⏳ | ⏳ | Claude | Row 12 CSV - Draft: 3,545 words |
