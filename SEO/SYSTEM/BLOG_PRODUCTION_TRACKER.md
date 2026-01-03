@@ -1,6 +1,6 @@
 # Blog Production Tracker
 
-**Last Updated:** January 2, 2026
+**Last Updated:** January 3, 2026
 
 **Overview:** Track progress on all 276 blog posts (119 Wave 1 complete + 157 Wave 2 in production)
 
@@ -26,13 +26,13 @@
 
 | Phase | Total Posts | Research Done | Outline Done | Draft Done | QA Done | Published |
 |-------|-------------|---------------|--------------|------------|---------|-----------|
-| Phase 9: Integrations | 76 | 76 | 76 | 76 | 0 | 0 |
-| Phase 10: Features | 23 | 16 | 16 | 16 | 0 | 0 |
+| Phase 9: Integrations | 76 | 76 | 76 | 76 | 76 | 0 |
+| Phase 10: Features | 23 | 16 | 16 | 16 | 16 | 0 |
 | Phase 11: Competitors | 14 | 0 | 0 | 0 | 0 | 0 |
 | Phase 12: Workflows | 15 | 0 | 0 | 0 | 0 | 0 |
 | Phase 13: Setup | 12 | 0 | 0 | 0 | 0 | 0 |
 | Phase 14: Trust+Optimization | 17 | 0 | 0 | 0 | 0 | 0 |
-| **Wave 2 TOTAL** | **157** | **92** | **92** | **92** | **0** | **0** |
+| **Wave 2 TOTAL** | **157** | **92** | **92** | **92** | **92** | **0** |
 
 ### Grand Total: 276 Posts (119 Complete + 157 In Production)
 
@@ -273,82 +273,82 @@
 
 | Post # | Title | Primary Keyword | Priority | Word Count | Research | Outline | Draft | QA | Published | Assignee | Notes |
 | -------- | ------- | --------- | -------- | ------------ | ---------- | --------- | ------- | ----- | ----------- | ---------- | ------- |
-| POST-120 | [HUB] Integration Guide: Connect AI Receptionist to Your Tech Stack | integration guide AI receptionist | High | 5000-6000 | ✅ | ✅ | ✅ | ⏳ | ⏳ | Claude | MEGA HUB - Row 2 CSV - Draft: 9,369 words |
-| POST-121 | How to Integrate NextPhone with HubSpot CRM | HubSpot integration guide | High | 2000-2500 | ✅ | ✅ | ✅ | ⏳ | ⏳ | Claude | Row 3 CSV - Draft: 4,257 words |
-| POST-122 | NextPhone Salesforce Integration | Salesforce integration | High | 2000-2500 | ✅ | ✅ | ✅ | ⏳ | ⏳ | Claude | Row 4 CSV - Draft: 5,094 words |
-| POST-123 | Integrate Answering Service with Pipedrive | Pipedrive call integration | High | 2000-2500 | ✅ | ✅ | ✅ | ⏳ | ⏳ | Claude | Row 5 CSV |
-| POST-124 | Zoho CRM Phone Integration | Zoho CRM phone integration | High | 2000-2500 | ✅ | ✅ | ✅ | ⏳ | ⏳ | Claude | Row 6 CSV |
-| POST-125 | Airtable + NextPhone Integration | Airtable integration | High | 2000-2500 | ✅ | ✅ | ✅ | ⏳ | ⏳ | Claude | Row 7 CSV |
-| POST-126 | HighLevel CRM + NextPhone Integration | HighLevel integration | Medium | 1500-2000 | ✅ | ✅ | ✅ | ⏳ | ⏳ | Claude | Row 8 CSV |
-| POST-127 | Follow Up Boss + AI Receptionist | Follow Up Boss AI integration | High | 2000-2500 | ✅ | ✅ | ✅ | ⏳ | ⏳ | Claude | Row 9 CSV - Draft done |
-| POST-128 | LionDesk Real Estate CRM + NextPhone | LionDesk integration | Medium | 1500-2000 | ✅ | ✅ | ✅ | ⏳ | ⏳ | Claude | Row 10 CSV - Draft: 2,051 words |
-| POST-129 | Contactually + NextPhone Integration | Contactually integration | Low | 1000-1500 | ✅ | ✅ | ✅ | ⏳ | ⏳ | Claude | Row 11 CSV - Draft: 1,420 words |
-| POST-130 | Monday.com + NextPhone Integration | Monday.com integration | Medium | 1500-2000 | ✅ | ✅ | ✅ | ⏳ | ⏳ | Claude | Row 12 CSV - Draft: 3,545 words |
-| POST-131 | Copper CRM + NextPhone Integration | Copper CRM integration | Low | 1000-1500 | ✅ | ✅ | ✅ | ⏳ | ⏳ | Claude | Row 13 CSV - Draft: 1,793 words |
-| POST-132 | Insightly CRM + NextPhone Integration | Insightly integration | Low | 1000-1500 | ✅ | ✅ | ✅ | ⏳ | ⏳ | Claude | Row 14 CSV - Draft: 1,450 words |
-| POST-133 | Capsule CRM + NextPhone Integration | Capsule integration | Low | 1000-1500 | ✅ | ✅ | ✅ | ⏳ | ⏳ | Claude | Row 15 CSV - Draft: 2,091 words |
-| POST-134 | Freshsales + NextPhone Integration | Freshsales integration | Medium | 1500-2000 | ✅ | ✅ | ✅ | ⏳ | ⏳ | Claude | Row 16 CSV - Draft: 3,109 words |
-| POST-135 | Connect NextPhone to Calendly | Calendly integration | High | 2000-2500 | ✅ | ✅ | ✅ | ⏳ | ⏳ | Claude | Row 17 CSV - Draft: 4,060 words |
-| POST-136 | NextPhone Google Calendar Integration | Google Calendar sync | High | 2000-2500 | ✅ | ✅ | ✅ | ⏳ | ⏳ | Claude | Row 18 CSV - Draft: 3,424 words |
-| POST-137 | Outlook Calendar AI Appointment Sync | Outlook Calendar integration | High | 2000-2500 | ✅ | ✅ | ✅ | ⏳ | ⏳ | Claude | Row 19 CSV - Draft: 4,236 words |
-| POST-138 | Apple Calendar (iCloud) Integration | Apple Calendar sync | Medium | 1500-2000 | ✅ | ✅ | ✅ | ⏳ | ⏳ | Claude | Row 20 CSV - Draft: 3,505 words |
-| POST-139 | Cal.com + AI Receptionist Integration | Cal.com integration | Medium | 1500-2000 | ✅ | ✅ | ✅ | ⏳ | ⏳ | Claude | Row 21 CSV - Draft: 3,559 words |
-| POST-140 | Acuity Scheduling Phone Integration | Acuity Scheduling integration | Medium | 1500-2000 | ✅ | ✅ | ✅ | ⏳ | ⏳ | Claude | Row 22 CSV - Draft: 4,626 words |
-| POST-141 | Zapier + NextPhone Automation | Zapier phone automation | High | 2000-2500 | ✅ | ✅ | ✅ | ⏳ | ⏳ | Claude | Row 23 CSV - Draft: 3,705 words |
-| POST-142 | Make.com AI Receptionist Automation | Make.com integration | Medium | 1500-2000 | ✅ | ✅ | ✅ | ⏳ | ⏳ | Claude | Row 24 CSV - Draft: 3,120 words |
-| POST-143 | n8n + NextPhone Integration | n8n integration | Low | 1000-1500 | ✅ | ✅ | ✅ | ⏳ | ⏳ | Claude | Row 25 CSV - Draft: 1,639 words |
-| POST-144 | Verizon Business Phone + AI Integration | Verizon Business integration | High | 2000-2500 | ✅ | ✅ | ✅ | ⏳ | ⏳ | Claude | Row 26 CSV - Draft: 2,450 words |
-| POST-145 | AT&T Business Phone AI Setup | AT&T Business integration | High | 2000-2500 | ✅ | ✅ | ✅ | ⏳ | ⏳ | Claude | Row 27 CSV - Draft: 2,418 words (2025-12-27) |
-| POST-146 | T-Mobile for Business + NextPhone | T-Mobile Business integration | Medium | 1500-2000 | ✅ | ✅ | ✅ | ⏳ | ⏳ | Claude | Row 28 CSV - Draft: 3,863 words (2025-12-27) |
-| POST-147 | RingCentral to NextPhone Migration | RingCentral migration | High | 2000-2500 | ✅ | ✅ | ✅ | ⏳ | ⏳ | Claude | Row 29 CSV - Draft: 2,427 words (2025-12-27) |
-| POST-148 | Twilio AI Receptionist API Setup | Twilio integration | High | 2000-2500 | ✅ | ✅ | ✅ | ⏳ | ⏳ | Claude | Row 30 CSV - Draft: 2,430 words (2025-12-27) |
-| POST-149 | Vonage Business + NextPhone | Vonage integration | Medium | 1500-2000 | ✅ | ✅ | ✅ | ⏳ | ⏳ | Claude | Row 31 CSV - Draft: 4,823 words (2025-12-27) |
-| POST-150 | Nextiva Alternative: AI Receptionist | Nextiva alternative | High | 2000-2500 | ✅ | ✅ | ✅ | ⏳ | ⏳ | Claude | Row 32 CSV - Draft: 2,450 words (2025-12-27) |
-| POST-151 | Migrate from Grasshopper to AI | migrate from Grasshopper | Medium | 1500-2000 | ✅ | ✅ | ✅ | ⏳ | ⏳ | Claude | Row 33 CSV - Draft: 5,287 words (2025-12-27) |
-| POST-152 | Ooma Office + NextPhone Integration | Ooma integration | Low | 1000-1500 | ✅ | ✅ | ✅ | ⏳ | ⏳ | Claude | Row 34 CSV - 1,438 words |
-| POST-153 | 8x8 Voice + NextPhone Integration | 8x8 integration | Low | 1000-1500 | ✅ | ✅ | ✅ | ⏳ | ⏳ | Claude | Row 35 CSV - 1,800 words |
-| POST-154 | Dialpad + NextPhone Integration | Dialpad integration | Medium | 1500-2000 | ✅ | ✅ | ✅ | ⏳ | ⏳ | Claude | Row 36 CSV - 1,875 words |
-| POST-155 | AI Receptionist vs. Zoom Phone | Zoom Phone alternative | Medium | 1500-2000 | ✅ | ✅ | ✅ | ⏳ | ⏳ | Claude | Row 37 CSV - 2,738 words |
-| POST-156 | Google Voice + NextPhone Upgrade | Google Voice alternative | Medium | 1500-2000 | ✅ | ✅ | ✅ | ⏳ | ⏳ | Claude | Row 38 CSV - 2,495 words |
-| POST-157 | OpenPhone + NextPhone Integration | OpenPhone integration | Low | 1000-1500 | ✅ | ✅ | ✅ | ⏳ | ⏳ | Claude | Row 39 CSV - 1,487 words |
-| POST-158 | Aircall + NextPhone Integration | Aircall integration | Low | 1000-1500 | ✅ | ✅ | ✅ | ⏳ | ⏳ | Claude | Row 40 CSV - 2,334 words |
-| POST-159 | Talkdesk + NextPhone Integration | Talkdesk integration | Medium | 1500-2000 | ✅ | ✅ | ✅ | ⏳ | ⏳ | Claude | Row 41 CSV - Draft: 2,108 words |
-| POST-160 | Five9 + NextPhone Integration | Five9 integration | Medium | 1500-2000 | ✅ | ✅ | ✅ | ⏳ | ⏳ | Claude | Row 42 CSV - Draft: 2,341 words |
-| POST-161 | Genesys Cloud + NextPhone | Genesys Cloud integration | Medium | 1500-2000 | ✅ | ✅ | ✅ | ⏳ | ⏳ | Claude | Row 43 CSV - Draft: 3,024 words |
-| POST-162 | GoTo Connect + NextPhone | GoTo Connect integration | Medium | 1500-2000 | ✅ | ✅ | ✅ | ⏳ | ⏳ | Claude | Row 44 CSV - Draft: 3,045 words |
-| POST-163 | Mitel + NextPhone Integration | Mitel integration | Low | 1000-1500 | ✅ | ✅ | ✅ | ⏳ | ⏳ | Claude | Row 45 CSV - Draft: 1,741 words |
-| POST-164 | Housecall Pro Phone Answering | Housecall Pro integration | High | 2000-2500 | ✅ | ✅ | ✅ | ⏳ | ⏳ | Claude | Row 46 CSV - Draft: 4,763 words |
-| POST-165 | Jobber AI Receptionist Integration | Jobber integration | High | 2000-2500 | ✅ | ✅ | ✅ | ⏳ | ⏳ | Claude | Row 47 CSV - Draft: 3,716 words |
-| POST-166 | ServiceM8 + NextPhone Integration | ServiceM8 integration | Low | 1000-1500 | ✅ | ✅ | ✅ | ⏳ | ⏳ | Claude | Row 48 CSV - Draft: 2,308 words |
-| POST-167 | Clio AI Receptionist Integration | Clio integration | High | 2000-2500 | ✅ | ✅ | ✅ | ⏳ | ⏳ | Claude | Row 49 CSV - Draft: 2,600 words |
-| POST-168 | MyCase + AI Receptionist Integration | MyCase integration | Medium | 1500-2000 | ✅ | ✅ | ✅ | ⏳ | ⏳ | Claude | Row 50 CSV - Draft: 1,800 words |
-| POST-169 | PracticePanther + NextPhone | PracticePanther integration | Low | 1000-1500 | ✅ | ✅ | ✅ | ⏳ | ⏳ | Claude | Row 51 CSV - Draft: 1,800 words |
-| POST-170 | LawRuler + NextPhone Integration | LawRuler integration | Low | 1000-1500 | ✅ | ✅ | ✅ | ⏳ | ⏳ | Claude | Row 52 CSV - Draft: 1,361 words |
-| POST-171 | WordPress AI Receptionist Plugin | WordPress plugin | High | 2000-2500 | ✅ | ✅ | ✅ | ⏳ | ⏳ | Claude | Row 53 CSV - Draft: 2,477 words |
-| POST-172 | Webflow Click-to-Call Widget | Webflow integration | Medium | 1500-2000 | ✅ | ✅ | ✅ | ⏳ | ⏳ | Claude | Row 54 CSV - Draft: 1,950 words |
-| POST-173 | Squarespace AI Receptionist Widget | Squarespace integration | Low | 1000-1500 | ✅ | ✅ | ✅ | ⏳ | ⏳ | Claude | Row 55 CSV - Draft: 1,815 words (2025-12-30) |
-| POST-174 | Slack Notifications Integration | Slack integration | High | 2000-2500 | ✅ | ✅ | ✅ | ⏳ | ⏳ | Claude | Row 56 CSV - Draft: 3,419 words (2025-12-30) |
-| POST-175 | Microsoft Teams Integration | Microsoft Teams integration | Medium | 1500-2000 | ✅ | ✅ | ✅ | ⏳ | ⏳ | Claude | Row 57 CSV - Draft: 3,263 words (2025-12-30) |
-| POST-176 | Discord + NextPhone Integration | Discord integration | Low | 1000-1500 | ✅ | ✅ | ✅ | ⏳ | ⏳ | Claude | Row 58 CSV - Draft: 2,182 words (2025-12-30) |
-| POST-177 | QuickBooks Integration | QuickBooks integration | High | 2000-2500 | ✅ | ✅ | ✅ | ⏳ | ⏳ | Claude | Row 59 CSV - Draft: 4,336 words (2025-12-30) |
-| POST-178 | Stripe + NextPhone Payment Setup | Stripe integration | Medium | 1500-2000 | ✅ | ✅ | ✅ | ⏳ | ⏳ | Claude | Row 60 CSV - Draft: ~2,000 words (2025-12-30) |
-| POST-179 | Square + NextPhone Integration | Square integration | Low | 1000-1500 | ✅ | ✅ | ✅ | ⏳ | ⏳ | Claude | Row 61 CSV - Draft: 1,889 words (2025-12-30) |
-| POST-180 | Google Business Profile Sync | Google Business Profile | High | 2000-2500 | ✅ | ✅ | ✅ | ⏳ | ⏳ | Claude | Row 62 CSV - Draft: 2,450 words |
-| POST-181 | Google Local Service Ads Integration | Google Local Service Ads | High | 2000-2500 | ✅ | ✅ | ✅ | ⏳ | ⏳ | Claude | Row 63 CSV - Draft: 3,676 words |
-| POST-182 | Yelp + NextPhone Integration | Yelp integration | Low | 1000-1500 | ✅ | ✅ | ✅ | ⏳ | ⏳ | Claude | Row 64 CSV - Draft: 2,461 words |
-| POST-183 | Typeform + NextPhone Automation | Typeform integration | Medium | 1500-2000 | ✅ | ✅ | ✅ | ⏳ | ⏳ | Claude | Row 65 CSV - Draft: 2,817 words |
-| POST-184 | Asana + NextPhone Integration | Asana integration | Low | 1000-1500 | ✅ | ✅ | ✅ | ⏳ | ⏳ | Claude | Row 66 CSV - Draft: 3,200 words |
-| POST-185 | Trello + NextPhone Integration | Trello integration | Low | 1000-1500 | ✅ | ✅ | ✅ | ⏳ | ⏳ | Claude | Row 67 CSV - Draft: 2,001 words |
-| POST-186 | ClickUp + NextPhone Integration | ClickUp integration | Low | 1000-1500 | ✅ | ✅ | ✅ | ⏳ | ⏳ | Claude | Row 68 CSV - Draft: 2,054 words |
-| POST-187 | Mailchimp + NextPhone Integration | Mailchimp integration | Medium | 1500-2000 | ✅ | ✅ | ✅ | ⏳ | ⏳ | Claude | Row 69 CSV - 3,145 words |
-| POST-188 | ActiveCampaign + NextPhone | ActiveCampaign integration | Low | 1000-1500 | ✅ | ✅ | ✅ | ⏳ | ⏳ | Claude | Row 70 CSV - 1,920 words |
-| POST-189 | Constant Contact + NextPhone | Constant Contact integration | Low | 1000-1500 | ✅ | ✅ | ✅ | ⏳ | ⏳ | Claude | Row 71 CSV - ~1,500 words |
-| POST-190 | Towbook + NextPhone Integration | Towbook integration | Low | 1000-1500 | ✅ | ✅ | ✅ | ⏳ | ⏳ | Claude | Row 72 CSV - ~1,500 words |
-| POST-191 | Samsara + NextPhone Integration | Samsara integration | Low | 1000-1500 | ✅ | ✅ | ✅ | ⏳ | ⏳ | Claude | Row 73 CSV - ~1,500 words |
-| POST-192 | Route4Me + NextPhone Integration | Route4Me integration | Low | 1000-1500 | ✅ | ✅ | ✅ | ⏳ | ⏳ | Claude | Row 74 CSV - ~1,500 words |
-| POST-193 | AI Receptionist API Tutorial | AI receptionist API integration | Medium | 1500-2000 | ✅ | ✅ | ✅ | ⏳ | ⏳ | Claude | Row 75 CSV - ~1,600 words |
-| POST-194 | Webhook Setup Guide | webhook integration guide | Medium | 1500-2000 | ✅ | ✅ | ✅ | ⏳ | ⏳ | Claude | Row 76 CSV - Draft: 33,501 bytes |
-| POST-195 | Build Custom AI Integrations | custom integration development | Low | 1000-1500 | ✅ | ✅ | ✅ | ⏳ | ⏳ | Claude | Row 77 CSV - Draft: 1,582 words |
+| POST-120 | [HUB] Integration Guide: Connect AI Receptionist to Your Tech Stack | integration guide AI receptionist | High | 5000-6000 | ✅ | ✅ | ✅ | ✅ | ⏳ | Claude | MEGA HUB - Row 2 CSV - Draft: 9,369 words |
+| POST-121 | How to Integrate NextPhone with HubSpot CRM | HubSpot integration guide | High | 2000-2500 | ✅ | ✅ | ✅ | ✅ | ⏳ | Claude | Row 3 CSV - Draft: 4,257 words |
+| POST-122 | NextPhone Salesforce Integration | Salesforce integration | High | 2000-2500 | ✅ | ✅ | ✅ | ✅ | ⏳ | Claude | Row 4 CSV - Draft: 5,094 words |
+| POST-123 | Integrate Answering Service with Pipedrive | Pipedrive call integration | High | 2000-2500 | ✅ | ✅ | ✅ | ✅ | ⏳ | Claude | Row 5 CSV |
+| POST-124 | Zoho CRM Phone Integration | Zoho CRM phone integration | High | 2000-2500 | ✅ | ✅ | ✅ | ✅ | ⏳ | Claude | Row 6 CSV |
+| POST-125 | Airtable + NextPhone Integration | Airtable integration | High | 2000-2500 | ✅ | ✅ | ✅ | ✅ | ⏳ | Claude | Row 7 CSV |
+| POST-126 | HighLevel CRM + NextPhone Integration | HighLevel integration | Medium | 1500-2000 | ✅ | ✅ | ✅ | ✅ | ⏳ | Claude | Row 8 CSV |
+| POST-127 | Follow Up Boss + AI Receptionist | Follow Up Boss AI integration | High | 2000-2500 | ✅ | ✅ | ✅ | ✅ | ⏳ | Claude | Row 9 CSV - Draft done |
+| POST-128 | LionDesk Real Estate CRM + NextPhone | LionDesk integration | Medium | 1500-2000 | ✅ | ✅ | ✅ | ✅ | ⏳ | Claude | Row 10 CSV - Draft: 2,051 words |
+| POST-129 | Contactually + NextPhone Integration | Contactually integration | Low | 1000-1500 | ✅ | ✅ | ✅ | ✅ | ⏳ | Claude | Row 11 CSV - Draft: 1,420 words |
+| POST-130 | Monday.com + NextPhone Integration | Monday.com integration | Medium | 1500-2000 | ✅ | ✅ | ✅ | ✅ | ⏳ | Claude | Row 12 CSV - Draft: 3,545 words |
+| POST-131 | Copper CRM + NextPhone Integration | Copper CRM integration | Low | 1000-1500 | ✅ | ✅ | ✅ | ✅ | ⏳ | Claude | Row 13 CSV - Draft: 1,793 words |
+| POST-132 | Insightly CRM + NextPhone Integration | Insightly integration | Low | 1000-1500 | ✅ | ✅ | ✅ | ✅ | ⏳ | Claude | Row 14 CSV - Draft: 1,450 words |
+| POST-133 | Capsule CRM + NextPhone Integration | Capsule integration | Low | 1000-1500 | ✅ | ✅ | ✅ | ✅ | ⏳ | Claude | Row 15 CSV - Draft: 2,091 words |
+| POST-134 | Freshsales + NextPhone Integration | Freshsales integration | Medium | 1500-2000 | ✅ | ✅ | ✅ | ✅ | ⏳ | Claude | Row 16 CSV - Draft: 3,109 words |
+| POST-135 | Connect NextPhone to Calendly | Calendly integration | High | 2000-2500 | ✅ | ✅ | ✅ | ✅ | ⏳ | Claude | Row 17 CSV - Draft: 4,060 words |
+| POST-136 | NextPhone Google Calendar Integration | Google Calendar sync | High | 2000-2500 | ✅ | ✅ | ✅ | ✅ | ⏳ | Claude | Row 18 CSV - Draft: 3,424 words |
+| POST-137 | Outlook Calendar AI Appointment Sync | Outlook Calendar integration | High | 2000-2500 | ✅ | ✅ | ✅ | ✅ | ⏳ | Claude | Row 19 CSV - Draft: 4,236 words |
+| POST-138 | Apple Calendar (iCloud) Integration | Apple Calendar sync | Medium | 1500-2000 | ✅ | ✅ | ✅ | ✅ | ⏳ | Claude | Row 20 CSV - Draft: 3,505 words |
+| POST-139 | Cal.com + AI Receptionist Integration | Cal.com integration | Medium | 1500-2000 | ✅ | ✅ | ✅ | ✅ | ⏳ | Claude | Row 21 CSV - Draft: 3,559 words |
+| POST-140 | Acuity Scheduling Phone Integration | Acuity Scheduling integration | Medium | 1500-2000 | ✅ | ✅ | ✅ | ✅ | ⏳ | Claude | Row 22 CSV - Draft: 4,626 words |
+| POST-141 | Zapier + NextPhone Automation | Zapier phone automation | High | 2000-2500 | ✅ | ✅ | ✅ | ✅ | ⏳ | Claude | Row 23 CSV - Draft: 3,705 words |
+| POST-142 | Make.com AI Receptionist Automation | Make.com integration | Medium | 1500-2000 | ✅ | ✅ | ✅ | ✅ | ⏳ | Claude | Row 24 CSV - Draft: 3,120 words |
+| POST-143 | n8n + NextPhone Integration | n8n integration | Low | 1000-1500 | ✅ | ✅ | ✅ | ✅ | ⏳ | Claude | Row 25 CSV - Draft: 1,639 words |
+| POST-144 | Verizon Business Phone + AI Integration | Verizon Business integration | High | 2000-2500 | ✅ | ✅ | ✅ | ✅ | ⏳ | Claude | Row 26 CSV - Draft: 2,450 words |
+| POST-145 | AT&T Business Phone AI Setup | AT&T Business integration | High | 2000-2500 | ✅ | ✅ | ✅ | ✅ | ⏳ | Claude | Row 27 CSV - Draft: 2,418 words (2025-12-27) |
+| POST-146 | T-Mobile for Business + NextPhone | T-Mobile Business integration | Medium | 1500-2000 | ✅ | ✅ | ✅ | ✅ | ⏳ | Claude | Row 28 CSV - Draft: 3,863 words (2025-12-27) |
+| POST-147 | RingCentral to NextPhone Migration | RingCentral migration | High | 2000-2500 | ✅ | ✅ | ✅ | ✅ | ⏳ | Claude | Row 29 CSV - Draft: 2,427 words (2025-12-27) |
+| POST-148 | Twilio AI Receptionist API Setup | Twilio integration | High | 2000-2500 | ✅ | ✅ | ✅ | ✅ | ⏳ | Claude | Row 30 CSV - Draft: 2,430 words (2025-12-27) |
+| POST-149 | Vonage Business + NextPhone | Vonage integration | Medium | 1500-2000 | ✅ | ✅ | ✅ | ✅ | ⏳ | Claude | Row 31 CSV - Draft: 4,823 words (2025-12-27) |
+| POST-150 | Nextiva Alternative: AI Receptionist | Nextiva alternative | High | 2000-2500 | ✅ | ✅ | ✅ | ✅ | ⏳ | Claude | Row 32 CSV - Draft: 2,450 words (2025-12-27) |
+| POST-151 | Migrate from Grasshopper to AI | migrate from Grasshopper | Medium | 1500-2000 | ✅ | ✅ | ✅ | ✅ | ⏳ | Claude | Row 33 CSV - Draft: 5,287 words (2025-12-27) |
+| POST-152 | Ooma Office + NextPhone Integration | Ooma integration | Low | 1000-1500 | ✅ | ✅ | ✅ | ✅ | ⏳ | Claude | Row 34 CSV - 1,438 words |
+| POST-153 | 8x8 Voice + NextPhone Integration | 8x8 integration | Low | 1000-1500 | ✅ | ✅ | ✅ | ✅ | ⏳ | Claude | Row 35 CSV - 1,800 words |
+| POST-154 | Dialpad + NextPhone Integration | Dialpad integration | Medium | 1500-2000 | ✅ | ✅ | ✅ | ✅ | ⏳ | Claude | Row 36 CSV - 1,875 words |
+| POST-155 | AI Receptionist vs. Zoom Phone | Zoom Phone alternative | Medium | 1500-2000 | ✅ | ✅ | ✅ | ✅ | ⏳ | Claude | Row 37 CSV - 2,738 words |
+| POST-156 | Google Voice + NextPhone Upgrade | Google Voice alternative | Medium | 1500-2000 | ✅ | ✅ | ✅ | ✅ | ⏳ | Claude | Row 38 CSV - 2,495 words |
+| POST-157 | OpenPhone + NextPhone Integration | OpenPhone integration | Low | 1000-1500 | ✅ | ✅ | ✅ | ✅ | ⏳ | Claude | Row 39 CSV - 1,487 words |
+| POST-158 | Aircall + NextPhone Integration | Aircall integration | Low | 1000-1500 | ✅ | ✅ | ✅ | ✅ | ⏳ | Claude | Row 40 CSV - 2,334 words |
+| POST-159 | Talkdesk + NextPhone Integration | Talkdesk integration | Medium | 1500-2000 | ✅ | ✅ | ✅ | ✅ | ⏳ | Claude | Row 41 CSV - Draft: 2,108 words |
+| POST-160 | Five9 + NextPhone Integration | Five9 integration | Medium | 1500-2000 | ✅ | ✅ | ✅ | ✅ | ⏳ | Claude | Row 42 CSV - Draft: 2,341 words |
+| POST-161 | Genesys Cloud + NextPhone | Genesys Cloud integration | Medium | 1500-2000 | ✅ | ✅ | ✅ | ✅ | ⏳ | Claude | Row 43 CSV - Draft: 3,024 words |
+| POST-162 | GoTo Connect + NextPhone | GoTo Connect integration | Medium | 1500-2000 | ✅ | ✅ | ✅ | ✅ | ⏳ | Claude | Row 44 CSV - Draft: 3,045 words |
+| POST-163 | Mitel + NextPhone Integration | Mitel integration | Low | 1000-1500 | ✅ | ✅ | ✅ | ✅ | ⏳ | Claude | Row 45 CSV - Draft: 1,741 words |
+| POST-164 | Housecall Pro Phone Answering | Housecall Pro integration | High | 2000-2500 | ✅ | ✅ | ✅ | ✅ | ⏳ | Claude | Row 46 CSV - Draft: 4,763 words |
+| POST-165 | Jobber AI Receptionist Integration | Jobber integration | High | 2000-2500 | ✅ | ✅ | ✅ | ✅ | ⏳ | Claude | Row 47 CSV - Draft: 3,716 words |
+| POST-166 | ServiceM8 + NextPhone Integration | ServiceM8 integration | Low | 1000-1500 | ✅ | ✅ | ✅ | ✅ | ⏳ | Claude | Row 48 CSV - Draft: 2,308 words |
+| POST-167 | Clio AI Receptionist Integration | Clio integration | High | 2000-2500 | ✅ | ✅ | ✅ | ✅ | ⏳ | Claude | Row 49 CSV - Draft: 2,600 words |
+| POST-168 | MyCase + AI Receptionist Integration | MyCase integration | Medium | 1500-2000 | ✅ | ✅ | ✅ | ✅ | ⏳ | Claude | Row 50 CSV - Draft: 1,800 words |
+| POST-169 | PracticePanther + NextPhone | PracticePanther integration | Low | 1000-1500 | ✅ | ✅ | ✅ | ✅ | ⏳ | Claude | Row 51 CSV - Draft: 1,800 words |
+| POST-170 | LawRuler + NextPhone Integration | LawRuler integration | Low | 1000-1500 | ✅ | ✅ | ✅ | ✅ | ⏳ | Claude | Row 52 CSV - Draft: 1,361 words |
+| POST-171 | WordPress AI Receptionist Plugin | WordPress plugin | High | 2000-2500 | ✅ | ✅ | ✅ | ✅ | ⏳ | Claude | Row 53 CSV - Draft: 2,477 words |
+| POST-172 | Webflow Click-to-Call Widget | Webflow integration | Medium | 1500-2000 | ✅ | ✅ | ✅ | ✅ | ⏳ | Claude | Row 54 CSV - Draft: 1,950 words |
+| POST-173 | Squarespace AI Receptionist Widget | Squarespace integration | Low | 1000-1500 | ✅ | ✅ | ✅ | ✅ | ⏳ | Claude | Row 55 CSV - Draft: 1,815 words (2025-12-30) |
+| POST-174 | Slack Notifications Integration | Slack integration | High | 2000-2500 | ✅ | ✅ | ✅ | ✅ | ⏳ | Claude | Row 56 CSV - Draft: 3,419 words (2025-12-30) |
+| POST-175 | Microsoft Teams Integration | Microsoft Teams integration | Medium | 1500-2000 | ✅ | ✅ | ✅ | ✅ | ⏳ | Claude | Row 57 CSV - Draft: 3,263 words (2025-12-30) |
+| POST-176 | Discord + NextPhone Integration | Discord integration | Low | 1000-1500 | ✅ | ✅ | ✅ | ✅ | ⏳ | Claude | Row 58 CSV - Draft: 2,182 words (2025-12-30) |
+| POST-177 | QuickBooks Integration | QuickBooks integration | High | 2000-2500 | ✅ | ✅ | ✅ | ✅ | ⏳ | Claude | Row 59 CSV - Draft: 4,336 words (2025-12-30) |
+| POST-178 | Stripe + NextPhone Payment Setup | Stripe integration | Medium | 1500-2000 | ✅ | ✅ | ✅ | ✅ | ⏳ | Claude | Row 60 CSV - Draft: ~2,000 words (2025-12-30) |
+| POST-179 | Square + NextPhone Integration | Square integration | Low | 1000-1500 | ✅ | ✅ | ✅ | ✅ | ⏳ | Claude | Row 61 CSV - Draft: 1,889 words (2025-12-30) |
+| POST-180 | Google Business Profile Sync | Google Business Profile | High | 2000-2500 | ✅ | ✅ | ✅ | ✅ | ⏳ | Claude | Row 62 CSV - Draft: 2,450 words |
+| POST-181 | Google Local Service Ads Integration | Google Local Service Ads | High | 2000-2500 | ✅ | ✅ | ✅ | ✅ | ⏳ | Claude | Row 63 CSV - Draft: 3,676 words |
+| POST-182 | Yelp + NextPhone Integration | Yelp integration | Low | 1000-1500 | ✅ | ✅ | ✅ | ✅ | ⏳ | Claude | Row 64 CSV - Draft: 2,461 words |
+| POST-183 | Typeform + NextPhone Automation | Typeform integration | Medium | 1500-2000 | ✅ | ✅ | ✅ | ✅ | ⏳ | Claude | Row 65 CSV - Draft: 2,817 words |
+| POST-184 | Asana + NextPhone Integration | Asana integration | Low | 1000-1500 | ✅ | ✅ | ✅ | ✅ | ⏳ | Claude | Row 66 CSV - Draft: 3,200 words |
+| POST-185 | Trello + NextPhone Integration | Trello integration | Low | 1000-1500 | ✅ | ✅ | ✅ | ✅ | ⏳ | Claude | Row 67 CSV - Draft: 2,001 words |
+| POST-186 | ClickUp + NextPhone Integration | ClickUp integration | Low | 1000-1500 | ✅ | ✅ | ✅ | ✅ | ⏳ | Claude | Row 68 CSV - Draft: 2,054 words |
+| POST-187 | Mailchimp + NextPhone Integration | Mailchimp integration | Medium | 1500-2000 | ✅ | ✅ | ✅ | ✅ | ⏳ | Claude | Row 69 CSV - 3,145 words |
+| POST-188 | ActiveCampaign + NextPhone | ActiveCampaign integration | Low | 1000-1500 | ✅ | ✅ | ✅ | ✅ | ⏳ | Claude | Row 70 CSV - 1,920 words |
+| POST-189 | Constant Contact + NextPhone | Constant Contact integration | Low | 1000-1500 | ✅ | ✅ | ✅ | ✅ | ⏳ | Claude | Row 71 CSV - ~1,500 words |
+| POST-190 | Towbook + NextPhone Integration | Towbook integration | Low | 1000-1500 | ✅ | ✅ | ✅ | ✅ | ⏳ | Claude | Row 72 CSV - ~1,500 words |
+| POST-191 | Samsara + NextPhone Integration | Samsara integration | Low | 1000-1500 | ✅ | ✅ | ✅ | ✅ | ⏳ | Claude | Row 73 CSV - ~1,500 words |
+| POST-192 | Route4Me + NextPhone Integration | Route4Me integration | Low | 1000-1500 | ✅ | ✅ | ✅ | ✅ | ⏳ | Claude | Row 74 CSV - ~1,500 words |
+| POST-193 | AI Receptionist API Tutorial | AI receptionist API integration | Medium | 1500-2000 | ✅ | ✅ | ✅ | ✅ | ⏳ | Claude | Row 75 CSV - ~1,600 words |
+| POST-194 | Webhook Setup Guide | webhook integration guide | Medium | 1500-2000 | ✅ | ✅ | ✅ | ✅ | ⏳ | Claude | Row 76 CSV - Draft: 33,501 bytes |
+| POST-195 | Build Custom AI Integrations | custom integration development | Low | 1000-1500 | ✅ | ✅ | ✅ | ✅ | ⏳ | Claude | Row 77 CSV - Draft: 1,582 words |
 
 ---
 
@@ -360,22 +360,22 @@
 
 | Post # | Title | Primary Keyword | Priority | Word Count | Research | Outline | Draft | QA | Published | Assignee | Notes |
 | -------- | ------- | --------- | -------- | ------------ | ---------- | --------- | ------- | ----- | ----------- | ---------- | ------- |
-| POST-196 | [HUB] AI Receptionist Features Guide | AI receptionist features | High | 5000-6000 | ✅ | ✅ | ✅ | ⏳ | ⏳ | Claude | MEGA HUB - Row 78 CSV - Draft done |
-| POST-197 | 24/7 AI Answering Service | 24/7 answering service | High | 2000-2500 | ✅ | ✅ | ✅ | ⏳ | ⏳ | Claude | Row 79 CSV - Draft done |
-| POST-198 | After-Hours AI Phone System | after hours answering service | High | 2000-2500 | ✅ | ✅ | ✅ | ⏳ | ⏳ | Claude | Row 80 CSV - Draft done |
-| POST-199 | Emergency Call Routing Setup | emergency call routing | High | 2000-2500 | ✅ | ✅ | ✅ | ⏳ | ⏳ | Claude | Row 81 CSV - Draft done |
-| POST-200 | Bilingual AI Receptionist | bilingual AI receptionist | High | 2000-2500 | ✅ | ✅ | ✅ | ⏳ | ⏳ | Claude | Row 82 CSV - Draft done |
-| POST-201 | AI Appointment Scheduling | AI appointment scheduling | High | 2000-2500 | ✅ | ✅ | ✅ | ⏳ | ⏳ | Claude | Row 83 CSV - Draft done |
-| POST-202 | Custom Lead Qualification | lead qualification AI custom | High | 2000-2500 | ✅ | ✅ | ✅ | ⏳ | ⏳ | Claude | Row 84 CSV - Draft done |
-| POST-203 | IVR Integration with AI | IVR integration AI receptionist | High | 2000-2500 | ✅ | ✅ | ✅ | ⏳ | ⏳ | Claude | Row 85 CSV - Draft done |
-| POST-204 | Live Booking During Calls | live booking during calls | High | 2000-2500 | ✅ | ✅ | ✅ | ⏳ | ⏳ | Claude | Row 86 CSV - Draft done |
-| POST-205 | Call Recording & Transcription | call recording AI receptionist | Medium | 1500-2000 | ✅ | ✅ | ✅ | ⏳ | ⏳ | Claude | Row 87 CSV - Draft done |
-| POST-206 | Voicemail Transcription | voicemail transcription | Medium | 1500-2000 | ✅ | ✅ | ✅ | ⏳ | ⏳ | Claude | Row 88 CSV - Draft done |
-| POST-207 | Spam & Robocall Filtering | spam call filtering | Medium | 1500-2000 | ✅ | ✅ | ✅ | ⏳ | ⏳ | Claude | Row 89 CSV - Draft done |
-| POST-208 | Call Forwarding Setup | call forwarding setup | Medium | 1500-2000 | ✅ | ✅ | ✅ | ⏳ | ⏳ | Claude | Row 90 CSV - Draft done |
-| POST-209 | Call Transferring Guide | call transferring AI receptionist | Medium | 1500-2000 | ✅ | ✅ | ✅ | ⏳ | ⏳ | Claude | Row 91 CSV - Draft done |
-| POST-210 | Email Notifications After Calls | email notifications after calls | Medium | 1500-2000 | ✅ | ✅ | ✅ | ⏳ | ⏳ | Claude | Row 92 CSV - Draft done |
-| POST-211 | Instant Call Pickup | instant call pickup | High | 2000-2500 | ✅ | ✅ | ✅ | ⏳ | ⏳ | Claude | Row 93 CSV - Draft done |
+| POST-196 | [HUB] AI Receptionist Features Guide | AI receptionist features | High | 5000-6000 | ✅ | ✅ | ✅ | ✅ | ⏳ | Claude | MEGA HUB - Row 78 CSV - Draft done |
+| POST-197 | 24/7 AI Answering Service | 24/7 answering service | High | 2000-2500 | ✅ | ✅ | ✅ | ✅ | ⏳ | Claude | Row 79 CSV - Draft done |
+| POST-198 | After-Hours AI Phone System | after hours answering service | High | 2000-2500 | ✅ | ✅ | ✅ | ✅ | ⏳ | Claude | Row 80 CSV - Draft done |
+| POST-199 | Emergency Call Routing Setup | emergency call routing | High | 2000-2500 | ✅ | ✅ | ✅ | ✅ | ⏳ | Claude | Row 81 CSV - Draft done |
+| POST-200 | Bilingual AI Receptionist | bilingual AI receptionist | High | 2000-2500 | ✅ | ✅ | ✅ | ✅ | ⏳ | Claude | Row 82 CSV - Draft done |
+| POST-201 | AI Appointment Scheduling | AI appointment scheduling | High | 2000-2500 | ✅ | ✅ | ✅ | ✅ | ⏳ | Claude | Row 83 CSV - Draft done |
+| POST-202 | Custom Lead Qualification | lead qualification AI custom | High | 2000-2500 | ✅ | ✅ | ✅ | ✅ | ⏳ | Claude | Row 84 CSV - Draft done |
+| POST-203 | IVR Integration with AI | IVR integration AI receptionist | High | 2000-2500 | ✅ | ✅ | ✅ | ✅ | ⏳ | Claude | Row 85 CSV - Draft done |
+| POST-204 | Live Booking During Calls | live booking during calls | High | 2000-2500 | ✅ | ✅ | ✅ | ✅ | ⏳ | Claude | Row 86 CSV - Draft done |
+| POST-205 | Call Recording & Transcription | call recording AI receptionist | Medium | 1500-2000 | ✅ | ✅ | ✅ | ✅ | ⏳ | Claude | Row 87 CSV - Draft done |
+| POST-206 | Voicemail Transcription | voicemail transcription | Medium | 1500-2000 | ✅ | ✅ | ✅ | ✅ | ⏳ | Claude | Row 88 CSV - Draft done |
+| POST-207 | Spam & Robocall Filtering | spam call filtering | Medium | 1500-2000 | ✅ | ✅ | ✅ | ✅ | ⏳ | Claude | Row 89 CSV - Draft done |
+| POST-208 | Call Forwarding Setup | call forwarding setup | Medium | 1500-2000 | ✅ | ✅ | ✅ | ✅ | ⏳ | Claude | Row 90 CSV - Draft done |
+| POST-209 | Call Transferring Guide | call transferring AI receptionist | Medium | 1500-2000 | ✅ | ✅ | ✅ | ✅ | ⏳ | Claude | Row 91 CSV - Draft done |
+| POST-210 | Email Notifications After Calls | email notifications after calls | Medium | 1500-2000 | ✅ | ✅ | ✅ | ✅ | ⏳ | Claude | Row 92 CSV - Draft done |
+| POST-211 | Instant Call Pickup | instant call pickup | High | 2000-2500 | ✅ | ✅ | ✅ | ✅ | ⏳ | Claude | Row 93 CSV - Draft done |
 | POST-212 | Call Analytics Dashboard | call analytics dashboard | Medium | 1500-2000 | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | - | Row 94 CSV |
 | POST-213 | Multi-Location Call Routing | multi-location call routing | Medium | 1500-2000 | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | - | Row 95 CSV |
 | POST-214 | SMS Follow-Up After Calls | SMS follow-up | Medium | 1500-2000 | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | - | Row 96 CSV |
