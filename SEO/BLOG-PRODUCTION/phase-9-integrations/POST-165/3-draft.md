@@ -1,5 +1,9 @@
 # Jobber AI Receptionist Integration: Contractor Workflow Automation
 
+**Meta Title:** Jobber AI Phone Integration: Contractor Automation Guide 2025
+
+**Meta Description:** Contractors miss 74.1% of calls, losing $260K yearly. Jobber + AI receptionist: auto-create jobs, route emergencies, 10-minute webhook setup.
+
 **Key Takeaways:**
 
 - 74.1% of contractor calls go unanswered, costing the average contractor $260,400 per year in lost revenue
@@ -52,7 +56,7 @@ Let's break down the math for a typical contractor:
 - 20% conversion rate (conservative estimate)
 - $3,500 average job value
 
-**Calculation:** 31 missed calls × 0.20 conversion × $3,500 = **$21,700 per month** = **$260,400 per year**
+**Calculation:** 31 missed calls ï¿½ 0.20 conversion ï¿½ $3,500 = **$21,700 per month** = **$260,400 per year**
 
 But it gets worse for emergency calls. We found that 15.9% of contractor calls contain urgency language like "emergency," "urgent," or "ASAP." These calls are worth moreaveraging $4,200 instead of the typical $3,500.
 
@@ -246,7 +250,7 @@ The integration can sync any information the AI collects:
 
 All of this appears in Jobber automatically, linked to the call recording so you can listen if needed.
 
-[IMAGE: Flowchart - Call comes in ’ AI answers ’ Data collected ’ Webhook fires ’ Jobber creates job request ’ Owner gets notification]
+[IMAGE: Flowchart - Call comes in ï¿½ AI answers ï¿½ Data collected ï¿½ Webhook fires ï¿½ Jobber creates job request ï¿½ Owner gets notification]
 
 ## NextPhone + Jobber: What You Can Automate
 
@@ -254,10 +258,10 @@ All of this appears in Jobber automatically, linked to the call recording so you
 
 Every call that needs follow-up becomes a job request in Jobber automatically. The AI determines whether it's:
 
-- Quote/estimate request ’ Creates "Estimate" job
-- Service call ’ Creates "Service" job
-- General inquiry ’ Creates "Follow-up" task
-- Emergency ’ Creates "Emergency Service" job with high priority flag
+- Quote/estimate request ï¿½ Creates "Estimate" job
+- Service call ï¿½ Creates "Service" job
+- General inquiry ï¿½ Creates "Follow-up" task
+- Emergency ï¿½ Creates "Emergency Service" job with high priority flag
 
 You don't lift a finger. You just open Jobber and see everything organized, ready to schedule.
 
@@ -334,7 +338,7 @@ Let's use real numbers. You're a typical contractor:
 - 20% would convert if answered
 - $3,500 average job value
 
-**Lost revenue:** 31 × 0.20 × $3,500 = **$21,700 per month** = **$260,400 per year**
+**Lost revenue:** 31 ï¿½ 0.20 ï¿½ $3,500 = **$21,700 per month** = **$260,400 per year**
 
 You're literally leaving a quarter million dollars on the table because you're too busy working to answer the phone.
 
@@ -393,15 +397,15 @@ That's it. No technical skills required.
 
 ### 5-Minute Setup Process
 
-**Step 1:** In your Jobber account, navigate to Settings ’ Integrations ’ API Access. Copy your webhook URL.
+**Step 1:** In your Jobber account, navigate to Settings ï¿½ Integrations ï¿½ API Access. Copy your webhook URL.
 
-**Step 2:** In NextPhone, go to Integrations ’ Jobber. Paste your webhook URL.
+**Step 2:** In NextPhone, go to Integrations ï¿½ Jobber. Paste your webhook URL.
 
 **Step 3:** Map your fields. Tell NextPhone which information should go where in Jobber:
-- Caller name ’ Client first/last name
-- Phone number ’ Client phone
-- Service needed ’ Job description
-- Urgency ’ Job priority
+- Caller name ï¿½ Client first/last name
+- Phone number ï¿½ Client phone
+- Service needed ï¿½ Job description
+- Urgency ï¿½ Job priority
 
 **Step 4:** Customize the questions your AI asks. Common ones for contractors:
 - "What service do you need?"
@@ -489,7 +493,7 @@ The setup takes under 10 minutes. No coding. No technical skills. No disruption 
 
 The choice is simple: keep losing $260K per year, or spend $199/month to capture it.
 
-**Ready to stop missing calls and start capturing revenue? [Connect NextPhone to your Jobber account and try it free for 14 days ’](#)**
+**Ready to stop missing calls and start capturing revenue? [Connect NextPhone to your Jobber account and try it free for 14 days ï¿½](#)**
 
 ---
 

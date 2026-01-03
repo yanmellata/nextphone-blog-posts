@@ -1,5 +1,9 @@
 # Airtable + NextPhone: Build Custom Lead Database with Real-Time Sync
 
+**Meta Title:** Airtable Phone Integration: Custom Lead Database Setup Guide 2025
+
+**Meta Description:** Build a custom lead tracking database with Airtable and AI phone answering. Capture every call automatically for $219/mo—10X cheaper than traditional CRMs.
+
 **Key Takeaways:**
 
 - Airtable is a flexible, no-code database that costs $20/user/month—10X cheaper than traditional CRMs
@@ -9,7 +13,7 @@
 - NextPhone's AI captures caller data in real-time and syncs it directly to your Airtable base
 - The combined solution (NextPhone $199/mo + Airtable $20/mo) costs less than one lost job per month
 
-[Soft CTA: See how NextPhone captures lead data 24/7 →]
+<BlogCTA text="See how NextPhone captures lead data 24/7" variant="section" />
 
 ---
 
@@ -336,7 +340,7 @@ NextPhone supports both timing options:
 
 Both methods are instant (within seconds). Choose based on your workflow.
 
-[Ready to stop missing calls? Try NextPhone free for 14 days →]
+<BlogCTA text="Ready to stop missing calls? Try NextPhone free for 14 days" variant="section" />
 
 ## Frequently Asked Questions
 

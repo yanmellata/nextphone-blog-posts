@@ -1,5 +1,9 @@
 # Google Business Profile Sync: AI Receptionist Answers Hours & Reviews Automatically
 
+**Meta Title:** Google Business Profile AI Integration: Real-Time Sync 2025
+
+**Meta Description:** AI receptionist pulls hours from Google Business Profile to answer "Are you open?" in real-time. Consistent NAP data improves local SEO rankings.
+
 **Key Takeaways:**
 
 - Google Business Profile accuracy directly impacts phone conversionsin our analysis of 13,175 calls, 74.1% went unanswered when customers couldn't reach businesses

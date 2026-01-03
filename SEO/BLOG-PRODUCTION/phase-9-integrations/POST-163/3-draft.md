@@ -1,5 +1,9 @@
 # Mitel + NextPhone: Enterprise Phone System Integration
 
+**Meta Title:** Mitel Alternative: AI Phone System for Small Business 2025
+
+**Meta Description:** Mitel has 200+ integrations but complex setup and EOL concerns. AI receptionist: $199/mo, setup in hours, captures calls Mitel desk phones miss.
+
 **Key Takeaways:**
 
 - Mitel is an enterprise phone system with 200+ integrations, but faces end-of-life concerns and complex setup requirements
@@ -76,10 +80,10 @@ We found that 25.4% of customer calls explicitly request callbacks. Without a sy
 
 Think of it as your first line of defense:
 
-- Quote requests ’ AI gathers details, schedules estimate
-- Scheduling ’ AI checks availability, books appointment
-- Emergency calls ’ AI detects urgency (15.9% of calls contain keywords like "urgent," "emergency," "ASAP"), routes immediately to your phone
-- Common questions ’ AI answers from your business knowledge base (hours, pricing, service areas)
+- Quote requests ï¿½ AI gathers details, schedules estimate
+- Scheduling ï¿½ AI checks availability, books appointment
+- Emergency calls ï¿½ AI detects urgency (15.9% of calls contain keywords like "urgent," "emergency," "ASAP"), routes immediately to your phone
+- Common questions ï¿½ AI answers from your business knowledge base (hours, pricing, service areas)
 
 The difference between VoIP and AI isn't the technologyit's that AI actually answers the phone.
 

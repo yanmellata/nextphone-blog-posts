@@ -1,5 +1,9 @@
 # Freshsales + NextPhone: Freshworks CRM Integration Guide
 
+**Meta Title:** Freshsales CRM + AI Phone Integration: Budget-Friendly Setup 2025
+
+**Meta Description:** Combine Freshsales Freddy AI with NextPhone AI receptionist for complete sales automation. Capture 100% of calls and auto-score leads for $199/mo.
+
 **Key Takeaways:**
 
 - Freshsales is an affordable CRM for small businesses with AI lead scoring via Freddy AI starting at $11/user/month—a budget-friendly alternative to Salesforce

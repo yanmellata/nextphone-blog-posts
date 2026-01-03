@@ -1,10 +1,14 @@
 # PracticePanther + NextPhone: Legal Workflow Automation
 
+**Meta Title:** PracticePanther AI Integration: Legal Time Tracking Automation 2025
+
+**Meta Description:** Attorneys lose 10-25% of billable hours from delayed tracking. AI receptionist automates call-to-billing workflowâ€”$147K+ ROI for $199/mo.
+
 **Key Takeaways:**
 
 - Law firms miss 35% of incoming calls, costing the industry an estimated $109 billion annually
 - Attorneys lose 10-25% of billable hours from delayed time tracking, with phone calls being the easiest to forget
-- AI receptionist integration with PracticePanther automates the entire workflow: call ’ intake ’ time entry ’ billing
+- AI receptionist integration with PracticePanther automates the entire workflow: call ï¿½ intake ï¿½ time entry ï¿½ billing
 - Complete automation captures both missed client opportunities and unbilled attorney time
 - ROI calculation: $147,000+ annual opportunity vs. $199/month cost
 - Setup takes hours, not weeks, with direct API integration requiring no middleware
@@ -89,10 +93,10 @@ When someone calls about a DUI arrest at 2 AM, the AI recognizes the urgency and
 
 Via HTTP webhook, the AI sends collected data directly to PracticePanther:
 
-- Caller information ’ Contact record (automatically created or updated)
-- Case type ’ Matter category
-- Call notes ’ Activity log
-- Call duration ’ Time entry
+- Caller information ï¿½ Contact record (automatically created or updated)
+- Case type ï¿½ Matter category
+- Call notes ï¿½ Activity log
+- Call duration ï¿½ Time entry
 
 No manual data entry. No copy-pasting between systems.
 
@@ -130,11 +134,11 @@ The technical integration uses PracticePanther's API via custom HTTP webhooks. H
 
 You configure which data fields to send. Common mappings:
 
-- Caller name ’ Contact name
-- Phone number ’ Contact phone
-- Case type ’ Matter type
-- Call summary ’ Activity notes
-- Duration ’ Time entry hours
+- Caller name ï¿½ Contact name
+- Phone number ï¿½ Contact phone
+- Case type ï¿½ Matter type
+- Call summary ï¿½ Activity notes
+- Duration ï¿½ Time entry hours
 
 Setup takes 2-4 hours total, not the 1-2 weeks typical of traditional answering service onboarding. Once configured, it runs automatically.
 
@@ -151,13 +155,13 @@ Missed calls:
 - 35% missed = 14 missed calls/month
 - $5,000 average case value
 - 15% conversion rate
-- Lost revenue: 14 × $5,000 × 15% = **$10,500/month**
+- Lost revenue: 14 ï¿½ $5,000 ï¿½ 15% = **$10,500/month**
 
 Unbilled time:
 - 5 client calls/day forgotten
 - 8 minutes average per call
 - $300/hour billing rate
-- 5 × 8 min × ($300/60) × 20 work days = **$2,000/month**
+- 5 ï¿½ 8 min ï¿½ ($300/60) ï¿½ 20 work days = **$2,000/month**
 
 **Total monthly opportunity cost: $12,500**
 

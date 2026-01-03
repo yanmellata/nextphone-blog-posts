@@ -1,5 +1,9 @@
 # Discord + NextPhone: Community-Based Business Communication Setup
 
+**Meta Title:** Discord Phone Integration: Community Business Call Alerts 2025
+
+**Meta Description:** Your team is active on Discord but missing phone calls. Add AI receptionist with webhook alertsâ€”role-based routing, 5-minute setup, $199/mo.
+
 **Key Takeaways:**
 
 - Modern community businesses operate in Discord but miss phone calls
@@ -57,7 +61,7 @@ According to [Discord's official documentation](https://support.discord.com/hc/e
 
 When a phone call happens, your system sends data to the webhook URL. Discord receives it and posts a formatted message to whatever channel you specified. Your team sees it instantly.
 
-### The Call ’ Discord Flow
+### The Call ï¿½ Discord Flow
 
 Here's what actually happens:
 
@@ -65,7 +69,7 @@ Here's what actually happens:
 2. AI answers and asks what they need
 3. Customer explains their situation
 4. Phone system triggers webhook
-5. Notification appears in Discord: "=Þ Call from Sarah Jones (555-1234) - Quote request for web design services"
+5. Notification appears in Discord: "=ï¿½ Call from Sarah Jones (555-1234) - Quote request for web design services"
 
 The entire flow takes 2 seconds. By the time your AI finishes the call, your team already knows about it.
 
@@ -81,7 +85,7 @@ The notification includes everything your team needs:
 
 In our analysis of 13,175 calls, 15.9% contained urgency language like "emergency," "urgent," or "ASAP." When the AI detects urgency, it can flag the notification accordingly and trigger role mentions.
 
-[IMAGE: Flowchart showing Call arrives ’ NextPhone AI ’ Webhook trigger ’ Discord notification]
+[IMAGE: Flowchart showing Call arrives ï¿½ NextPhone AI ï¿½ Webhook trigger ï¿½ Discord notification]
 
 ## Role-Based Alert Workflows
 
@@ -89,27 +93,27 @@ Not every call needs the same response. Some require immediate attention from yo
 
 [Discord integrations](https://www.make.com/en/blog/discord-integrations-guide) let you route notifications based on what the AI learns during the conversation.
 
-### Emergency Calls ’ @Support Team
+### Emergency Calls ï¿½ @Support Team
 
 Customer: "Our website is down, we need help immediately."
 
-Discord notification: "=¨ URGENT: Call from Mike Chen (555-9876) - Website outage - @support @emergency"
+Discord notification: "=ï¿½ URGENT: Call from Mike Chen (555-9876) - Website outage - @support @emergency"
 
 Everyone with the @support role gets pinged instantly. Response time goes from "we'll check voicemail tomorrow" to "on it" in 30 seconds.
 
 Our data shows 6.2% of calls are true emergencies requiring immediate response. That's about 3 emergency calls per month for a typical business. Missing even one can cost you a customer relationship.
 
-### Quote Requests ’ @Sales Team
+### Quote Requests ï¿½ @Sales Team
 
 Customer: "How much would it cost to build a custom Discord bot?"
 
-Discord notification: "=° Call from Jennifer Williams (555-4321) - Quote request: custom Discord bot - @sales"
+Discord notification: "=ï¿½ Call from Jennifer Williams (555-4321) - Quote request: custom Discord bot - @sales"
 
 Your sales team gets notified. The urgent ping is reserved for actual emergencies. They can respond when they wrap up what they're working onbut they won't forget because it's sitting in Discord, not buried in voicemail.
 
 Quote requests represent 6.9% of calls in our analysis (171 calls out of 2,487). These are high-intent prospects. You can't afford to miss them.
 
-### General Inquiries ’ #general Channel (No Mention)
+### General Inquiries ï¿½ #general Channel (No Mention)
 
 Customer: "What hours are you open?"
 
@@ -125,7 +129,7 @@ You don't need to be technical to set this up. If you can copy and paste a URL, 
 
 **Step 1: Create Discord Webhook**
 - Open your Discord server
-- Go to Server Settings ’ Integrations ’ Webhooks
+- Go to Server Settings ï¿½ Integrations ï¿½ Webhooks
 - Click "New Webhook"
 - Name it (e.g., "Business Calls")
 - Select the channel where notifications should appear
@@ -145,7 +149,7 @@ You don't need to be technical to set this up. If you can copy and paste a URL, 
 - In NextPhone dashboard, go to Integrations
 - Select "HTTP Webhook"
 - Paste your Discord webhook URL
-- Map the data fields (caller name ’ {{caller_name}}, phone ’ {{caller_number}}, etc.)
+- Map the data fields (caller name ï¿½ {{caller_name}}, phone ï¿½ {{caller_number}}, etc.)
 - Set conditions if needed (only urgent calls, only new customers, etc.)
 
 **Step 5: Test It**
@@ -189,7 +193,7 @@ Let's do the math:
 - Equals $7,000/month recovered revenue
 - That's $84,000/year
 
-ROI: $84,000 gained ÷ $2,388 cost = **3,515% return**
+ROI: $84,000 gained ï¿½ $2,388 cost = **3,515% return**
 
 And that's conservative. Our data shows emergency calls average $4,200 in revenue (higher than routine work). Missing just one emergency per week costs $16,800 per month.
 
@@ -217,7 +221,7 @@ Works with any Discord server, any channel, any role setup you've already got. N
 
 The AI handles the call. The webhook handles Discord. You handle the customer.
 
-[See how it works ’](https://getnextphone.com/how-it-works)
+[See how it works ï¿½](https://getnextphone.com/how-it-works)
 
 ## Frequently Asked Questions
 
@@ -227,7 +231,7 @@ No coding or technical skills required. The setup is a simple copy/paste process
 
 ### How much does this cost?
 
-Discord is free (always). NextPhone is $199/month for unlimited callsno per-call charges, no hidden fees, no limits during busy seasons. You can test everything with a 14-day free trial before paying anything. [See full pricing ’](https://getnextphone.com/pricing)
+Discord is free (always). NextPhone is $199/month for unlimited callsno per-call charges, no hidden fees, no limits during busy seasons. You can test everything with a 14-day free trial before paying anything. [See full pricing ï¿½](https://getnextphone.com/pricing)
 
 ### What information appears in Discord notifications?
 
@@ -253,7 +257,7 @@ The solution isn't choosing between Discord and phone support. It's bringing pho
 
 Bridge that gap. Set up Discord alerts in 5 minutes. Never miss another call while your team is actively online 10 feet away.
 
-[Start your free 14-day trial of NextPhone and set up Discord integration today ’](https://getnextphone.com/trial)
+[Start your free 14-day trial of NextPhone and set up Discord integration today ï¿½](https://getnextphone.com/trial)
 
 ---
 

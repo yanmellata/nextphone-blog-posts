@@ -1,5 +1,9 @@
 # NextPhone Salesforce Integration: Automated Lead Capture Setup
 
+**Meta Title:** Salesforce AI Phone Integration: Capture Every Lead Automatically 2025
+
+**Meta Description:** Stop losing $260K yearly to missed calls. Set up Salesforce integration with AI receptionist to auto-create leads, log calls, and trigger workflows instantly.
+
 **Key Takeaways:**
 
 - 74.1% of contractor calls go unanswered, resulting in lost leads without CRM automation   automatic Salesforce integration captures every opportunity
@@ -31,13 +35,13 @@ Salesforce integration connects external systems   like phone systems, websites,
 
 For contractors and home services businesses, phone calls are your primary lead source. But if call data doesn't make it into Salesforce, you can't track which marketing channels work, which reps are following up, or which leads are going cold.
 
-[IMAGE: Diagram showing "Manual vs Automated Lead Capture" - left side shows sticky notes ’ forgotten leads, right side shows phone call ’ automatic Salesforce lead]
+[IMAGE: Diagram showing "Manual vs Automated Lead Capture" - left side shows sticky notes ï¿½ forgotten leads, right side shows phone call ï¿½ automatic Salesforce lead]
 
 ### Why Contractors Need CRM Automation
 
 Manual lead entry creates four major problems:
 
-**Time waste:** 15 minutes per call × 42 calls per month = 10.5 hours of administrative work. At $50 per hour admin cost, that's $525 per month spent on data entry instead of customer service.
+**Time waste:** 15 minutes per call ï¿½ 42 calls per month = 10.5 hours of administrative work. At $50 per hour admin cost, that's $525 per month spent on data entry instead of customer service.
 
 **Low capture rate:** When reps rely on memory or sticky notes to log calls later, you capture about 40% of leads compared to 100% with automation. Missing 60% of your lead data makes pipeline forecasting impossible.
 
@@ -70,7 +74,7 @@ Leads have a Status field (New, Working, Qualified, Unqualified) and can be assi
 
 A Contact represents a qualified person associated with an Account (company). Contacts have a purchase history, relationship notes, and can be linked to multiple Opportunities.
 
-According to Salesforce Ben, "Leads are not associated with accounts by default, Contacts are. Lead’Contact conversion is one-way." You cannot "undo" a convert   Contacts can never revert back to Leads.
+According to Salesforce Ben, "Leads are not associated with accounts by default, Contacts are. Leadï¿½Contact conversion is one-way." You cannot "undo" a convert   Contacts can never revert back to Leads.
 
 For phone calls, you'd update a Contact when:
 - An existing customer calls back about a previous job
@@ -81,7 +85,7 @@ For phone calls, you'd update a Contact when:
 
 An Opportunity represents a sales deal in progress. It's linked to an Account and Contact, with fields for estimated value, close date, and pipeline stage. Opportunities let you track potential revenue and forecast sales.
 
-Salesforce's official documentation explains: "Track all your sales opportunity details   size, stage, competitors, and more." For home services, an Opportunity might represent a $12,000 roof replacement project moving through stages: Quote Sent ’ Site Visit Scheduled ’ Proposal Delivered ’ Contract Signed ’ Closed Won.
+Salesforce's official documentation explains: "Track all your sales opportunity details   size, stage, competitors, and more." For home services, an Opportunity might represent a $12,000 roof replacement project moving through stages: Quote Sent ï¿½ Site Visit Scheduled ï¿½ Proposal Delivered ï¿½ Contract Signed ï¿½ Closed Won.
 
 ### What is an Account in Salesforce?
 
@@ -91,11 +95,11 @@ An Account represents the company or organization. For residential contractors, 
 
 Here's the workflow for phone calls:
 
-**New prospect:** Create Lead (standalone) ’ Qualify through conversation ’ Convert ’ Creates Contact + Account + Opportunity (all linked)
+**New prospect:** Create Lead (standalone) ï¿½ Qualify through conversation ï¿½ Convert ï¿½ Creates Contact + Account + Opportunity (all linked)
 
-**Existing customer:** Update Contact ’ Create new Opportunity if it's a new project ’ Track through pipeline stages
+**Existing customer:** Update Contact ï¿½ Create new Opportunity if it's a new project ï¿½ Track through pipeline stages
 
-[IMAGE: Relationship diagram showing Lead (standalone box) ’ arrow "Convert" ’ Contact + Account + Opportunity (connected boxes)]
+[IMAGE: Relationship diagram showing Lead (standalone box) ï¿½ arrow "Convert" ï¿½ Contact + Account + Opportunity (connected boxes)]
 
 This relationship structure is why understanding objects matters for integration   you need to decide whether each call should create a Lead or update a Contact.
 
@@ -135,7 +139,7 @@ You need to create a Connected App for any external system (like NextPhone) that
 
 Follow these steps in your Salesforce org:
 
-**Step 1:** Navigate to Setup (gear icon) ’ App Manager ’ Click "New Connected App"
+**Step 1:** Navigate to Setup (gear icon) ï¿½ App Manager ï¿½ Click "New Connected App"
 
 **Step 2:** Fill in basic information:
 - Connected App Name: "NextPhone Integration" (or your app name)
@@ -369,7 +373,7 @@ Based on our analysis of 13,175 calls, these are the most valuable custom fields
 
 ### Creating Custom Fields in Salesforce
 
-To create custom fields, navigate to Setup ’ Object Manager ’ Lead ’ Fields & Relationships ’ New.
+To create custom fields, navigate to Setup ï¿½ Object Manager ï¿½ Lead ï¿½ Fields & Relationships ï¿½ New.
 
 Choose the field type:
 - **Checkbox:** For Yes/No data (Callback_Requested__c)
@@ -399,7 +403,7 @@ Here's a mapping table for call intelligence data:
 
 **Follow Salesforce format:** Custom fields end with `__c` automatically
 
-**Match data types:** Number webhook data ’ Number field, Text ’ Text field
+**Match data types:** Number webhook data ï¿½ Number field, Text ï¿½ Text field
 
 **Don't go overboard:** Create 5-10 essential custom fields, not 50. Too many fields make the UI cluttered.
 
@@ -422,11 +426,11 @@ An Opportunity represents a specific sales deal   not just a lead or contact, bu
 
 Salesforce's [opportunity management](https://help.salesforce.com/s/articleView?id=sf.essentials_opportunities.htm) documentation explains: "Track all your sales opportunity details   size, stage, competitors, and more."
 
-### The Phone Call ’ Opportunity Workflow
+### The Phone Call ï¿½ Opportunity Workflow
 
 Here's how phone calls flow into Salesforce opportunities:
 
-**Step 1:** Inbound call ’ AI or receptionist answers ’ Collects caller information
+**Step 1:** Inbound call ï¿½ AI or receptionist answers ï¿½ Collects caller information
 
 **Step 2:** Create Lead in Salesforce with all call details
 
@@ -442,7 +446,7 @@ Here's how phone calls flow into Salesforce opportunities:
 - **Closed Won:** Job scheduled, deposit received
 - **Closed Lost:** Customer chose competitor or decided not to proceed
 
-[IMAGE: Workflow diagram showing: "Inbound Call" ’ "Lead Created" ’ "AI Qualifies (asks budget)" ’ "Convert Lead" ’ "Contact + Account + Opportunity" ’ "Pipeline Stage Tracking"]
+[IMAGE: Workflow diagram showing: "Inbound Call" ï¿½ "Lead Created" ï¿½ "AI Qualifies (asks budget)" ï¿½ "Convert Lead" ï¿½ "Contact + Account + Opportunity" ï¿½ "Pipeline Stage Tracking"]
 
 ### Opportunity Stages for Service Businesses
 
@@ -602,7 +606,7 @@ For more details, see the [official Salesforce OAuth documentation](https://deve
 Salesforce provides duplicate rules to prevent creating duplicate records. Configure rules to check Phone or Email before creating Leads:
 
 **In Salesforce:**
-Setup ’ Duplicate Rules ’ Create rule for Leads ’ Match Phone field ’ Block or alert when duplicate found
+Setup ï¿½ Duplicate Rules ï¿½ Create rule for Leads ï¿½ Match Phone field ï¿½ Block or alert when duplicate found
 
 **In NextPhone:**
 Configure the AI to ask for phone number or email first. NextPhone checks Salesforce for existing Lead or Contact with that phone/email. If found, update the existing record instead of creating a duplicate.

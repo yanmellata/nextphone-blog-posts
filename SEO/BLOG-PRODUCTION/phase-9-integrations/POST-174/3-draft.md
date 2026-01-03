@@ -1,5 +1,9 @@
 # Slack Notifications: Get Alerted When Important Calls Come In
 
+**Meta Title:** Slack Call Notifications: AI Receptionist Integration 2025
+
+**Meta Description:** Get instant Slack alerts for customer calls. Route emergencies to #urgent, sales to #sales. Rich transcripts and AI summariesâ€”$199/mo unlimited.
+
 **Key Takeaways:**
 
 - Small businesses lose 74.1% of customer callsthat's $260,400 per year in missed revenue for a typical contractor
@@ -139,7 +143,7 @@ This is where it gets powerful. You can include:
 
 The more context you provide, the better your team can prioritize who responds and how quickly.
 
-[IMAGE: Diagram showing call flow - incoming call ’ phone system ’ webhook ’ Slack notification in channel]
+[IMAGE: Diagram showing call flow - incoming call ï¿½ phone system ï¿½ webhook ï¿½ Slack notification in channel]
 
 ## What Call Information Should You Send to Slack?
 
@@ -150,7 +154,7 @@ Not all calls are equal. Your Slack notifications should reflect that.
 The basics: who called, when, and their phone number. Format it for quick action:
 
 ```
-=Þ Missed Call
+=ï¿½ Missed Call
 John Smith
 (555) 123-4567 [tap to call]
 2:34 PM - Tuesday
@@ -163,7 +167,7 @@ Your team can tap the number on mobile and call back immediately. No searching f
 If the caller left a voicemail, include a transcription. Reading takes 10 seconds. Listening to a voicemail takes 60 seconds.
 
 ```
-<¤ New Voicemail
+<ï¿½ New Voicemail
 Sarah Johnson
 (555) 987-6543
 3:15 PM - Tuesday
@@ -179,7 +183,7 @@ Now your team knows exactly what the customer needs before calling back. They ca
 If you're using an AI receptionist (like NextPhone), the AI can generate a summary of what the caller wanted:
 
 ```
-=Ë Call Summary
+=ï¿½ Call Summary
 Mike Chen - (555) 246-8135
 4:02 PM - Tuesday
 New customer, needs roof inspection after storm damage
@@ -220,9 +224,9 @@ Instead, route intelligently.
 
 Different calls need different people:
 
-- **Sales inquiries** ’ #sales channel (sales team, estimators)
-- **Support questions** ’ #support channel (customer service, schedulers)
-- **General calls** ’ #calls channel (whoever is available)
+- **Sales inquiries** ï¿½ #sales channel (sales team, estimators)
+- **Support questions** ï¿½ #support channel (customer service, schedulers)
+- **General calls** ï¿½ #calls channel (whoever is available)
 
 Your sales team doesn't need to see appointment reschedule requests. Your support team doesn't need to jump on every new lead inquiry. Targeted routing keeps everyone focused.
 
@@ -233,7 +237,7 @@ Our data shows that 15.9% of calls contain urgency keywords like "emergency," "u
 These calls can't wait in a general queue. Route them to an #urgent channel with @channel notifications enabled:
 
 ```
-=¨ @channel URGENT CALL
+=ï¿½ @channel URGENT CALL
 Emergency: Pipe burst, water flooding basement
 Tom Wilson - (555) 789-4561
 Called: 9:47 PM
@@ -257,7 +261,7 @@ Your new lead specialist focuses on #new-leads. Your customer success person mon
 
 Everyone knows their lane. Nothing gets duplicated or ignored.
 
-[IMAGE: Flowchart showing call routing logic - Emergency keywords? ’ #urgent, New customer? ’ #new-leads, Callback request? ’ #follow-ups, Default ’ #calls]
+[IMAGE: Flowchart showing call routing logic - Emergency keywords? ï¿½ #urgent, New customer? ï¿½ #new-leads, Callback request? ï¿½ #follow-ups, Default ï¿½ #calls]
 
 ## Set Up Custom Triggers for Emergency Calls
 
@@ -304,7 +308,7 @@ For true emergencies, consider escalating beyond Slack:
 1. **@channel alerts** - Notifies everyone in #urgent channel immediately
 2. **SMS backup** - Send text to on-call phone if no Slack response in 5 minutes
 3. **Multiple channels** - Post in both #urgent and #calls to maximize visibility
-4. **Priority formatting** - Use =¨ emoji, ALL CAPS for "EMERGENCY," red text if your Slack theme supports it
+4. **Priority formatting** - Use =ï¿½ emoji, ALL CAPS for "EMERGENCY," red text if your Slack theme supports it
 
 One HVAC contractor told us they missed a "no AC in 98-degree heat" call because it went to their general #calls channel during a busy afternoon. By the time they checked Slack that evening, the homeowner had called three other companies and booked service.
 
@@ -350,11 +354,11 @@ Plus, we include:
 
 Tell NextPhone your routing rules once:
 
-- Emergency calls ’ #urgent channel
-- Sales inquiries ’ #sales channel
-- Existing customers ’ #support channel
-- Callback requests ’ #follow-ups channel
-- Everything else ’ #calls channel
+- Emergency calls ï¿½ #urgent channel
+- Sales inquiries ï¿½ #sales channel
+- Existing customers ï¿½ #support channel
+- Callback requests ï¿½ #follow-ups channel
+- Everything else ï¿½ #calls channel
 
 We route automatically based on what the AI learns during the conversation. You don't manually sort notifications.
 
@@ -382,7 +386,7 @@ ROI calculation: You're losing $260,400/year to missed calls. NextPhone costs $2
 
 [IMAGE: Cost comparison table showing DIY ($0 but limited), VoIP ($15-40/user/month), NextPhone ($199/month unlimited)]
 
-See how NextPhone integrates with your Slack workspace ’
+See how NextPhone integrates with your Slack workspace ï¿½
 
 ## Frequently Asked Questions
 
@@ -404,7 +408,7 @@ You can include any data your phone system collects: caller name and phone numbe
 
 ### Can I route calls to different Slack channels automatically?
 
-Yes, this is one of the most powerful features. You can route based on keywords in the caller's message (emergency keywords ’ #urgent), urgency level (high priority vs routine), time of day (after-hours ’ #on-call), or customer type (new leads ’ #sales, existing ’ #support). Webhooks can send to different channel URLs based on these criteria. NextPhone handles this routing automaticallythe AI understands what the caller needs and sends the notification to the right channel based on your rules.
+Yes, this is one of the most powerful features. You can route based on keywords in the caller's message (emergency keywords ï¿½ #urgent), urgency level (high priority vs routine), time of day (after-hours ï¿½ #on-call), or customer type (new leads ï¿½ #sales, existing ï¿½ #support). Webhooks can send to different channel URLs based on these criteria. NextPhone handles this routing automaticallythe AI understands what the caller needs and sends the notification to the right channel based on your rules.
 
 ### How do I set up a Slack webhook?
 
@@ -422,7 +426,7 @@ NextPhone handles the entire integration for you. Our AI answers every call, col
 
 The businesses winning in 2025 aren't the ones with the biggest marketing budgets. They're the ones answering every call.
 
-Start your free 14-day trial and see how Slack notifications change your response time ’
+Start your free 14-day trial and see how Slack notifications change your response time ï¿½
 
 ---
 

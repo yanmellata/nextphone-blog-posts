@@ -1,5 +1,9 @@
 # NextPhone Google Calendar Integration: Two-Way Sync Guide
 
+**Meta Title:** Google Calendar AI Phone Integration: Two-Way Sync Setup 2025
+
+**Meta Description:** Connect AI receptionist to Google Calendar for real-time booking during calls. Prevents double bookings and reduces missed appointments by 38%.
+
 **Key Takeaways:**
 
 - 7.7% of customer calls are scheduling requeststhat's over 1,000 missed appointment opportunities in our analysis of 13,175 calls from home services contractors
@@ -75,9 +79,9 @@ All of this happens in under 3 secondsfast enough to complete while the custome
 
 | Feature | One-Way Sync | Two-Way Sync |
 |---------|--------------|---------------|
-| Phone system ’ Calendar |  Yes |  Yes |
-| Calendar ’ Phone system | L No |  Yes |
-| Prevents double bookings |   Partial |  Complete |
+| Phone system ï¿½ Calendar |  Yes |  Yes |
+| Calendar ï¿½ Phone system | L No |  Yes |
+| Prevents double bookings | ï¿½ Partial |  Complete |
 | Manual updates reflected | L No |  Yes |
 | Best for | Simple logging | Active scheduling |
 
@@ -171,7 +175,7 @@ This sounds technical, but it's actually just clicking through a few screens. Th
 
 **Step 13:** Copy your Client ID and Client Secret (you'll need these for the next step)
 
-Most AI phone system platforms provide detailed instructions for where to paste these credentials in their settings. With NextPhone, you simply navigate to Integrations ’ Google Calendar ’ Paste credentials ’ Authorize.
+Most AI phone system platforms provide detailed instructions for where to paste these credentials in their settings. With NextPhone, you simply navigate to Integrations ï¿½ Google Calendar ï¿½ Paste credentials ï¿½ Authorize.
 
 ### Authorizing Calendar Access
 
@@ -293,7 +297,7 @@ The AI is pre-trained on common scheduling scenarios. You don't need to program 
 Here's the actual setup process for NextPhone:
 
 1. Log into your NextPhone dashboard
-2. Navigate to Integrations ’ Google Calendar
+2. Navigate to Integrations ï¿½ Google Calendar
 3. Click "Connect Google Calendar"
 4. Follow the OAuth authorization flow (as described in Section 4)
 5. Set your business hours and availability preferences
@@ -402,7 +406,7 @@ The businesses winning in 2025 aren't the ones with the biggest marketing budget
 
 Stop losing scheduling opportunities to voicemail. NextPhone's Google Calendar integration answers every call, checks your real-time availability, and books appointments while your customer is on the phone.
 
-[Start your free 14-day trial with Google Calendar sync included](https://getnextphone.com/signup) ’
+[Start your free 14-day trial with Google Calendar sync included](https://getnextphone.com/signup) ï¿½
 
 ---
 

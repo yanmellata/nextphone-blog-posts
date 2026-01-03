@@ -1,5 +1,9 @@
 # AI Receptionist API Integration Tutorial for Developers
 
+**Meta Title:** AI Receptionist API Tutorial: Build Custom Integrations 2025
+
+**Meta Description:** Build custom AI phone integrations with HTTP webhooks. Authenticate with API keys, handle real-time events, implement CRM sync and SMS follow-up.
+
 **Key Takeaways:**
 
 - Build custom integrations with NextPhone's HTTP webhook system
@@ -27,7 +31,7 @@ NextPhone uses API keys for authentication. Every webhook request includes an au
 
 ### Getting Your API Key
 
-Log into NextPhone dashboard ’ Settings ’ API Keys ’ Generate New Key.
+Log into NextPhone dashboard ï¿½ Settings ï¿½ API Keys ï¿½ Generate New Key.
 
 You'll get an API key in this format:
 
@@ -181,7 +185,7 @@ Your code parses this JSON and takes action.
 
 In NextPhone dashboard:
 
-1. Go to Integrations ’ Webhooks ’ Add Webhook
+1. Go to Integrations ï¿½ Webhooks ï¿½ Add Webhook
 2. **Name:** "CRM Lead Sync"
 3. **URL:** `https://yourdomain.com/webhook/nextphone`
 4. **Events:** Select which events trigger this webhook:

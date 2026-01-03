@@ -1,5 +1,9 @@
 # Square + NextPhone: POS & Payment Integration for Service Businesses
 
+**Meta Title:** Square AI Phone Integration: Booking + Payment Automation 2025
+
+**Meta Description:** Square handles payments but 74.1% of calls go unanswered. AI receptionist books appointments and sends Square payment links via SMS.
+
 **Key Takeaways:**
 
 - Square handles POS and payments perfectly, but 74.1% of customer calls still go unanswered in service businesses
@@ -164,7 +168,7 @@ NextPhone integrates with any calendar systemCalendly, Google Calendar, Acuity,
 
 ### How much does this integration cost?
 
-NextPhone costs [$199/month](/pricing) for unlimited calls with all features included. Square charges standard processing fees: 2.6% + 10¢ for in-person transactions and 2.9% + 30¢ for online payments. If you use Zapier for automation, their free plan covers basic workflows, or paid plans start around $20-30/month for advanced automation.
+NextPhone costs [$199/month](/pricing) for unlimited calls with all features included. Square charges standard processing fees: 2.6% + 10ï¿½ for in-person transactions and 2.9% + 30ï¿½ for online payments. If you use Zapier for automation, their free plan covers basic workflows, or paid plans start around $20-30/month for advanced automation.
 
 Total monthly cost: approximately $200-230 for complete phone + payment automation. Compare that to hiring a full-time receptionist at $2,900 per monthyou're saving 93% while getting 24/7 coverage.
 

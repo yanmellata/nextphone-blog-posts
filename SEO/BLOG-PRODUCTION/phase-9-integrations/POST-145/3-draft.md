@@ -1,5 +1,9 @@
 # AT&T Business Phone AI Receptionist Setup Guide
 
+**Meta Title:** AT&T Business Phone AI Receptionist: Setup Options 2025
+
+**Meta Description:** Two paths to add AI answering to AT&T Business Phone: Office@Hand AI or third-party. Setup takes 30 minutes—stop losing $260K yearly.
+
 **Key Takeaways:**
 
 - AT&T Business Phone customers lose 74.1% of calls without AI answering, costing $260,400 per year in lost revenue

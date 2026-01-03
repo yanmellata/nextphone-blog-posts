@@ -1,5 +1,9 @@
 # Live Booking During Calls: Send Calendar Links via Text or Book Over the Phone
 
+**Meta Title:** Live Phone Booking: AI Schedules During Calls 2025
+
+**Meta Description:** Book appointments live during calls or text calendar linksâ€”customer's choice. Works with Google Calendar, Outlook, Calendly. Reduces no-shows 90%.
+
 **Key Takeaways:**
 
 - Live booking during calls lets customers schedule appointments immediately on the phone or receive a booking link via text - they get to choose
@@ -255,7 +259,7 @@ Your calendar stays organized, accurate, and conflict-free.
 
 **ROI Example - Plumber:**
 - Currently losing 3 appointment bookings per month to missed calls
-- 3 appointments × $350 per service call = $1,050/month
+- 3 appointments ï¿½ $350 per service call = $1,050/month
 - Annual lost revenue: $12,600
 - NextPhone cost: $199/month = $2,388/year
 - Net gain: $10,212 per year
@@ -449,7 +453,7 @@ That's revenue you're already losing. These are customers who want to book with 
 
 NextPhone handles both booking methods (phone and SMS) for $199 per month with unlimited calls. You get 24/7 appointment scheduling, automated confirmations and reminders, real-time calendar integration, and the flexibility to let customers choose how they want to book.
 
-**Never miss another appointment booking. [Start your free 14-day trial of NextPhone ’](#)**
+**Never miss another appointment booking. [Start your free 14-day trial of NextPhone ï¿½](#)**
 
 ---
 

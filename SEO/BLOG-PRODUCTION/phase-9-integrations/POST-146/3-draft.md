@@ -1,5 +1,9 @@
 # T-Mobile for Business + NextPhone: Mobile-First AI Receptionist Integration
 
+**Meta Title:** T-Mobile Business AI Receptionist: Mobile Integration Guide 2025
+
+**Meta Description:** T-Mobile's 5G coverage is great for fieldwork, but you still miss calls on ladders. Add AI receptionist via call forwarding—$244/mo vs $260K lost.
+
 **Key Takeaways:**
 
 - T-Mobile for Business offers nationwide 5G coverage perfect for mobile-first contractors working across multiple job sites

@@ -1,5 +1,9 @@
 # n8n + NextPhone: Self-Hosted Workflow Automation for AI Receptionist
 
+**Meta Title:** n8n AI Phone Automation: Self-Hosted Workflow Setup 2025
+
+**Meta Description:** Self-host call workflows with n8n open-source automation. GDPR/HIPAA compliant, $24/mo cloud or free self-hosted. Capture 74.1% missed calls.
+
 **Key Takeaways:**
 
 - n8n is an open-source workflow automation platform with 400+ integrations and complete data control
@@ -7,7 +11,7 @@
 - NextPhone's webhooks integrate with n8n to automate call workflowsno manual logging required
 - Costs $24/month for cloud hosting or free for self-hosted vs Zapier's escalating task-based pricing
 - Our analysis of 13,175 calls shows 74.1% go unansweredautomation captures these missed opportunities
-- Example workflow: Call received ’ AI captures data ’ n8n processes ’ CRM updated + SMS sent automatically
+- Example workflow: Call received ï¿½ AI captures data ï¿½ n8n processes ï¿½ CRM updated + SMS sent automatically
 
 ---
 

@@ -1,5 +1,9 @@
 # After-Hours AI Phone System: Emergency Routing & Customer Support Automation
 
+**Meta Title:** After-Hours AI Phone System: Emergency Routing Setup 2025
+
+**Meta Description:** Auto-switch between business and after-hours modes. Keyword detection routes emergencies instantly while queuing routine calls. Holiday schedules included.
+
 **Key Takeaways:**
 
 - After-hours phone systems automatically switch between business hours mode (route to staff) and after-hours mode (queue or escalate) based on your schedule
@@ -39,9 +43,9 @@ The system knows your business hours (you configure these: e.g., Monday-Friday 8
 
 **3. Intelligent Triage**
 During after-hours, the system doesn't just blindly route everything to voicemail or your personal phone. It analyzes the call:
-- **Emergency keywords detected?** ’ Immediate escalation
-- **Urgency in caller's voice/words?** ’ SMS/email alert + expedited queue
-- **Routine inquiry?** ’ Professional message, schedule callback, log to CRM
+- **Emergency keywords detected?** ï¿½ Immediate escalation
+- **Urgency in caller's voice/words?** ï¿½ SMS/email alert + expedited queue
+- **Routine inquiry?** ï¿½ Professional message, schedule callback, log to CRM
 
 **4. Escalation or Queue**
 - **Escalate:** Transfer to on-call staff, send SMS with caller details, alert via email
@@ -207,7 +211,7 @@ Beyond basic business hours and emergencies, sophisticated systems support compl
 
 **VIP Customers:** Platinum service plan members always route to human, even for routine calls
 **New Customers:** First-time callers get special intro message and queue priority
-**Repeat Callers:** Customer called 3+ times in 24 hours ’ escalate to manager regardless of business hours
+**Repeat Callers:** Customer called 3+ times in 24 hours ï¿½ escalate to manager regardless of business hours
 
 ### Service-Specific Routing
 
@@ -217,16 +221,16 @@ Beyond basic business hours and emergencies, sophisticated systems support compl
 ### Geographic Routing
 
 **Multi-Location Setup:**
-- Caller from 212 area code ’ Route to NYC office/tech
-- Caller from 310 area code ’ Route to LA office/tech
-- Outside service area ’ Professional message with referral to partner company
+- Caller from 212 area code ï¿½ Route to NYC office/tech
+- Caller from 310 area code ï¿½ Route to LA office/tech
+- Outside service area ï¿½ Professional message with referral to partner company
 
 ### Weather-Triggered Routing
 
 **Integration with weather APIs:**
-- Heat wave (95°F+) ’ AC emergency calls get priority
-- Freeze warning (32°F or below) ’ Heating/plumbing emergencies get priority
-- Storm forecast ’ Increase on-call staffing proactively
+- Heat wave (95ï¿½F+) ï¿½ AC emergency calls get priority
+- Freeze warning (32ï¿½F or below) ï¿½ Heating/plumbing emergencies get priority
+- Storm forecast ï¿½ Increase on-call staffing proactively
 
 ---
 
@@ -235,27 +239,27 @@ Beyond basic business hours and emergencies, sophisticated systems support compl
 Here's exactly how to configure an after-hours system in NextPhone:
 
 **Step 1: Set Business Hours (2 minutes)**
-- Dashboard ’ Settings ’ Business Hours
+- Dashboard ï¿½ Settings ï¿½ Business Hours
 - Define open hours for each day of week
 - Set timezone
 - Add break times if needed
 
 **Step 2: Configure Emergency Keywords (3 minutes)**
-- Dashboard ’ Emergency Routing ’ Keywords
+- Dashboard ï¿½ Emergency Routing ï¿½ Keywords
 - Add critical emergency phrases
 - Add urgent (non-critical) phrases
 - Save
 
 **Step 3: Set On-Call Numbers (1 minute)**
-- Dashboard ’ Emergency Routing ’ On-Call Staff
+- Dashboard ï¿½ Emergency Routing ï¿½ On-Call Staff
 - Primary: [Phone number]
 - Backup: [Phone number]
 - Set rotation schedule if using multiple on-call staff
 
 **Step 4: Choose Escalation Actions (2 minutes)**
-- Emergency ’ Immediate transfer + SMS alert
-- Urgent ’ SMS alert + 30-min callback commitment
-- Routine ’ Queue for next business day
+- Emergency ï¿½ Immediate transfer + SMS alert
+- Urgent ï¿½ SMS alert + 30-min callback commitment
+- Routine ï¿½ Queue for next business day
 
 **Step 5: Customize Greetings (3 minutes)**
 - Business hours greeting
@@ -263,9 +267,9 @@ Here's exactly how to configure an after-hours system in NextPhone:
 - Holiday greeting (optional)
 
 **Step 6: Test (5 minutes)**
-- Make test call during business hours ’ verify routing
-- Make test call after hours with emergency keyword ’ verify transfer works
-- Make test call after hours without emergency ’ verify queue works
+- Make test call during business hours ï¿½ verify routing
+- Make test call after hours with emergency keyword ï¿½ verify transfer works
+- Make test call after hours without emergency ï¿½ verify queue works
 
 **Total setup time: ~15 minutes**
 
@@ -348,7 +352,7 @@ An AI-powered after-hours system gives you the best of both worlds: Professional
 
 In our analysis of 13,175 calls, businesses with intelligent after-hours routing captured 95%+ of emergency calls vs 12% for businesses relying on voicemail. That's not incremental improvementthat's the difference between thriving and losing to competitors.
 
-Set up your after-hours system today and start capturing every call, every hour, every day ’
+Set up your after-hours system today and start capturing every call, every hour, every day ï¿½
 
 ---
 

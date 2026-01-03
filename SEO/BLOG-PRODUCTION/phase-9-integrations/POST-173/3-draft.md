@@ -1,5 +1,9 @@
 # Squarespace AI Receptionist: Click-to-Call Widget Setup
 
+**Meta Title:** Squarespace AI Receptionist Widget: 5-Minute Setup Guide 2025
+
+**Meta Description:** Click-to-call buttons on Squarespace are useless when you can't answer. AI widget answers 24/7—5-minute setup, no coding, $199/mo.
+
 **Key Takeaways:**
 
 - Most Squarespace service businesses add click-to-call buttons but still lose 74.1% of incoming calls

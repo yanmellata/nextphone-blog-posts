@@ -1,5 +1,9 @@
 # Custom Lead Qualification: Train AI to Ask Your Specific Qualification Questions
 
+**Meta Title:** Custom AI Lead Qualification: Industry-Specific Questions 2025
+
+**Meta Description:** Train AI to ask your qualification questions—budget, project details, urgency. 15.9% of calls show urgency language. Data pushes to CRM automatically.
+
 **Key Takeaways:**
 
 - Custom lead qualification lets your AI ask business-specific questions, not generic scripts that frustrate real customers

@@ -1,5 +1,9 @@
 # Five9 + NextPhone: Cloud Contact Center Integration
 
+**Meta Title:** Five9 vs AI Receptionist: Right-Sized Solution Guide 2025
+
+**Meta Description:** Five9 starts at $5,950/mo for 50+ users. Small businesses missing 74.1% of calls need simpler solutionsâ€”AI receptionist at $199/mo, hours to setup.
+
 **Key Takeaways:**
 
 - Five9 is an enterprise cloud contact center with deep CRM integration capabilities including Salesforce, ServiceNow, Microsoft, Oracle, and Zendesk
@@ -95,9 +99,9 @@ Every Five9 plan requires a minimum of 50 users. [CloudTalk's pricing guide](htt
 
 Let's do the math:
 
-- **Core plan:** $119 × 50 users = **$5,950/month** ($71,400/year)
-- **Premium plan:** $169 × 50 users = **$8,450/month** ($101,400/year)
-- **Ultimate plan:** $299 × 50 users = **$14,950/month** ($179,400/year)
+- **Core plan:** $119 ï¿½ 50 users = **$5,950/month** ($71,400/year)
+- **Premium plan:** $169 ï¿½ 50 users = **$8,450/month** ($101,400/year)
+- **Ultimate plan:** $299 ï¿½ 50 users = **$14,950/month** ($179,400/year)
 
 Annual contracts are typical, and additional costs for AI agents, advanced analytics, and premium integrations can increase these totals further.
 

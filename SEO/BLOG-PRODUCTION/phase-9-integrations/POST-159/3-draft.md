@@ -1,5 +1,9 @@
 # Talkdesk Integration: Complete Guide for Contact Centers & Small Businesses
 
+**Meta Title:** Talkdesk vs AI Receptionist: Enterprise vs Small Business 2025
+
+**Meta Description:** Talkdesk costs $75-135/user for 20+ agent teams. Small businesses need simpler solutionsâ€”AI receptionist at $199/mo flat, no per-user fees.
+
 **Key Takeaways:**
 
 - Talkdesk is an enterprise-grade contact center platform with 60+ integrations including Salesforce, HubSpot, Zendesk, and Microsoft Teams
@@ -199,9 +203,9 @@ That's three out of every four potential customers calling someone else.
 
 Here's the math for a typical contractor receiving 42 calls per month:
 
-- 42 calls × 74.1% missed = 31 unanswered calls
-- 31 calls × 20% conversion rate = 6.2 lost jobs
-- 6.2 jobs × $3,500 average = $21,700 lost per month
+- 42 calls ï¿½ 74.1% missed = 31 unanswered calls
+- 31 calls ï¿½ 20% conversion rate = 6.2 lost jobs
+- 6.2 jobs ï¿½ $3,500 average = $21,700 lost per month
 - Annual lost revenue: $260,400
 
 15.9% of those calls contained urgency keywords like "emergency," "urgent," or "ASAP." Emergency jobs average $4,200significantly higher than routine work.

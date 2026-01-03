@@ -1,5 +1,9 @@
 # Emergency Call Routing Setup for Service Businesses (HVAC, Plumbing, Electrical, Contractors)
 
+**Meta Title:** Emergency Call Routing for Contractors: HVAC, Plumbing Setup 2025
+
+**Meta Description:** Emergency calls are 6.2% of volume but $4,200 average revenue. Trade-specific keyword detection routes critical callsâ€”missing one costs $16,800/month.
+
 **Key Takeaways:**
 
 - Emergency calls represent 6.2% of total call volume but average $4,200 in revenue40% higher than routine service calls
@@ -64,7 +68,7 @@ Proper emergency routing starts with clear definitions of what counts as each ur
 **Response:** Immediate transfer to on-call technician's cell phone, no delay
 
 **Examples by Trade:**
-- **HVAC:** No heat in 20°F weather, no AC with 100°F+ heat, gas furnace making "whooshing" sound (potential explosion risk), carbon monoxide detector going off
+- **HVAC:** No heat in 20ï¿½F weather, no AC with 100ï¿½F+ heat, gas furnace making "whooshing" sound (potential explosion risk), carbon monoxide detector going off
 - **Plumbing:** Sewage backup flooding home, burst pipe spraying water, gas line leak, no water to entire house
 - **Electrical:** Sparking outlet, burning smell from panel, power out to entire house, exposed wires
 - **Roofing:** Active leak during rainstorm, portion of roof blown off, tree fallen through roof
@@ -79,7 +83,7 @@ Proper emergency routing starts with clear definitions of what counts as each ur
 **Response:** SMS/email alert to on-call staff, callback commitment within 1-4 hours depending on severity
 
 **Examples by Trade:**
-- **HVAC:** AC not cooling in moderate weather (80°F), furnace making loud noise but still heating, thermostat not responding
+- **HVAC:** AC not cooling in moderate weather (80ï¿½F), furnace making loud noise but still heating, thermostat not responding
 - **Plumbing:** Toilet won't flush (only toilet in house), hot water heater leaking slowly, sump pump not working
 - **Electrical:** Outlet not working, light fixture flickering, breaker tripping repeatedly
 - **Roofing:** Shingles blown off (no active leak yet), flashing loose, gutter detached
@@ -98,7 +102,7 @@ Proper emergency routing starts with clear definitions of what counts as each ur
 - **Electrical:** Install ceiling fan, add outlet, lighting upgrade, generator quote
 - **Roofing:** Roof inspection request, gutter cleaning, estimate for re-roof
 
-The key is context. "My AC isn't working" could be emergency (100°F heat + newborn baby) or routine (mild weather, just noticed today). Modern AI systems analyze both keywords and context to route appropriately.
+The key is context. "My AC isn't working" could be emergency (100ï¿½F heat + newborn baby) or routine (mild weather, just noticed today). Modern AI systems analyze both keywords and context to route appropriately.
 
 ---
 
@@ -109,8 +113,8 @@ Here are industry-specific keyword lists you can use to configure your emergency
 ### HVAC Emergency Keywords
 
 **Critical (Immediate Transfer):**
-- "no heat," "heater not working," "furnace won't turn on," "freezing," "it's [temp below 50°F] in here"
-- "no AC," "air conditioner stopped," "not cooling," "it's [temp above 85°F] in here"
+- "no heat," "heater not working," "furnace won't turn on," "freezing," "it's [temp below 50ï¿½F] in here"
+- "no AC," "air conditioner stopped," "not cooling," "it's [temp above 85ï¿½F] in here"
 - "gas smell," "gas leak," "smell gas near furnace"
 - "carbon monoxide," "CO detector going off," "detector beeping"
 - "furnace smoking," "smoke from vents," "burning smell from furnace"
@@ -230,14 +234,14 @@ AI collects full details:
 
 **3. Assessment:**
 Based on answers, AI upgrades or confirms urgency:
-- "It's 95 degrees and I have a newborn" ’ Upgrade to Critical Emergency
-- "It's 78 degrees, just noticed today" ’ Confirm as Urgent
+- "It's 95 degrees and I have a newborn" ï¿½ Upgrade to Critical Emergency
+- "It's 78 degrees, just noticed today" ï¿½ Confirm as Urgent
 
 **4. Response:**
 "I've alerted our service team. Someone will call you back within [1 hour/4 hours depending on severity]. You'll receive a confirmation text shortly. Is it okay if we call you at [phone number provided]?"
 
 **5. Actions:**
-- **SMS to on-call:** "URGENT service request from [Name] - AC not cooling, 78° inside. Callback requested within 1 hour. Details: [link]"
+- **SMS to on-call:** "URGENT service request from [Name] - AC not cooling, 78ï¿½ inside. Callback requested within 1 hour. Details: [link]"
 - **SMS to customer:** "Thank you for contacting [Business Name]. We've received your request for AC service. [Tech Name] will call you within 1 hour at [phone]. Reference #[ticket ID]."
 - **CRM:** Create service ticket with "URGENT" flag, callback deadline timestamp
 
@@ -329,9 +333,9 @@ Emergency routing requires reliable on-call coverage.
 - If using rotation, set schedule
 
 **Step 4: Test Each Tier (15 minutes)**
-- Call and say "My basement is flooding" ’ Verify immediate transfer
-- Call and say "My AC isn't cooling well" ’ Verify SMS alert sent
-- Call and say "I'd like a quote for new furnace" ’ Verify queued for business hours
+- Call and say "My basement is flooding" ï¿½ Verify immediate transfer
+- Call and say "My AC isn't cooling well" ï¿½ Verify SMS alert sent
+- Call and say "I'd like a quote for new furnace" ï¿½ Verify queued for business hours
 
 **Step 5: Train Your Team (30 minutes)**
 - Show on-call staff how they'll receive emergency alerts
@@ -404,7 +408,7 @@ Intelligent emergency routing doesn't just mean answering 24/7it means routing 
 
 In our analysis of 6.2% emergency call rate across 13,175 total calls, businesses with intelligent routing captured 95% of emergencies vs 12% for voicemail-only businesses. That's the difference between thriving and surviving.
 
-Set up your emergency routing system today and never miss another high-value emergency call ’
+Set up your emergency routing system today and never miss another high-value emergency call ï¿½
 
 ---
 

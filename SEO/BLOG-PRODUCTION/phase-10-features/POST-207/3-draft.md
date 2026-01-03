@@ -1,5 +1,9 @@
 # Spam & Robocall Filtering: Block Bad Callers Before They Reach You
 
+**Meta Title:** Spam & Robocall Filtering: AI-Powered Call Blocking 2025
+
+**Meta Description:** 7.0% of business calls are spam. Smart AI filtering blocks robocalls without false positives that cost you real customers. VIP whitelist included.
+
 **Key Takeaways:**
 
 - Spam calls represent 7.0% of business calls based on our analysis of 13,175 calls from 47 businesses

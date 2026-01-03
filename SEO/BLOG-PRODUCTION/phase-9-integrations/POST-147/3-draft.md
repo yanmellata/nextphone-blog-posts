@@ -1,5 +1,9 @@
 # RingCentral to NextPhone Migration: VoIP Switch Guide
 
+**Meta Title:** RingCentral to AI Receptionist: Migration Guide 2025
+
+**Meta Description:** Paying $30-45/user/month for RingCentral that still misses calls? Switch to AI receptionist for $199/mo flatâ€”answers 100% of calls 24/7.
+
 **Key Takeaways:**
 
 - In our analysis of 13,175 calls from home services businesses, 74.1% went unansweredcosting the average contractor $260,400 per year in lost revenue
@@ -124,7 +128,7 @@ Despite initial skepticism, customers often prefer the AI receptionist over low-
 
 You can keep RingCentral for legitimate team needs and add NextPhone for customer-facing calls.
 
-For example: A general contractor with a 3-person team keeps RingCentral's Core plan ($20/user × 3 = $60/month) for internal extensions and keeps his existing team number. He gets a new NextPhone number ($199/month) for all customer inquiries and puts it on his website, Google Business Profile, and advertising.
+For example: A general contractor with a 3-person team keeps RingCentral's Core plan ($20/user ï¿½ 3 = $60/month) for internal extensions and keeps his existing team number. He gets a new NextPhone number ($199/month) for all customer inquiries and puts it on his website, Google Business Profile, and advertising.
 
 Total cost: $259/month for complete team communication plus 24/7 customer call answering. Every customer call gets answered. Team features remain intact.
 
@@ -134,8 +138,8 @@ Total cost: $259/month for complete team communication plus 24/7 customer call a
 
 Let's calculate real costs for a 5-person team:
 
-- **Annual commitment:** $25/user × 5 users = $125/month
-- **Monthly payment:** $35/user × 5 users = $175/month
+- **Annual commitment:** $25/user ï¿½ 5 users = $125/month
+- **Monthly payment:** $35/user ï¿½ 5 users = $175/month
 - **Regulatory fees:** +$15-25/month (at $3-5 per line)
 - **Total:** $140-200/month
 
@@ -153,8 +157,8 @@ Here's the math that matters:
 
 A typical contractor receives 42 calls per month. At a 74.1% miss rate, 31 calls go to voicemail. Even if only 20% of those would have converted at an average $3,500 job value, that's:
 
-31 missed calls × 20% conversion = 6.2 jobs captured
-6.2 jobs × $3,500 = **$21,700 per month in captured revenue**
+31 missed calls ï¿½ 20% conversion = 6.2 jobs captured
+6.2 jobs ï¿½ $3,500 = **$21,700 per month in captured revenue**
 
 NextPhone pays for itself if it captures ONE job. Everything after that is pure profit recovery.
 

@@ -1,5 +1,9 @@
 # OpenPhone + NextPhone: Modern Business Phone Integration
 
+**Meta Title:** OpenPhone AI Receptionist: Startup Phone Integration 2025
+
+**Meta Description:** OpenPhone is great for team collaboration, but can't answer when everyone's busy. Add AI layer for 24/7 coverage—1,100%+ ROI for startups.
+
 **Key Takeaways:**
 
 - OpenPhone is a mobile-first VoIP platform for startup teams with shared numbers and CRM integrations

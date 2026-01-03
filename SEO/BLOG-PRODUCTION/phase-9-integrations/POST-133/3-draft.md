@@ -1,5 +1,9 @@
 # Capsule CRM + NextPhone: Simple Contact Management Integration
 
+**Meta Title:** Capsule CRM Phone Integration: Lightweight Lead Capture 2025
+
+**Meta Description:** Capsule CRM is simple by design. Add AI phone answering via HTTP webhooks to capture 100% of callsâ€”total cost under $220/month for small teams.
+
 **Key Takeaways:**
 
 - Capsule CRM is a lightweight, affordable contact management system perfect for small businesses who don't need enterprise complexity
@@ -38,7 +42,7 @@ Three reasons: simplicity, transparency, and price.
 
 HubSpot offers a free CRM, but their advanced features come with hefty price tagsand the platform can be overwhelming for small teams. Salesforce is powerful but complex, with customization that requires a dedicated admin.
 
-Capsule starts at £14 per user per month (about $18 USD). That's it. No hidden fees, no surprise charges, no "contact our sales team" pricing games.
+Capsule starts at ï¿½14 per user per month (about $18 USD). That's it. No hidden fees, no surprise charges, no "contact our sales team" pricing games.
 
 For small businesses, [lightweight CRM solutions](https://www.clarify.ai/blog/top-10-lightweight-crm-solutions-for-small-businesses-in-2025) offer the perfect balance of functionality and ease of useand Capsule sits at the top of that category.
 
@@ -176,8 +180,8 @@ Let's break down the actual costs.
 **Capsule CRM:**
 
 - Free plan available (limited features)
-- Starter: £14/user/month (~$18 USD)
-- Professional: £28/user/month (~$36 USD)
+- Starter: ï¿½14/user/month (~$18 USD)
+- Professional: ï¿½28/user/month (~$36 USD)
 
 **NextPhone:**
 
@@ -213,7 +217,7 @@ Yes. Capsule integrates with VoIP providers like JustCall, CloudTalk, and KrispC
 
 ### How much does Capsule CRM cost?
 
-Capsule offers a free plan with basic features. Paid plans start at £14 per user per month (~$18 USD) for the Starter plan and £28 per user per month (~$36 USD) for the Professional plan. Pricing is transparent with no hidden fees.
+Capsule offers a free plan with basic features. Paid plans start at ï¿½14 per user per month (~$18 USD) for the Starter plan and ï¿½28 per user per month (~$36 USD) for the Professional plan. Pricing is transparent with no hidden fees.
 
 ### Is Capsule CRM easy to use?
 

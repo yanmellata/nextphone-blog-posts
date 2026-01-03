@@ -1,5 +1,9 @@
 # 24/7 AI Answering Service: Always-On Phone Coverage Without Hiring Staff
 
+**Meta Title:** 24/7 AI Answering Service: Always-On Coverage for $199/mo 2025
+
+**Meta Description:** 73% of calls happen outside 9-5. AI answers in under 5 seconds, 24/7, unlimited calls for $199/mo vs $2,900/mo human receptionist.
+
 **Key Takeaways:**
 
 - 73% of customer calls happen outside standard 9-5 business hourstraditional receptionists miss nearly three-quarters of potential customers
@@ -196,10 +200,10 @@ You never manually enter lead data again. It flows from call to CRM to your pipe
 
 **Emergency Intelligence:**
 NextPhone doesn't just listen for the word "emergency." It analyzes context:
-- "My basement is flooding" ’ Emergency
-- "I have a small leak under my sink" ’ Non-urgent
-- "My AC stopped working and it's 95 degrees" ’ Emergency
-- "I'd like to schedule an AC tune-up" ’ Routine
+- "My basement is flooding" ï¿½ Emergency
+- "I have a small leak under my sink" ï¿½ Non-urgent
+- "My AC stopped working and it's 95 degrees" ï¿½ Emergency
+- "I'd like to schedule an AC tune-up" ï¿½ Routine
 
 You get intelligent triage, not just keyword matching.
 
@@ -277,7 +281,7 @@ In our analysis of 13,175 calls, businesses that implemented 24/7 answering went
 
 Stop losing leads to voicemail. Stop missing emergency calls worth thousands. Stop letting competitors win simply because they answered first.
 
-Try NextPhone free for 14 days and see how many calls you've been missing ’
+Try NextPhone free for 14 days and see how many calls you've been missing ï¿½
 
 ---
 

@@ -1,5 +1,9 @@
 # Genesys Cloud + NextPhone: Enterprise CCaaS Integration
 
+**Meta Title:** Genesys Cloud vs AI Receptionist: CCaaS Comparison 2025
+
+**Meta Description:** Genesys Cloud costs $75+/user for enterprise contact centers. Small businesses get similar webhook power with AI receptionist at $199/mo flat.
+
 **Key Takeaways:**
 
 - Genesys Cloud is an enterprise contact center platform with powerful integrations for Salesforce, ServiceNow, and custom APIs

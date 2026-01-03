@@ -1,15 +1,19 @@
 # Acuity Scheduling Phone Integration for Service Professionals
 
+**Meta Title:** Acuity Scheduling AI Phone Integration: Therapist Setup Guide 2025
+
+**Meta Description:** Therapists miss 74.1% of client calls during sessions. AI phone integration books Acuity appointments 24/7â€”save $16K+ yearly vs missed callbacks.
+
 **Key Takeaways:**
 
 - Service professionals (therapists, coaches, consultants) miss 74.1% of client calls - that's $16,740+ lost annually for a typical therapy practice
 - Acuity Scheduling excels at online booking, intake forms, and packages, but doesn't answer your phone
 - AI phone integration fills the gap: answers calls 24/7, collects client information, and books appointments directly into Acuity via webhooks
-- The complete workflow: Client calls ’ AI answers and asks intake questions ’ Data pushed to Acuity ’ Appointment booked ’ Confirmation sent
+- The complete workflow: Client calls ï¿½ AI answers and asks intake questions ï¿½ Data pushed to Acuity ï¿½ Appointment booked ï¿½ Confirmation sent
 - For therapists, AI can detect crisis calls (15.9% contain urgency keywords) and transfer immediately to a human
 - Implementation takes hours, not weeks, with NextPhone's webhook integration at $199/month (vs hiring a receptionist at $35K/year)
 
-<BlogCTA variant="section" href="/how-it-works" text="See how NextPhone handles 45,000+ calls daily ’" />
+<BlogCTA variant="section" href="/how-it-works" text="See how NextPhone handles 45,000+ calls daily ï¿½" />
 
 ## Introduction
 
@@ -88,7 +92,7 @@ Your online scheduling is perfect. Your phone coverage is nonexistent.
 
 [IMAGE: Diagram of Acuity Scheduling integrations with highlighted missing "phone answering layer"]
 
-<BlogCTA variant="section" href="/demo" text="Ready to stop missing client calls? See how NextPhone + Acuity work together ’" />
+<BlogCTA variant="section" href="/demo" text="Ready to stop missing client calls? See how NextPhone + Acuity work together ï¿½" />
 
 ## How AI Phone Systems Integrate with Acuity Scheduling
 
@@ -329,7 +333,7 @@ Before connecting an AI phone system to Acuity, gather:
 
 ### Step 1: Configure Acuity API Access
 
-Log into your Acuity account. Navigate to Settings ’ Integrations ’ API.
+Log into your Acuity account. Navigate to Settings ï¿½ Integrations ï¿½ API.
 
 Click "Generate API Credentials." Acuity will provide:
 
@@ -338,11 +342,11 @@ Click "Generate API Credentials." Acuity will provide:
 
 Copy both and store them securely. You'll need these for authentication.
 
-Note your appointment type IDs. Go to Settings ’ Appointment Types and note the ID number for each type (Initial Consultation, Follow-up Session, Package Session, etc.). You'll map these to your AI's booking logic.
+Note your appointment type IDs. Go to Settings ï¿½ Appointment Types and note the ID number for each type (Initial Consultation, Follow-up Session, Package Session, etc.). You'll map these to your AI's booking logic.
 
 ### Step 2: Set Up Webhook in NextPhone
 
-In your NextPhone dashboard, navigate to Integrations ’ Add New Integration ’ HTTP Webhook.
+In your NextPhone dashboard, navigate to Integrations ï¿½ Add New Integration ï¿½ HTTP Webhook.
 
 Configure the webhook:
 
@@ -416,14 +420,14 @@ We've established you're losing revenue. Let's quantify exactly how much.
 - 42 calls/month
 - 74.1% missed = 31 missed calls
 - 20% would convert = 6 lost clients
-- $150 per session × 10 sessions average = $1,500 lifetime value
+- $150 per session ï¿½ 10 sessions average = $1,500 lifetime value
 - **Loss: $9,000/month = $108,000/year**
 
 **Coach example:**
 - 50 calls/month
 - 74.1% missed = 37 missed calls
 - 25% would convert = 9 lost clients
-- $200 per session × 8 sessions average = $1,600 lifetime value
+- $200 per session ï¿½ 8 sessions average = $1,600 lifetime value
 - **Loss: $14,400/month = $172,800/year**
 
 These are conservative estimates. Many therapists and coaches see higher conversion rates and longer client relationships.
@@ -465,7 +469,7 @@ Let's assume you capture just 20% of previously missed calls (very conservative)
 - Previously missing 31 calls/month
 - Capture 20% = 6 additional calls
 - 30% conversion = 2 new clients/month = 24 clients/year
-- $1,500 lifetime value × 24 = **$36,000 additional revenue**
+- $1,500 lifetime value ï¿½ 24 = **$36,000 additional revenue**
 - Cost: $3,120/year
 - **Net gain: $32,880**
 - **ROI: 1,054%**

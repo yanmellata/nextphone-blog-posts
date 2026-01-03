@@ -1,5 +1,9 @@
 # Migrate from Grasshopper to AI Voice: Step-by-Step Setup Guide
 
+**Meta Title:** Grasshopper to AI Voice Migration: Complete Guide 2025
+
+**Meta Description:** Keep your number when leaving Grasshopper. AI receptionist answers calls Grasshopper missesâ€”recover $21K/month. 3-phase migration takes 17 days.
+
 **Key Takeaways:**
 
 - You can keep your phone number when migrating from Grasshopper - porting takes 5-10 business days with zero downtime
@@ -17,7 +21,7 @@ This happens more than you think. In our analysis of 13,175 calls from 45 home s
 
 Grasshopper is a solid virtual phone system for forwarding calls and managing voicemails. But it can't actually answer your phone when you're busy, on a job site, or after hours. If you're ready for something that does more than just forward calls - something that actually handles them - here's your complete guide to migrating from Grasshopper to an AI voice receptionist in under two weeks.
 
-[See how AI handles calls Grasshopper can't ’](#)
+[See how AI handles calls Grasshopper can't ï¿½](#)
 
 ## Why Small Businesses Are Leaving Grasshopper
 
@@ -358,7 +362,7 @@ One customer described it like this: "I sent them my phone bill and account info
 
 No technical expertise required. No downtime. No stress.
 
-[Talk to our migration team about your switch ’](#)
+[Talk to our migration team about your switch ï¿½](#)
 
 ## Frequently Asked Questions
 
@@ -406,7 +410,7 @@ Most important: backup your Grasshopper data before you start. Those text messag
 
 Ready to migrate? Start your NextPhone trial and our migration team will guide you through every step - from document submission to AI setup. You'll be fully operational in under two weeks with the same phone number your customers already know.
 
-[Start your free trial and migrate in 2 weeks ’](#)
+[Start your free trial and migrate in 2 weeks ï¿½](#)
 
 ---
 

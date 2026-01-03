@@ -1,5 +1,9 @@
 # Constant Contact + NextPhone: Email List Growth from Calls
 
+**Meta Title:** Constant Contact Phone Integration: Grow Email List from Calls 2025
+
+**Meta Description:** Add every phone caller to Constant Contact automatically. Trigger welcome series instantlyâ€”10-minute setup for event businesses and local services.
+
 **Key Takeaways:**
 
 - Automatically add every phone caller to your Constant Contact email list
@@ -70,10 +74,10 @@ NextPhone uses HTTP webhooks to send call data to Constant Contact's API. When s
 
 **Flow:**
 
-1. Call comes in ’ NextPhone AI handles conversation
+1. Call comes in ï¿½ NextPhone AI handles conversation
 2. AI asks: "Can I send you more information via email?"
 3. Caller provides email address
-4. Call ends ’ Webhook fires
+4. Call ends ï¿½ Webhook fires
 5. Constant Contact API receives contact data
 6. Contact added to specified list
 7. Welcome automation triggers (if configured)
@@ -103,7 +107,7 @@ Constant Contact supports custom fields, so you can segment your list based on c
 
 ### Step 1: Get Constant Contact API Key
 
-Log into Constant Contact ’ Account ’ Settings ’ API Keys. Generate a new API key. Copy it.
+Log into Constant Contact ï¿½ Account ï¿½ Settings ï¿½ API Keys. Generate a new API key. Copy it.
 
 You'll also need your account username (email address used for Constant Contact login).
 
@@ -119,7 +123,7 @@ Note the List ID (found in list settings).
 
 ### Step 3: Configure NextPhone Webhook
 
-In NextPhone dashboard ’ Integrations ’ HTTP Webhooks ’ Add New.
+In NextPhone dashboard ï¿½ Integrations ï¿½ HTTP Webhooks ï¿½ Add New.
 
 **Settings:**
 
@@ -165,7 +169,7 @@ Replace `YOUR_LIST_ID` with the actual List ID from Step 2.
 
 ### Step 4: Set Up Welcome Automation (Optional)
 
-In Constant Contact ’ Automations ’ Create New ’ Welcome Email.
+In Constant Contact ï¿½ Automations ï¿½ Create New ï¿½ Welcome Email.
 
 **Trigger:** Contact joins list "Phone Inquiries"
 

@@ -1,5 +1,9 @@
 # Google Voice + NextPhone: Upgrade to Intelligent Business Phone
 
+**Meta Title:** Google Voice AI Upgrade: Add Intelligent Call Answering 2025
+
+**Meta Description:** Google Voice transcribes voicemails, but 74.1% of calls still go unanswered. Add AI receptionist via call forwardingâ€”keep your number, capture $260K.
+
 **Key Takeaways:**
 
 - Google Voice gives you voicemail transcription, but in our analysis of 13,175 calls from 45 contractors, 74.1% still went unansweredcosting businesses $260,400/year in lost revenue
@@ -94,7 +98,7 @@ A typical home services contractor gets 42 calls per month. If 74.1% go unanswer
 
 Even with a conservative 20% conversion rate (1 in 5 callers books a job), and an average project value of $3,500:
 
-**31 missed calls × 20% conversion × $3,500 = $21,700 per month**
+**31 missed calls ï¿½ 20% conversion ï¿½ $3,500 = $21,700 per month**
 
 That's **$260,400 per year** in lost revenuejust from calls going to voicemail.
 
@@ -106,7 +110,7 @@ Remember those 15.9% of calls with urgency language? Those average $4,200 in rev
 
 If you get ~7 urgent calls per month and miss just one per week because you're on a job site:
 
-**4 emergency calls × $4,200 = $16,800 per month**
+**4 emergency calls ï¿½ $4,200 = $16,800 per month**
 
 That's **$201,600 per year** lost to missed emergencies alone.
 

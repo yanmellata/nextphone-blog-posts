@@ -1,5 +1,9 @@
 # MyCase + AI Receptionist Integration: Automate Legal Intake Calls
 
+**Meta Title:** MyCase AI Phone Integration: Automated Legal Intake 2025
+
+**Meta Description:** Solo attorneys lose $110K/year from missed calls at 35% miss rate. AI receptionist answers 24/7, pushes intake to MyCaseâ€”$199/mo vs $45K receptionist.
+
 **Key Takeaways:**
 
 - Law firms miss 35% of incoming calls, costing the industry $109 billion annually
@@ -43,7 +47,7 @@ Let's do the math for a typical solo attorney:
 
 You receive about 30 calls per month. At a 35% miss rate, that's 10.5 missed calls monthly. Legal calls have higher intent than most industriesthese are people actively seeking representation. Let's assume a conservative 25% conversion rate and an average case value of $3,500 (typical for family law or smaller personal injury cases).
 
-**The calculation: 10.5 missed calls × 25% conversion × $3,500 = $9,188 per month in lost revenue**
+**The calculation: 10.5 missed calls ï¿½ 25% conversion ï¿½ $3,500 = $9,188 per month in lost revenue**
 
 That's **$110,250 per year** you're leaving on the table.
 
@@ -133,13 +137,13 @@ The API enables tools like NextPhone to push intake data directly into MyCase vi
 
 Here's exactly how the MyCase + AI receptionist integration works:
 
-1. **Call comes in** ’ NextPhone AI answers in under 5 seconds with your firm's custom greeting
-2. **AI conducts intake** ’ Asks for name, contact info, case type, urgency level, and case details
-3. **AI collects structured data** ’ Organizes information into fields like caller name, phone, email, case type, urgency level, and notes
-4. **Webhook triggers during or after the call** ’ Sends all collected data to MyCase API
-5. **MyCase creates new contact automatically** ’ Adds the lead to your CRM and assigns it to the pipeline stage "New Lead - Intake Complete"
-6. **You get notified instantly** ’ Email with caller information, transcript link, recording link, and a tap-to-call button
-7. **No manual data entry required** ’ Everything syncs automatically
+1. **Call comes in** ï¿½ NextPhone AI answers in under 5 seconds with your firm's custom greeting
+2. **AI conducts intake** ï¿½ Asks for name, contact info, case type, urgency level, and case details
+3. **AI collects structured data** ï¿½ Organizes information into fields like caller name, phone, email, case type, urgency level, and notes
+4. **Webhook triggers during or after the call** ï¿½ Sends all collected data to MyCase API
+5. **MyCase creates new contact automatically** ï¿½ Adds the lead to your CRM and assigns it to the pipeline stage "New Lead - Intake Complete"
+6. **You get notified instantly** ï¿½ Email with caller information, transcript link, recording link, and a tap-to-call button
+7. **No manual data entry required** ï¿½ Everything syncs automatically
 
 ### What Data Gets Synced
 
@@ -200,7 +204,7 @@ Let's return to our solo attorney example. You're losing $110,000 per year from 
 
 If you capture just one extra case per month with AI answering:
 
-- 1 case/month × $3,500 = $3,500/month = $42,000/year in captured revenue
+- 1 case/month ï¿½ $3,500 = $3,500/month = $42,000/year in captured revenue
 - NextPhone cost = $2,388/year
 - **Net benefit: $39,612 per year**
 - **Return on investment: 16.6x**
@@ -254,7 +258,7 @@ Key features for law firms:
 
 You can try it risk-free with a 14-day trial to see how it works with your firm's calls.
 
-Ready to stop missing client calls? See NextPhone + MyCase in action ’
+Ready to stop missing client calls? See NextPhone + MyCase in action ï¿½
 
 ## Frequently Asked Questions
 
@@ -319,7 +323,7 @@ MyCase gives you affordable practice management for small firms. An AI reception
 
 The firms winning cases in 2025 aren't the ones with the biggest marketing budgets. They're the ones that answer the phone.
 
-Start your free 14-day trial and connect with MyCase today ’
+Start your free 14-day trial and connect with MyCase today ï¿½
 
 ---
 

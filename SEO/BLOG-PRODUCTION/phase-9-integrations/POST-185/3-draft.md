@@ -1,5 +1,9 @@
 # Trello + NextPhone: Call-to-Card Automation for Visual Workflows
 
+**Meta Title:** Trello AI Phone Integration: Visual Call Pipeline Boards 2025
+
+**Meta Description:** Every call becomes a Trello card with AI summary and urgency level. Visual boards show your pipeline from lead to jobâ€”webhook setup in minutes.
+
 **Key Takeaways:**
 
 - Every customer call automatically creates a Trello card with caller details, AI summary, and urgency level
@@ -123,7 +127,7 @@ No more playing phone tag internally. No more "Did anyone call Sarah back?" The 
 
 Here's the real benefit: you capture more opportunities without hiring anyone.
 
-Let's say automation helps you convert just 10% more of those previously missed calls. That's 3 extra jobs per month (31 missed × 10% = 3.1 jobs).
+Let's say automation helps you convert just 10% more of those previously missed calls. That's 3 extra jobs per month (31 missed ï¿½ 10% = 3.1 jobs).
 
 At $3,500 average project value, that's $10,500 in additional monthly revenue. Annually, that's $126,000 in jobs you would've lost to competitors.
 
@@ -150,7 +154,7 @@ You specify:
 - Which Trello board receives call cards
 - Which list they appear in (usually "New Leads")
 - What information maps to card title, description, labels, and custom fields
-- Any automation rules (urgent calls ’ specific list, certain keywords ’ certain labels)
+- Any automation rules (urgent calls ï¿½ specific list, certain keywords ï¿½ certain labels)
 
 Setup typically takes 15-30 minutes. NextPhone's team can help if you get stuck.
 

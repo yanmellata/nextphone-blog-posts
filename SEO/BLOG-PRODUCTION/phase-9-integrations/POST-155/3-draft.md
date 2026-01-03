@@ -1,5 +1,9 @@
 # AI Receptionist vs. Zoom Phone: When Intelligent Call Handling Beats Basic VoIP
 
+**Meta Title:** Zoom Phone vs AI Receptionist: VoIP Infrastructure Comparison 2025
+
+**Meta Description:** Zoom Phone provides VoIP at $15/user, but can't answer when you're busy. AI receptionist at $199/mo flat captures the $21K/month you're losing.
+
 **Key Takeaways:**
 
 - Zoom Phone provides VoIP infrastructure, but doesn't answer calls when you're busyin our analysis of 13,175 calls from small businesses, 74.1% went completely unanswered
@@ -216,7 +220,7 @@ Let's do the math for a typical small contractor:
 - Calls that go unanswered with Zoom Phone: 31/month (74.1% from our data)
 - Assumed conversion rate: 20% (conservative)
 - Average project value: $3,500 (home services industry standard)
-- **Revenue lost per month: 31 × 0.20 × $3,500 = $21,700**
+- **Revenue lost per month: 31 ï¿½ 0.20 ï¿½ $3,500 = $21,700**
 
 Your $45/month Zoom Phone subscription is costing you $21,700/month in lost revenue because it provides infrastructure but not answering.
 

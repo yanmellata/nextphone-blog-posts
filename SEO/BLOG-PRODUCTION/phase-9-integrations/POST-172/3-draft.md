@@ -1,5 +1,9 @@
 # Webflow Click-to-Call AI Receptionist Widget Integration
 
+**Meta Title:** Webflow AI Click-to-Call Widget: 5-Minute Integration 2025
+
+**Meta Description:** Click-to-call converts 10-15x higher than forms. Add AI-powered widget to Webflow in 5 minutes—answers calls 24/7, not just dials numbers.
+
 **Key Takeaways:**
 
 - Click-to-call conversion rates are 10-15x higher than typical web conversions, making it essential for service business websites

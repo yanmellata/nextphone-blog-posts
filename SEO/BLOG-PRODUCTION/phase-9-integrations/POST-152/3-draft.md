@@ -1,5 +1,9 @@
 # Ooma Office + NextPhone: Small Business Phone Integration
 
+**Meta Title:** Ooma Office AI Receptionist: Add 24/7 Call Coverage 2025
+
+**Meta Description:** Ooma's $19.95/mo VoIP is affordable, but 74.1% of calls still go unanswered. Add AI receptionist to your existing number for $199/moâ€”100X ROI.
+
 **Key Takeaways:**
 
 - Ooma Office is a popular small business VoIP system, but 74.1% of calls still go unanswered according to our analysis of 13,175 calls from 47 home services contractors
@@ -44,7 +48,7 @@ These aren't excuses. They're the reality of hands-on work. Your Ooma system for
 
 Here's the math for a typical contractor getting 42 calls per month:
 
-- 42 calls/month × 74.1% missed = 31 missed calls every month
+- 42 calls/month ï¿½ 74.1% missed = 31 missed calls every month
 - If just 20% would convert at a $3,500 average project value
 - That's $21,700 per month in lost revenue
 - Annual impact: $260,400 per year
@@ -153,7 +157,7 @@ You stay in complete control. The AI transfers calls when you want it to, and yo
 | Detects emergencies | L All calls treated equally |  Routes urgent calls to you |
 | Qualifies leads | L Basic voicemail only |  Asks questions, collects info |
 | Tracks callback requests | L Manual notes only |  Automatic logging and reminders |
-| CRM integration |   Limited via Zapier |  Full sync with major platforms |
+| CRM integration | ï¿½ Limited via Zapier |  Full sync with major platforms |
 | Monthly cost | $19.95/user | $19.95 + $199 |
 
 ## Cost Comparison: $199/Month vs $260,000/Year in Lost Revenue
@@ -185,7 +189,7 @@ NextPhone is $199 per month, which equals $2,388 per year. That includes:
 
 If you capture just 2 extra jobs per month that you would've otherwise missed:
 
-- 2 jobs × $3,500 = $7,000/month
+- 2 jobs ï¿½ $3,500 = $7,000/month
 - Annual gain: $84,000/year
 - Investment: $2,388/year
 - ROI: 35x return on investment
