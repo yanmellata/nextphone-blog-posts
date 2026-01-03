@@ -1,5 +1,9 @@
 # Nextiva Alternative: AI Receptionist for Business Phone Systems
 
+**Meta Title:** Nextiva Alternative: AI Receptionist vs VoIP Comparison 2025
+
+**Meta Description:** Nextiva costs $36+/user monthly but calls still go unanswered. AI receptionist answers 100% of calls for $199/mo flatâ€”no per-user fees.
+
 **Key Takeaways:**
 
 - Nextiva costs $36-$199 per user monthly, which adds up fast for small teams
@@ -272,14 +276,14 @@ The best approach isn't AI versus humanit's AI plus human.
 Here's how it works:
 
 **For routine inquiries (95% of calls):**
-- "What are your hours?" ’ AI answers immediately
-- "How much do you charge for X?" ’ AI provides pricing
-- "Can you come Tuesday at 2 PM?" ’ AI checks calendar and books appointment
-- "I'd like a quote" ’ AI collects details, schedules callback, creates CRM lead
+- "What are your hours?" ï¿½ AI answers immediately
+- "How much do you charge for X?" ï¿½ AI provides pricing
+- "Can you come Tuesday at 2 PM?" ï¿½ AI checks calendar and books appointment
+- "I'd like a quote" ï¿½ AI collects details, schedules callback, creates CRM lead
 
 **For urgent or complex situations (5% of calls):**
-- "We have a pipe burst flooding the basement!" ’ AI recognizes emergency, transfers immediately to your cell phone
-- "I have a question about the estimate you sent" ’ AI transfers to you for detailed discussion
+- "We have a pipe burst flooding the basement!" ï¿½ AI recognizes emergency, transfers immediately to your cell phone
+- "I have a question about the estimate you sent" ï¿½ AI transfers to you for detailed discussion
 
 The AI handles the volume. You handle the situations that actually need your expertise.
 
@@ -563,7 +567,7 @@ You don't need more phone features. You need someoneor somethingto answer ever
 
 That's not a phone system. That's an AI receptionist.
 
-Ready to replace your phone system with an AI receptionist? [Start your free 14-day trial of NextPhone today ’](/signup)
+Ready to replace your phone system with an AI receptionist? [Start your free 14-day trial of NextPhone today ï¿½](/signup)
 
 ---
 

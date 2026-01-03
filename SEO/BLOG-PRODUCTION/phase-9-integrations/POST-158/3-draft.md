@@ -1,5 +1,9 @@
 # Aircall + NextPhone: Call Center Integration for Growing Teams
 
+**Meta Title:** Aircall AI Front-Door: After-Hours Coverage Integration 2025
+
+**Meta Description:** Aircall is great during business hours, but 74.1% of calls go unanswered after-hours. Add AI front-door without adding expensive Aircall seats.
+
 **Key Takeaways:**
 
 - Aircall is a powerful cloud call center platform for sales and support teams, but it can't answer calls 24/7 without significant staffing costs
@@ -155,10 +159,10 @@ Next, configure when to route calls to Aircall versus handling them directly.
 
 Set rules like:
 
-- If caller says "emergency" or "urgent" ’ Transfer to Aircall immediately
-- If caller asks about hours or pricing ’ AI handles
-- If caller wants to book appointment ’ AI handles and schedules
-- If caller requests to speak with sales ’ Transfer to Aircall during business hours, or collect details and schedule callback after hours
+- If caller says "emergency" or "urgent" ï¿½ Transfer to Aircall immediately
+- If caller asks about hours or pricing ï¿½ AI handles
+- If caller wants to book appointment ï¿½ AI handles and schedules
+- If caller requests to speak with sales ï¿½ Transfer to Aircall during business hours, or collect details and schedule callback after hours
 
 You define the logic. The AI executes it.
 

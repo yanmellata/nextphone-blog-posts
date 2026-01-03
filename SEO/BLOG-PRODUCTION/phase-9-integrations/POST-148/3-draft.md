@@ -1,5 +1,9 @@
 # Twilio AI Receptionist API Setup: Developer Integration Guide
 
+**Meta Title:** Twilio AI Receptionist API: Developer Integration Guide 2025
+
+**Meta Description:** Build AI receptionist on Twilio with OpenAI or VAPI. Webhook patterns, CRM integration code, and real costsâ€”$360-400/mo DIY vs $199/mo managed.
+
 **Key Takeaways:**
 
 - Twilio Programmable Voice handles telephony infrastructure while you build AI conversation logic on top
@@ -91,7 +95,7 @@ Common TwiML verbs:
 
 When events happen (incoming call, digits gathered, call ended), Twilio sends HTTP POST requests to your webhook URLs. Your server processes the request and responds with TwiML or handles data collection.
 
-For example: A call comes in ’ Twilio POSTs to `https://yourdomain.com/voice` ’ You return TwiML saying "Hello, how can I help?" ’ Caller responds ’ Twilio POSTs speech data to your `/gather` webhook ’ You return TwiML with next instruction.
+For example: A call comes in ï¿½ Twilio POSTs to `https://yourdomain.com/voice` ï¿½ You return TwiML saying "Hello, how can I help?" ï¿½ Caller responds ï¿½ Twilio POSTs speech data to your `/gather` webhook ï¿½ You return TwiML with next instruction.
 
 Webhooks are stateless. Twilio doesn't remember previous interactions unless you store state in your database or session.
 
@@ -128,7 +132,7 @@ TWILIO_AUTH_TOKEN=your_auth_token_here
 
 In the Twilio Console:
 
-1. Go to Phone Numbers ’ Buy a Number
+1. Go to Phone Numbers ï¿½ Buy a Number
 2. Select your country and search by area code or capabilities
 3. Filter for "Voice" capability
 4. Purchase the number ($1/month for most US local numbers)
@@ -191,7 +195,7 @@ ngrok http 3000
 This gives you a public URL like `https://abc123.ngrok.io`.
 
 **Configure in Console:**
-1. Go to Phone Numbers ’ Manage Numbers ’ Active Numbers
+1. Go to Phone Numbers ï¿½ Manage Numbers ï¿½ Active Numbers
 2. Click your purchased number
 3. Under "Voice Configuration":
    - When a call comes in: Webhook
@@ -235,7 +239,7 @@ You have three main options for integrating AI conversation logic with Twilio. E
 
 ### Option 2: OpenAI Realtime API (Direct Integration)
 
-The [OpenAI Realtime API](https://www.twilio.com/en-us/blog/voice-ai-assistant-openai-realtime-api-node) enables direct Speech-to-Speech (S2S) conversations. Instead of chaining STT ’ LLM ’ TTS, the model processes audio directly and responds with audio.
+The [OpenAI Realtime API](https://www.twilio.com/en-us/blog/voice-ai-assistant-openai-realtime-api-node) enables direct Speech-to-Speech (S2S) conversations. Instead of chaining STT ï¿½ LLM ï¿½ TTS, the model processes audio directly and responds with audio.
 
 **How it works:**
 - Use Twilio Media Streams to open WebSocket to your server

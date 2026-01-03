@@ -1,5 +1,9 @@
 # Yelp + NextPhone: Track & Respond to Review-Driven Calls
 
+**Meta Title:** Yelp Call Integration: Track and Convert Review Traffic 2025
+
+**Meta Description:** Contractors lose $7K/month from missed Yelp calls. AI answers 24/7, understands review sentiment, and syncs to CRM—$199/mo vs Yelp's $99/mo basic.
+
 **Key Takeaways:**
 
 - Typical contractor loses $7,000/month from missed Yelp calls74.1% go completely unanswered

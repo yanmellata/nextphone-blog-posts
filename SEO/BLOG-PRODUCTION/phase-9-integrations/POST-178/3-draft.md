@@ -1,5 +1,9 @@
 # Stripe + NextPhone: Payment Collection During Call Setup
 
+**Meta Title:** Stripe AI Phone Integration: Collect Deposits During Calls 2025
+
+**Meta Description:** Collect deposits during AI phone callsâ€”reduce no-shows from 25% to 5%. Stripe + NextPhone integration takes minutes, no coding required.
+
 **Key Takeaways:**
 
 - Stripe integration lets AI phone systems collect deposits and secure payments during customer calls
@@ -51,14 +55,14 @@ According to [Stripe's guidance on booking systems with payment integration](htt
 Let's talk about the no-show epidemic. Industry data shows 20-30% of appointments result in no-shows when deposits aren't collected upfront. That's one out of every four or five appointments.
 
 For a contractor booking 40 appointments per month at $350 average value, the math is painful:
-- 40 appointments × 25% no-show rate = 10 lost appointments
-- 10 no-shows × $350 = $3,500 lost per month
+- 40 appointments ï¿½ 25% no-show rate = 10 lost appointments
+- 10 no-shows ï¿½ $350 = $3,500 lost per month
 - Annual impact: $42,000 in wasted time slots
 
 Now compare that to businesses that collect deposits during booking calls:
 - No-show rate drops to 5% (psychologically, paying creates commitment)
-- 40 appointments × 5% = 2 no-shows
-- 2 no-shows × $350 = $700 lost per month
+- 40 appointments ï¿½ 5% = 2 no-shows
+- 2 no-shows ï¿½ $350 = $700 lost per month
 - **Savings: $2,800 per month or $33,600 per year**
 
 The deposit doesn't have to be largeeven $50-100 creates skin in the game. Customers who pay upfront show up.
@@ -259,7 +263,7 @@ Don't use Stripe yet? Creating an account is free and takes about 10 minutes. Yo
 
 NextPhone doesn't charge any additional fees for payment processing. You pay standard Stripe rates: 2.9% + $0.30 per transaction. That's it.
 
-Example: $1,000 deposit × 2.9% = $29 + $0.30 = $29.30 in fees. You net $970.70.
+Example: $1,000 deposit ï¿½ 2.9% = $29 + $0.30 = $29.30 in fees. You net $970.70.
 
 Compare that to the alternative: Missing the $4,200 job entirely because you didn't answer the call. The fees become noise.
 

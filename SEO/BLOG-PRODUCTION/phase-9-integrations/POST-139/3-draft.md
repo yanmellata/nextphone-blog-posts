@@ -1,5 +1,9 @@
 # Cal.com Open-Source Scheduling + AI Receptionist Integration
 
+**Meta Title:** Cal.com AI Phone Integration: Open-Source Scheduling Setup 2025
+
+**Meta Description:** Free Cal.com + NextPhone AI = 24/7 phone booking automation. Recover $92K+ in lost appointments yearly for just $2,388/year total cost.
+
 **Key Takeaways:**
 
 - Cal.com is a free, open-source alternative to Calendly with powerful API and webhook automation capabilities
@@ -126,7 +130,7 @@ The workflow: When your AI collects an appointment request, it triggers a Zap. T
 
 **Best for:** Small businesses with simple scheduling needs and non-technical owners
 
-You could set up a Zap like: "When NextPhone AI collects appointment request" ’ "Create Cal.com booking" ’ "Send Slack notification to team"
+You could set up a Zap like: "When NextPhone AI collects appointment request" ï¿½ "Create Cal.com booking" ï¿½ "Send Slack notification to team"
 
 ### Option 2: Native Platform Integration (NextPhone)
 
@@ -140,7 +144,7 @@ You connect your Cal.com account via OAuth (one click), and the AI gets direct A
 
 **Best for:** Businesses wanting a turnkey solution without technical work or extra tools
 
-Setup takes about 2 minutes: Settings ’ Integrations ’ Cal.com ’ Authorize ’ Done. Then test with a phone call.
+Setup takes about 2 minutes: Settings ï¿½ Integrations ï¿½ Cal.com ï¿½ Authorize ï¿½ Done. Then test with a phone call.
 
 ### Option 3: Custom API/Webhook Integration (For Developers)
 
@@ -237,13 +241,13 @@ Your current situation:
 - 7.7% of all calls are direct scheduling requests = about 3 booking calls/month
 - If 74.1% of those are missed, you lose 2.2 appointments per month
 - Average job value: $3,500
-- Lost revenue: 2.2 appointments × $3,500 = $7,700/month = **$92,400/year**
+- Lost revenue: 2.2 appointments ï¿½ $3,500 = $7,700/month = **$92,400/year**
 
 With Cal.com + NextPhone:
 
 - Solution cost: Cal.com Free ($0) + NextPhone ($199/month) = $2,388/year
-- Appointments you capture: All 3 booking calls/month × 12 months = 36 appointments/year
-- Revenue from captured appointments: 36 × $3,500 = $126,000
+- Appointments you capture: All 3 booking calls/month ï¿½ 12 months = 36 appointments/year
+- Revenue from captured appointments: 36 ï¿½ $3,500 = $126,000
 - Net gain: $126,000 - $2,388 = **$123,612/year**
 - **ROI: 5,079%**
 
@@ -251,10 +255,10 @@ With Cal.com + NextPhone:
 
 Remember that 25.4% of callers request callbacks? Here's what that costs you:
 
-- 42 calls/month × 25.4% = 11 callback requests every month
+- 42 calls/month ï¿½ 25.4% = 11 callback requests every month
 - Without a system to track these, 80% fall through = 9 lost leads/month
 - With automated booking instead of callback requests = 0 lost
-- Recovered leads: 9/month × 30% conversion rate × $3,500 average job = $9,450/month
+- Recovered leads: 9/month ï¿½ 30% conversion rate ï¿½ $3,500 average job = $9,450/month
 - Annual recovered revenue: **$113,400/year**
 - Solution cost: $2,388/year
 - **ROI: 4,649%**
@@ -277,7 +281,7 @@ It works with Cal.com Free, Starter, or Professional tiers. It even works with s
 
 ### Setup Process (Simple 3-Step)
 
-1. **Connect Cal.com:** In your NextPhone dashboard, go to Integrations ’ Cal.com ’ Click Authorize. Log in with your Cal.com credentials to grant access.
+1. **Connect Cal.com:** In your NextPhone dashboard, go to Integrations ï¿½ Cal.com ï¿½ Click Authorize. Log in with your Cal.com credentials to grant access.
 
 2. **Configure AI:** Tell the AI which Cal.com event type to use (like "30-minute consultation" or "service estimate"). Set any required questions the AI should ask before booking.
 

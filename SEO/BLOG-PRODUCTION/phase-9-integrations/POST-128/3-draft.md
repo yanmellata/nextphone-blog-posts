@@ -1,5 +1,9 @@
 # LionDesk Real Estate CRM + NextPhone: Lead Capture Setup
 
+**Meta Title:** LionDesk CRM + AI Phone Integration for Real Estate Agents 2025
+
+**Meta Description:** Capture every property inquiry with AI phone answering for LionDesk. 87% of leads never call back if missed—protect $100K+ in annual commissions.
+
 **Key Takeaways:**
 
 - 87% of leads never call back if their first call goes unanswered—and 70% of buyers engage with the first agent they reach

@@ -1,5 +1,9 @@
 # Integration Guide: Connect AI Receptionist to Your Tech Stack
 
+**Meta Title:** AI Receptionist Integration Guide: Connect to 75+ Business Tools in 2025
+
+**Meta Description:** Learn how to integrate your AI receptionist with CRM, calendar, and 75+ business tools. Capture every lead automatically and eliminate $260K in missed revenue.
+
 **Key Takeaways:**
 
 - AI receptionist integrations connect your phone system to CRM, calendar, and 75+ business tools automatically logging calls, booking appointments, and routing emergencies without manual work
@@ -272,7 +276,7 @@ According to [recent research](https://albato.com/blog/publications/state-of-int
 Use automation platforms when:
 
 - Your platform doesn't have a native AI receptionist integration
-- You need to connect multiple systems in sequence (call ’ CRM ’ Slack ’ Google Sheets)
+- You need to connect multiple systems in sequence (call ï¿½ CRM ï¿½ Slack ï¿½ Google Sheets)
 - You want to avoid custom code
 - Your needs change frequently (workflows are easy to modify)
 
@@ -509,16 +513,16 @@ Here's a simple framework: Score each potential integration on two factors:
 
 **Effort (1-10):** How difficult is the integration to set up? (1 = 30 mins, 10 = 2 weeks)
 
-Calculate ROI score: Impact ÷ Effort
+Calculate ROI score: Impact ï¿½ Effort
 
 Prioritize integrations with the highest ROI scores.
 
 Example:
 
-- HubSpot CRM: Impact 10, Effort 2 ’ ROI 5.0 (high priority)
-- Google Calendar: Impact 9, Effort 1 ’ ROI 9.0 (highest priority)
-- Custom ServiceTitan API: Impact 10, Effort 8 ’ ROI 1.25 (lower priority, tackle later)
-- Mailchimp email list: Impact 4, Effort 3 ’ ROI 1.33 (Tier 3)
+- HubSpot CRM: Impact 10, Effort 2 ï¿½ ROI 5.0 (high priority)
+- Google Calendar: Impact 9, Effort 1 ï¿½ ROI 9.0 (highest priority)
+- Custom ServiceTitan API: Impact 10, Effort 8 ï¿½ ROI 1.25 (lower priority, tackle later)
+- Mailchimp email list: Impact 4, Effort 3 ï¿½ ROI 1.33 (Tier 3)
 
 Start with the highest ROI integrations, not the most impressive ones.
 
@@ -723,7 +727,7 @@ Double-check field mappings. If you're unsure, create a test contact first.
 
 Calendar integration should be two-way. If you manually move an appointment in your calendar, the change should sync back to your AI receptionist so it doesn't double-book that slot.
 
-Many people set up one-way sync (AI ’ Calendar only) and then wonder why they're getting double-bookings.
+Many people set up one-way sync (AI ï¿½ Calendar only) and then wonder why they're getting double-bookings.
 
 **Mistake #4: No Error Monitoring**
 
@@ -865,10 +869,10 @@ When an integration fails, two things happen:
 
 Most integration failures are easy to fix:
 
-- API key issue ’ Re-authenticate your account (5 minutes)
-- Permission issue ’ Grant the required permission (5 minutes)
-- Platform update ’ Update field mappings to new API structure (15-30 minutes)
-- Quota exceeded ’ Upgrade your CRM plan or wait for reset (varies)
+- API key issue ï¿½ Re-authenticate your account (5 minutes)
+- Permission issue ï¿½ Grant the required permission (5 minutes)
+- Platform update ï¿½ Update field mappings to new API structure (15-30 minutes)
+- Quota exceeded ï¿½ Upgrade your CRM plan or wait for reset (varies)
 
 The NextPhone support team can help troubleshoot integration failures. Response time: Under 24 hours for integration issues, under 4 hours for critical failures affecting multiple calls.
 
@@ -944,12 +948,12 @@ This prevents CRM clutter and ensures only qualified leads sync.
 
 **Example Field Mapping (HubSpot):**
 
-- AI collected "first_name" ’ HubSpot "First Name" field
-- AI collected "caller_number" ’ HubSpot "Phone Number" field
-- AI collected "email" ’ HubSpot "Email" field
-- AI collected "company_name" ’ HubSpot "Company Name" field
-- AI determined "call_intent" ’ HubSpot "Lead Source" field
-- AI calculated "urgency_level" ’ HubSpot custom field "Priority"
+- AI collected "first_name" ï¿½ HubSpot "First Name" field
+- AI collected "caller_number" ï¿½ HubSpot "Phone Number" field
+- AI collected "email" ï¿½ HubSpot "Email" field
+- AI collected "company_name" ï¿½ HubSpot "Company Name" field
+- AI determined "call_intent" ï¿½ HubSpot "Lead Source" field
+- AI calculated "urgency_level" ï¿½ HubSpot custom field "Priority"
 
 You control every mapping during integration setup.
 
@@ -1056,7 +1060,7 @@ These are three different integration methods, each with pros and cons:
 - **Flexibility:** High (can connect any two apps, multi-step workflows)
 - **Cost:** $20-300/month for Zapier subscription (per-task pricing)
 - **Best for:** Connecting less common platforms, multi-system workflows, non-technical users who need flexibility
-- **Example:** AI receptionist ’ Zapier ’ Airtable + Slack + Google Sheets (all in one workflow)
+- **Example:** AI receptionist ï¿½ Zapier ï¿½ Airtable + Slack + Google Sheets (all in one workflow)
 
 **HTTP Webhooks**
 

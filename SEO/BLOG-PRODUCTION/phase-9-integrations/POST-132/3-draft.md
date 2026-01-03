@@ -1,5 +1,9 @@
 # Insightly CRM + NextPhone: Project-Based Business Integration
 
+**Meta Title:** Insightly CRM Phone Integration: Capture Calls for Agencies 2025
+
+**Meta Description:** Agencies miss 74.1% of calls during client meetings. Integrate NextPhone with Insightly to auto-log calls and recover $31K/month in lost project revenue.
+
 **Key Takeaways:**
 
 - Insightly combines CRM and project management, making it ideal for agencies and consultants tracking client relationships and deliverables

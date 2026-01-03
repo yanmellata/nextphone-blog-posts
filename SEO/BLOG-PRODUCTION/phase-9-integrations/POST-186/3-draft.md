@@ -1,5 +1,9 @@
 # ClickUp + NextPhone: All-in-One Workspace Integration
 
+**Meta Title:** ClickUp AI Phone Integration: Call-to-Task Automation 2025
+
+**Meta Description:** ClickUp has 1,000+ integrations but 74.1% of calls go unanswered. AI creates tasks with custom fields and priority automaticallyâ€”saves 2.5 hours/month.
+
 **Key Takeaways:**
 
 - ClickUp offers [1,000+ integrations](https://www.smartsuite.com/blog/clickup-review), but power users need hierarchy + custom fields + automation working together
@@ -40,7 +44,7 @@ Power users need more. They need integrations that understand their workflow str
 
 ## How Power Users Structure Complex Workflows in ClickUp
 
-[ClickUp's hierarchy](https://clickup.com/hierarchy-guide) has six levels: Workspace ’ Spaces ’ Folders ’ Lists ’ Tasks ’ Subtasks. This flexibility is what makes ClickUp powerful for complex workflows.
+[ClickUp's hierarchy](https://clickup.com/hierarchy-guide) has six levels: Workspace ï¿½ Spaces ï¿½ Folders ï¿½ Lists ï¿½ Tasks ï¿½ Subtasks. This flexibility is what makes ClickUp powerful for complex workflows.
 
 A roofing contractor might structure it like this:
 
@@ -125,7 +129,7 @@ NextPhone uses HTTP webhooks to connect to ClickUp's API. Setup takes 10-15 minu
 1. Create a webhook in NextPhone dashboard
 2. Configure your ClickUp API key
 3. Map AI-collected data to ClickUp custom fields
-4. Set up automation rules (urgency keywords ’ priority levels)
+4. Set up automation rules (urgency keywords ï¿½ priority levels)
 
 The webhook pushes data in real-time during or after the call. No delay. No manual steps.
 
@@ -146,7 +150,7 @@ Your ClickUp automations kick in immediately. Medium urgency assigns it to your 
 
 You didn't create it. You didn't fill in seven custom fields. You didn't set the priority. It just happened.
 
-[See how NextPhone automatically creates ClickUp tasks from customer calls ’]
+[See how NextPhone automatically creates ClickUp tasks from customer calls ï¿½]
 
 [IMAGE: Automated workflow diagram showing seamless flow from call to AI to ClickUp task]
 
@@ -160,10 +164,10 @@ Of the 11 calls you do answer, you spend 5 minutes creating each ClickUp task. T
 
 All 42 calls get answered by the AI. Zero ring to voicemail. Tasks are created automatically for every inquiry:
 
-- Estimate requests ’ "Active Estimates" list
-- Emergency calls ’ "Urgent" list with high priority (15.9% of calls contain urgency keywords like "emergency" or "ASAP")
-- Callback requests ’ "Follow-Up" list with due date automation
-- Scheduling calls ’ Calendar integration triggers
+- Estimate requests ï¿½ "Active Estimates" list
+- Emergency calls ï¿½ "Urgent" list with high priority (15.9% of calls contain urgency keywords like "emergency" or "ASAP")
+- Callback requests ï¿½ "Follow-Up" list with due date automation
+- Scheduling calls ï¿½ Calendar integration triggers
 
 Your ClickUp workspace updates in real-time while you're working on job sites.
 
@@ -181,9 +185,9 @@ Cost of NextPhone: $199/month.
 
 ROI: 10,800%.
 
-The integration closes the loop completely: call arrives ’ AI answers and collects data ’ ClickUp task created with custom fields ’ automation triggers ’ you review and act. Zero manual steps.
+The integration closes the loop completely: call arrives ï¿½ AI answers and collects data ï¿½ ClickUp task created with custom fields ï¿½ automation triggers ï¿½ you review and act. Zero manual steps.
 
-[Ready to automate your ClickUp workflow? Learn about NextPhone ’]
+[Ready to automate your ClickUp workflow? Learn about NextPhone ï¿½]
 
 ## Frequently Asked Questions
 
@@ -227,7 +231,7 @@ Setup takes minutes. The system saves hours monthly and captures thousands in re
 
 If you're using ClickUp for complex workflows, your phone should feed into that system automatically. Not after you remember. Not after five minutes of manual entry. Automatically.
 
-[Start your free 14-day trial of NextPhone and integrate with ClickUp today ’]
+[Start your free 14-day trial of NextPhone and integrate with ClickUp today ï¿½]
 
 ---
 

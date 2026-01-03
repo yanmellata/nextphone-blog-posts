@@ -1,5 +1,9 @@
 # Contactually + NextPhone: Real Estate CRM Integration Guide
 
+**Meta Title:** Contactually Alternative: AI Phone + CRM Integration for Realtors 2025
+
+**Meta Description:** Contactually shut down in 2022, but sphere of influence management still matters. Capture every SOI call automatically with AI + CRM integration.
+
 **Key Takeaways:**
 
 - Contactually shut down in 2022, but the need for relationship-focused real estate CRM remains critical

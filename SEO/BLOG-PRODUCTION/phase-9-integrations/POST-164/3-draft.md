@@ -1,5 +1,9 @@
 # Housecall Pro Phone Answering: NextPhone Integration Guide
 
+**Meta Title:** Housecall Pro AI Phone Integration: HVAC & Plumber Guide 2025
+
+**Meta Description:** HCP says contractors miss 27%â€”our data shows 74.1%. Integrate AI phone answering with Housecall Pro for $199/mo. Detects emergencies, books jobs.
+
 **Key Takeaways:**
 
 - Home service businesses miss 27% of calls according to [Housecall Pro research](https://www.housecallpro.com/resources/missed-calls/)our analysis of 13,175 calls shows the problem is worse, with 74.1% going completely unanswered
@@ -301,13 +305,13 @@ Let's use real data to calculate what missed calls are costing you.
 **Industry baseline:**
 - Average contractor receives 42 calls per month
 - Miss rate: 74.1% (from our analysis of 13,175 calls)
-- Missed calls: 42 × 74.1% = 31 calls per month
+- Missed calls: 42 ï¿½ 74.1% = 31 calls per month
 
 **Revenue loss:**
 - Conversion rate: 20% (conservative estimate)
 - Average job value: $3,500
-- Lost jobs per month: 31 × 20% = 6.2 jobs
-- Monthly revenue loss: 6.2 × $3,500 = **$21,700**
+- Lost jobs per month: 31 ï¿½ 20% = 6.2 jobs
+- Monthly revenue loss: 6.2 ï¿½ $3,500 = **$21,700**
 - Annual revenue loss: **$260,400**
 
 **NextPhone investment:**
@@ -348,8 +352,8 @@ Getting NextPhone connected to Housecall Pro takes under an hour.
 
 If you're on Housecall Pro MAX, use the direct API for the fastest integration:
 
-1. **Get your API key:** Log into Housecall Pro ’ Settings ’ Integrations ’ [API](https://help.housecallpro.com/en/articles/8505035-api-overview) ’ Generate API key
-2. **Configure NextPhone:** In your NextPhone dashboard ’ Integrations ’ Housecall Pro
+1. **Get your API key:** Log into Housecall Pro ï¿½ Settings ï¿½ Integrations ï¿½ [API](https://help.housecallpro.com/en/articles/8505035-api-overview) ï¿½ Generate API key
+2. **Configure NextPhone:** In your NextPhone dashboard ï¿½ Integrations ï¿½ Housecall Pro
 3. **Enter API credentials:** Paste your HCP API key
 4. **Map data fields:** Select which fields to sync (name, phone, email, service type, urgency, notes, address)
 5. **Configure webhooks:** Enter your HCP webhook endpoint URL (provided by HCP)
@@ -364,9 +368,9 @@ If you're on Basic, Essentials, or Professional plans, use [Zapier](https://zapi
 
 1. **Create Zapier account:** Free tier works for basic automation (up to 100 tasks/month)
 2. **Create new Zap:** Trigger = NextPhone (new call completed), Action = Housecall Pro (create customer and job)
-3. **Connect NextPhone:** Use API key from NextPhone dashboard (Settings ’ Integrations ’ Zapier)
+3. **Connect NextPhone:** Use API key from NextPhone dashboard (Settings ï¿½ Integrations ï¿½ Zapier)
 4. **Connect Housecall Pro:** OAuth login with your HCP credentials
-5. **Map fields:** NextPhone call data ’ HCP customer/job fields (name ’ customer name, phone ’ phone number, service type ’ job type, etc.)
+5. **Map fields:** NextPhone call data ï¿½ HCP customer/job fields (name ï¿½ customer name, phone ï¿½ phone number, service type ï¿½ job type, etc.)
 6. **Add filters:** Only create jobs for calls longer than 60 seconds (excludes spam and wrong numbers)
 7. **Test Zap:** Run test with sample data, verify it creates customer and job in HCP
 8. **Turn on Zap:** Activate automation

@@ -1,11 +1,15 @@
 # Clio AI Receptionist Integration: Automate Matter Creation and Client Intake
 
+**Meta Title:** Clio AI Phone Integration: Automate Legal Client Intake 2025
+
+**Meta Description:** Law firms miss 36% of callsâ€”$649 per wasted lead. AI receptionist integrates with Clio to auto-create matters and sync intake data 24/7.
+
 **Key Takeaways:**
 
 - Law firms miss 36% of incoming calls, and 34% of those callers never try again - that's $649 per lead wasted on unanswered phones
 - Clio powers 150,000+ legal professionals worldwide as the leading cloud-based practice management platform
 - AI receptionists integrate with Clio to automate client intake, create matters, sync calendars, and log every interaction in your activity timeline
-- The complete workflow: AI answers call ’ collects client info ’ pushes data to Clio via API ’ creates new matter automatically with pre-filled details
+- The complete workflow: AI answers call ï¿½ collects client info ï¿½ pushes data to Clio via API ï¿½ creates new matter automatically with pre-filled details
 - Cost comparison: $35,000/year for a traditional receptionist vs $199/month for AI with full Clio integration and 24/7 coverage
 - NextPhone uses HTTP webhooks to connect with Clio's API, enabling custom data collection and automated matter creation without waiting for native connectors
 
@@ -38,7 +42,7 @@ The average law firm [spends $649 to generate a single lead](https://fwd-lawyerm
 Let's do the math for a solo attorney receiving 30 calls per month:
 
 - 36% missed (legal industry average) = 11 missed calls/month
-- 11 missed calls × $649 cost per lead = $7,139/month in wasted marketing spend
+- 11 missed calls ï¿½ $649 cost per lead = $7,139/month in wasted marketing spend
 - If 20% of those would have converted at an average $5,000 case value = $11,000/month in lost revenue
 - **Total monthly loss: $18,139**
 - **Annual loss: $217,668**
@@ -46,8 +50,8 @@ Let's do the math for a solo attorney receiving 30 calls per month:
 For a small firm receiving 50 calls per month, the numbers get even more brutal:
 
 - 36% missed = 18 missed calls/month
-- $649 × 18 = $11,682 wasted on marketing
-- 20% conversion × $5,000 = $18,000 lost revenue
+- $649 ï¿½ 18 = $11,682 wasted on marketing
+- 20% conversion ï¿½ $5,000 = $18,000 lost revenue
 - **Total monthly loss: $29,682**
 - **Annual loss: $356,184**
 
@@ -178,12 +182,12 @@ Either way, the client data flows into Clio within seconds of the call ending. F
 
 Field mapping looks something like this:
 
-- `{{caller_name}}` ’ Clio contact: first_name + last_name
-- `{{phone}}` ’ Clio contact: phone_number
-- `{{email}}` ’ Clio contact: email
-- `{{case_type}}` ’ Clio matter: practice_area
-- `{{case_details}}` ’ Clio matter: description
-- `{{urgency_level}}` ’ Clio custom field: priority
+- `{{caller_name}}` ï¿½ Clio contact: first_name + last_name
+- `{{phone}}` ï¿½ Clio contact: phone_number
+- `{{email}}` ï¿½ Clio contact: email
+- `{{case_type}}` ï¿½ Clio matter: practice_area
+- `{{case_details}}` ï¿½ Clio matter: description
+- `{{urgency_level}}` ï¿½ Clio custom field: priority
 
 ### Step 3: Automated Matter Creation
 
@@ -484,11 +488,11 @@ The AI + Clio stack delivers 24/7 coverage, automated data sync, and consistent 
 
 This depends on your firm's workflow preferences and risk tolerance.
 
-**Conservative approach:** AI captures lead in Clio Grow ’ Attorney reviews and approves ’ Automated workflow creates matter in Clio Manage
+**Conservative approach:** AI captures lead in Clio Grow ï¿½ Attorney reviews and approves ï¿½ Automated workflow creates matter in Clio Manage
 
-**Moderate approach:** AI creates contact in Clio Manage with all intake data ’ Attorney reviews and manually creates matter
+**Moderate approach:** AI creates contact in Clio Manage with all intake data ï¿½ Attorney reviews and manually creates matter
 
-**Aggressive approach:** AI creates matter directly via API for specific case types (e.g., routine uncontested divorces, standard estate planning) ’ High-value or complex cases require attorney approval
+**Aggressive approach:** AI creates matter directly via API for specific case types (e.g., routine uncontested divorces, standard estate planning) ï¿½ High-value or complex cases require attorney approval
 
 Most firms start with the conservative approach and gradually automate more as they gain confidence in the AI's data collection accuracy. Clio's automated workflows give you full control over what triggers matter creation.
 

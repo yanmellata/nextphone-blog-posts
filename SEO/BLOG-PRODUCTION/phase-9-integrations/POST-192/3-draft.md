@@ -1,5 +1,9 @@
 # Route4Me + NextPhone: Route Optimization Integration
 
+**Meta Title:** Route4Me AI Phone Integration: Auto-Add Stops from Calls 2025
+
+**Meta Description:** Add phone appointments to optimized Route4Me routes automatically. AI collects address during callâ€”reduce drive time with logical stop sequence.
+
 **Key Takeaways:**
 
 - Automatically add phone appointment requests to optimized routes in Route4Me
@@ -34,7 +38,7 @@ Traditional process:
 
 With integration:
 
-- Call comes in ’ AI collects address
+- Call comes in ï¿½ AI collects address
 - Stop added to Route4Me automatically
 - Route re-optimizes to fit new stop in best position
 - Driver sees updated route on mobile app
@@ -69,7 +73,7 @@ Route4Me has an API for creating routes, adding stops, and optimizing sequences.
 2. NextPhone AI asks: "What's your address?"
 3. Customer provides address
 4. AI asks: "When do you need this?" (Customer: "Today if possible")
-5. Call ends ’ Webhook fires
+5. Call ends ï¿½ Webhook fires
 6. POST request to Route4Me API creates new stop with:
    - Address
    - Customer name and phone
@@ -103,11 +107,11 @@ This data flows both ways for complete visibility.
 
 ### Step 1: Get Route4Me API Key
 
-Log into Route4Me ’ Account ’ API ’ Generate new API key. Copy it.
+Log into Route4Me ï¿½ Account ï¿½ API ï¿½ Generate new API key. Copy it.
 
 ### Step 2: Configure NextPhone Webhook
 
-In NextPhone ’ Integrations ’ HTTP Webhooks ’ Add New.
+In NextPhone ï¿½ Integrations ï¿½ HTTP Webhooks ï¿½ Add New.
 
 **Settings:**
 
@@ -211,7 +215,7 @@ Example: 50 stops/week, average 200 miles total. Optimized: 140-160 miles. Savin
 
 Less drive time = more time for actual stops. A driver who completes 10 stops/day can complete 12 with optimized routing.
 
-2 extra stops/day × $50 average = $100/day more revenue per driver = $25,000/year per driver (250 working days).
+2 extra stops/day ï¿½ $50 average = $100/day more revenue per driver = $25,000/year per driver (250 working days).
 
 ### Better Customer Experience
 

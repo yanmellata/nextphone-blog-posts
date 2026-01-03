@@ -1,5 +1,9 @@
 # Towbook + NextPhone: Towing Dispatch Integration
 
+**Meta Title:** Towbook AI Phone Integration: Instant Tow Dispatch 2025
+
+**Meta Description:** Create Towbook dispatch jobs from emergency tow calls automatically. AI collects vehicle info during callâ€”24/7 coverage, seconds to dispatch.
+
 **Key Takeaways:**
 
 - Create Towbook dispatch jobs automatically from emergency tow calls
@@ -26,7 +30,7 @@ Towing is a speed business. First company to arrive gets the job. Manual dispatc
 
 Traditional process:
 
-1. Phone rings ’ You answer (or miss it)
+1. Phone rings ï¿½ You answer (or miss it)
 2. Write down location, vehicle type, problem on paper or notepad
 3. Hang up, open Towbook
 4. Manually enter job details
@@ -37,7 +41,7 @@ Time elapsed: 5-10 minutes if you're fast.
 
 With integration:
 
-1. Call comes in ’ AI answers instantly
+1. Call comes in ï¿½ AI answers instantly
 2. AI collects location, vehicle info, problem
 3. Job created in Towbook automatically
 4. You assign driver (or AI assigns based on proximity)
@@ -73,11 +77,11 @@ Towbook has an API for creating jobs programmatically. NextPhone sends call data
 
 ### The Integration Flow
 
-1. Emergency call comes in ’ NextPhone AI answers
+1. Emergency call comes in ï¿½ NextPhone AI answers
 2. AI asks: "What's your location?" "What type of vehicle?" "What's the problem?"
 3. Caller provides: "I'm at mile marker 47 on I-95 South, 2018 Honda Accord, flat tire"
 4. Call ends (or during call if configured for real-time)
-5. Webhook fires ’ POST request to Towbook API
+5. Webhook fires ï¿½ POST request to Towbook API
 6. Job created in Towbook with:
    - Customer name and phone
    - Vehicle year, make, model
@@ -114,13 +118,13 @@ All this data maps to Towbook fields, so the job is complete when it hits your d
 
 ### Step 1: Get Towbook API Access
 
-Log into Towbook ’ Settings ’ API. If you don't see API access, contact Towbook support to enable it for your account.
+Log into Towbook ï¿½ Settings ï¿½ API. If you don't see API access, contact Towbook support to enable it for your account.
 
 Generate an API key and copy it.
 
 ### Step 2: Configure NextPhone Webhook
 
-In NextPhone dashboard ’ Integrations ’ HTTP Webhooks ’ Add New.
+In NextPhone dashboard ï¿½ Integrations ï¿½ HTTP Webhooks ï¿½ Add New.
 
 **Settings:**
 

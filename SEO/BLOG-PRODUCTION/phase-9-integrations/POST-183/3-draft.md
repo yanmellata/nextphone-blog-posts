@@ -1,5 +1,9 @@
 # Typeform + NextPhone: Form Submission to Phone Call Automation
 
+**Meta Title:** Typeform AI Call Automation: Form-to-Phone Workflow 2025
+
+**Meta Description:** 80% of leads need 5+ follow-ups, but only 8% of salespeople do it. Typeform webhook triggers AI call within 60 secondsâ€”instant multi-channel follow-up.
+
 **Key Takeaways:**
 
 - Typeform captures lead info, but most businesses lose leads by not following up immediately
@@ -166,7 +170,7 @@ Phone follow-up isn't old-fashioned. It's effective.
 
 Here's where Typeform + NextPhone changes the game.
 
-Instead of form ’ email ’ hope they respond, you get: form ’ instant phone call ’ booked appointment.
+Instead of form ï¿½ email ï¿½ hope they respond, you get: form ï¿½ instant phone call ï¿½ booked appointment.
 
 ### How It Works: The 7-Step Process
 
@@ -190,9 +194,9 @@ The lead never waits. They submit the form, their phone rings 60 seconds later, 
 
 The AI doesn't just blindly call everyone. It uses the form data to route intelligently:
 
-- **Urgency = "Emergency"** ’ AI calls immediately and transfers to your on-call phone
-- **Urgency = "This week"** ’ AI books an appointment during your available hours
-- **Urgency = "Just browsing"** ’ AI provides information and sends a follow-up email with resources
+- **Urgency = "Emergency"** ï¿½ AI calls immediately and transfers to your on-call phone
+- **Urgency = "This week"** ï¿½ AI books an appointment during your available hours
+- **Urgency = "Just browsing"** ï¿½ AI provides information and sends a follow-up email with resources
 
 We found that 25.4% of customers (632 out of 2,487 analyzed) explicitly request callbacks. This workflow ensures every single one gets called backautomatically.
 
@@ -236,9 +240,9 @@ First agent to respond gets the showing. First to show gets the offer. Speed win
 
 A law firm's consultation request form asks: case type, budget range, timeline.
 
-High-value cases (corporate law, $50K+ budget) ’ AI calls immediately and routes to a partner.
+High-value cases (corporate law, $50K+ budget) ï¿½ AI calls immediately and routes to a partner.
 
-Low-value cases (small claims, under $5K) ’ AI provides resources, explains fee structure, and sends follow-up email with intake forms.
+Low-value cases (small claims, under $5K) ï¿½ AI provides resources, explains fee structure, and sends follow-up email with intake forms.
 
 The partners' time is protected for high-value leads. Every lead still gets contacted immediately.
 
@@ -258,17 +262,17 @@ In your NextPhone dashboard, create an HTTP webhook integration. You'll get a we
 
 Tell NextPhone which Typeform fields map to which call parameters. For example:
 
-- Typeform "phone" field ’ `{{caller_number}}`
-- Typeform "urgency" field ’ `{{urgency_level}}`
-- Typeform "service" field ’ `{{service_type}}`
+- Typeform "phone" field ï¿½ `{{caller_number}}`
+- Typeform "urgency" field ï¿½ `{{urgency_level}}`
+- Typeform "service" field ï¿½ `{{service_type}}`
 
 ### Step 4: Set Routing Rules
 
 Configure how the AI should handle different responses:
 
-- If urgency = "Emergency" ’ Transfer to owner immediately
-- If urgency = "This week" ’ Book appointment within 7 days
-- If urgency = "Just browsing" ’ Provide info and send email
+- If urgency = "Emergency" ï¿½ Transfer to owner immediately
+- If urgency = "This week" ï¿½ Book appointment within 7 days
+- If urgency = "Just browsing" ï¿½ Provide info and send email
 
 ### Step 5: Test and Go Live
 

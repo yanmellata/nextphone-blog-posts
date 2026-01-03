@@ -1,5 +1,9 @@
 # LawRuler + NextPhone: Personal Injury Case Management Integration
 
+**Meta Title:** LawRuler AI Phone Integration: Personal Injury Intake 2025
+
+**Meta Description:** PI firms lose $57K/month from missed calls. 72% hire the first attorney they reach. AI + LawRuler captures cases 24/7 for $199/mo.
+
 **Key Takeaways:**
 
 - Personal injury firms lose an average of $57,000/month from missed calls - even with LawRuler CRM in place
@@ -55,13 +59,13 @@ Let's run the numbers for a typical personal injury firm:
 - **Missed calls:** 28 calls/month going to voicemail
 - **Conversion rate:** 15% (realistic for qualified PI leads)
 - **Average case value:** $6,500
-- **Monthly lost revenue:** 28 × 15% × $6,500 = **$27,300**
+- **Monthly lost revenue:** 28 ï¿½ 15% ï¿½ $6,500 = **$27,300**
 - **Annual impact:** **$327,600 in lost revenue**
 
 But here's where it gets worse. In our analysis of 13,175 customer service calls across multiple industries, we found that 74.1% of calls went completely unanswered. If your firm mirrors this higher rate (common for solo practitioners or small teams):
 
 - **Missed calls at 74.1%:** 59 calls/month
-- **Monthly lost revenue:** 59 × 15% × $6,500 = **$57,525**
+- **Monthly lost revenue:** 59 ï¿½ 15% ï¿½ $6,500 = **$57,525**
 - **Annual impact:** **$690,300 in lost cases**
 
 That's more than half a million dollars walking to competitors because the phone rang when you were busy.
@@ -74,7 +78,7 @@ NextPhone integrates with LawRuler using HTTP webhooks and [LawRuler's API](http
 
 Here's what happens technically:
 
-1. Call comes in ’ NextPhone AI answers in under 5 seconds
+1. Call comes in ï¿½ NextPhone AI answers in under 5 seconds
 2. AI has conversation with caller, collecting structured intake data
 3. NextPhone sends POST request to LawRuler API with all collected information
 4. LawRuler creates new lead/intake record automatically
@@ -316,7 +320,7 @@ Compatible with all major phone systems. You can run NextPhone in parallel with 
 
 ### Is call data secure and HIPAA-compliant?
 
-LawRuler uses bank-grade AES 256-bit encryption for all client data. The NextPhone ’ LawRuler data transfer is fully encrypted end-to-end.
+LawRuler uses bank-grade AES 256-bit encryption for all client data. The NextPhone ï¿½ LawRuler data transfer is fully encrypted end-to-end.
 
 All call recordings and transcripts are stored securely. Client data is never shared with third parties.
 
@@ -336,7 +340,7 @@ The math is clear.
 
 Stop losing personal injury cases to competitors with faster answering. See how NextPhone integrates with LawRuler to capture every lead, 24/7, with cleaner data and instant CRM updates.
 
-**[Start your free 14-day trial of NextPhone today ’](#)**
+**[Start your free 14-day trial of NextPhone today ï¿½](#)**
 
 ---
 

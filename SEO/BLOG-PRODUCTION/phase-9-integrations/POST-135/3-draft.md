@@ -1,5 +1,9 @@
 # Connect NextPhone to Calendly: Real-Time Availability Sync
 
+**Meta Title:** Calendly AI Phone Booking: Voice-to-Calendar Integration 2025
+
+**Meta Description:** 7.7% of calls are scheduling requests. AI + Calendly books appointments during calls in under 90 secondsâ€”no texting links or website visits needed.
+
 **Key Takeaways:**
 
 - 7.7% of customer calls are appointment scheduling requestsAI + Calendly automates them all
@@ -164,9 +168,9 @@ In our analysis of 13,175 calls, 15.9% contained urgency language like "emergenc
 
 Emergency calls need immediate human response, not calendar booking for next week. Smart AI systems differentiate:
 
-**Emergency detected** ’ "This sounds urgent. Let me connect you with our on-call technician right now." (Transfers to your phone immediately)
+**Emergency detected** ï¿½ "This sounds urgent. Let me connect you with our on-call technician right now." (Transfers to your phone immediately)
 
-**Routine request** ’ "I can schedule that for you. I have availability on Thursday at..."
+**Routine request** ï¿½ "I can schedule that for you. I have availability on Thursday at..."
 
 The AI uses keyword detection and context clues. If someone says "my basement is flooding right now," that's not a calendar booking situation. But "I need my gutters cleaned before winter" is perfect for scheduling.
 
@@ -444,8 +448,8 @@ Absolutely. You can create multiple Calendly event types (30-minute estimate, 60
 
 The AI can ask qualifying questions to determine which type the customer needs:
 
-"Is this for a new installation or a repair?" ’ Routes to appropriate event type
-"Do you need an estimate or are you ready to schedule the work?" ’ Selects correct appointment
+"Is this for a new installation or a repair?" ï¿½ Routes to appropriate event type
+"Do you need an estimate or are you ready to schedule the work?" ï¿½ Selects correct appointment
 
 Each event type can have different durations, availability windows, pricing, and even different team members assigned.
 

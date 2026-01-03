@@ -1,10 +1,8 @@
 # 8x8 Voice + NextPhone: Enterprise Communication Integration
 
-**Published:** December 28, 2025
-**Author:** NextPhone Team
-**Category:** Integrations
+**Meta Title:** 8x8 UCaaS + AI Receptionist: Enterprise Integration Guide 2025
 
----
+**Meta Description:** 8x8 serves 2.5M users, but UCaaS still requires humans to answer. Add AI front-line layer—answers in 5 seconds, routes to 8x8 for complex calls.
 
 **Key Takeaways:**
 

@@ -1,5 +1,9 @@
 # How to Integrate NextPhone with HubSpot CRM: Complete Setup Guide
 
+**Meta Title:** NextPhone HubSpot Integration: Automated Lead Capture Setup 2025
+
+**Meta Description:** Set up NextPhone and HubSpot integration in 15 minutes. Auto-create contacts, log calls with transcripts, and capture the 74.1% of leads you're currently missing.
+
 **Key Takeaways:**
 
 - NextPhone integrates with HubSpot via HTTP webhooks - no coding required, setup takes 15-20 minutes
@@ -55,7 +59,7 @@ For qualified leads, the integration can automatically create deals in your HubS
 
 **ROI:** Capture just 3 extra jobs per month at an average $3,500 value. That's $10,500 in additional revenue versus $199/month for NextPhone - a 5,200% ROI.
 
-[IMAGE: Data flow diagram showing: Incoming Call ’ NextPhone AI Receptionist ’ HTTP Webhook ’ HubSpot (Contact Created, Activity Logged, Deal Created)]
+[IMAGE: Data flow diagram showing: Incoming Call ï¿½ NextPhone AI Receptionist ï¿½ HTTP Webhook ï¿½ HubSpot (Contact Created, Activity Logged, Deal Created)]
 
 The integration lives inside your existing workflow. Your team keeps using HubSpot exactly as they do now - they just see more complete data.
 
@@ -104,7 +108,7 @@ HubSpot uses private apps to grant external systems access to your CRM. You'll c
 
 1. Log in to your HubSpot account
 2. Click the settings icon (gear) in the top right
-3. In the left sidebar, navigate to **Integrations ’ Private Apps**
+3. In the left sidebar, navigate to **Integrations ï¿½ Private Apps**
 4. Click **Create a private app**
 
 ### Create a New Private App
@@ -150,7 +154,7 @@ We'll walk through exactly which fields to map and how to avoid common errors.
 ### Access HTTP Webhook Settings
 
 1. Log in to your NextPhone dashboard
-2. Navigate to **Integrations ’ HTTP Webhooks**
+2. Navigate to **Integrations ï¿½ HTTP Webhooks**
 3. Click **Create New Webhook**
 
 ### Configure Webhook URL and Headers
@@ -230,11 +234,11 @@ In the NextPhone webhook body template, use this JSON structure:
 
 This payload maps:
 
-- NextPhone's `{{first_name}}` ’ HubSpot's `firstname`
-- NextPhone's `{{caller_number}}` ’ HubSpot's `phone`
-- NextPhone's `{{email}}` ’ HubSpot's `email`
-- NextPhone's `{{company_name}}` ’ HubSpot's `company`
-- NextPhone's `{{message}}` ’ HubSpot's `notes`
+- NextPhone's `{{first_name}}` ï¿½ HubSpot's `firstname`
+- NextPhone's `{{caller_number}}` ï¿½ HubSpot's `phone`
+- NextPhone's `{{email}}` ï¿½ HubSpot's `email`
+- NextPhone's `{{company_name}}` ï¿½ HubSpot's `company`
+- NextPhone's `{{message}}` ï¿½ HubSpot's `notes`
 
 ### Common Field Mapping Errors to Avoid
 
@@ -245,7 +249,7 @@ HubSpot shows friendly names like "First Name" in the UI, but the API uses inter
 - Wrong: `"First Name": "{{first_name}}"`
 - Right: `"firstname": "{{first_name}}"`
 
-Find internal property names by going to Settings ’ Properties ’ Search for the property ’ Look for the "Internal name" field.
+Find internal property names by going to Settings ï¿½ Properties ï¿½ Search for the property ï¿½ Look for the "Internal name" field.
 
 **Error #2: Mapping Picklist Fields to Text Values**
 
@@ -517,7 +521,7 @@ When integrations fail, error messages aren't always clear. Here's how to diagno
 
 1. Verify field mapping includes at least one name field AND one contact method
 2. Check property names match HubSpot's internal names (not display names)
-3. Go to Settings ’ Properties in HubSpot to find correct property names
+3. Go to Settings ï¿½ Properties in HubSpot to find correct property names
 4. Test with minimal fields first (firstname + phone only), then add more
 
 ### 401 Unauthorized Errors
@@ -533,7 +537,7 @@ When integrations fail, error messages aren't always clear. Here's how to diagno
 
 **How to Fix:**
 
-1. Regenerate API key in HubSpot (Settings ’ Integrations ’ Private Apps)
+1. Regenerate API key in HubSpot (Settings ï¿½ Integrations ï¿½ Private Apps)
 2. Verify Authorization header format: `Bearer YOUR_API_KEY` (no colon, space after Bearer)
 3. Check private app scopes include `crm.objects.contacts.write`
 4. Copy/paste new API key into NextPhone webhook config
@@ -554,7 +558,7 @@ When integrations fail, error messages aren't always clear. Here's how to diagno
 1. Wait 5 minutes and refresh HubSpot
 2. Verify webhook URL is exactly: `https://api.hubapi.com/crm/v3/objects/contacts`
 3. Confirm HTTP method is POST (not GET)
-4. Check HubSpot's integration logs: Settings ’ Integrations ’ Connected Apps ’ View Details
+4. Check HubSpot's integration logs: Settings ï¿½ Integrations ï¿½ Connected Apps ï¿½ View Details
 5. Look for error messages in NextPhone webhook logs
 
 ### Field Mapping Issues
@@ -570,7 +574,7 @@ When integrations fail, error messages aren't always clear. Here's how to diagno
 **How to Fix:**
 
 1. Verify template variable names are exact (case-sensitive): `{{first_name}}` not `{{firstname}}`
-2. Check HubSpot field types (Settings ’ Properties)
+2. Check HubSpot field types (Settings ï¿½ Properties)
 3. Don't map free-text data to dropdown fields
 4. Test with simple text fields first before using custom properties
 
@@ -590,7 +594,7 @@ Reference HubSpot's [error handling documentation](https://developers.hubspot.co
 
 1. Ensure AI collects the same identifier each time (prefer email if available, fallback to phone)
 2. Send consistent phone number format (e.g., always +1-555-555-5555, not (555) 555-5555)
-3. Verify HubSpot duplicate management settings: Settings ’ Data Management ’ Duplicates
+3. Verify HubSpot duplicate management settings: Settings ï¿½ Data Management ï¿½ Duplicates
 4. Consider creating custom deduplication rules based on phone number only
 
 For additional troubleshooting help, see this guide on [common integration errors](https://www.revblack.com/guides/9-salesforce-hubspot-integration-errors) and how to fix them.
@@ -628,8 +632,8 @@ Yes, you have complete control over field mapping. You can map only the required
 
 NextPhone's AI can detect spam and robocalls. In our analysis of 13,175 calls, 7.0% were clearly spam or automated calls. You can configure the AI to NOT trigger the HubSpot webhook for spam calls by setting up conditional logic:
 
-- If call outcome = spam ’ Don't fire webhook
-- If call outcome = qualified lead ’ Fire webhook
+- If call outcome = spam ï¿½ Don't fire webhook
+- If call outcome = qualified lead ï¿½ Fire webhook
 
 This ensures only real customer conversations create HubSpot contacts. You can also set up filtering rules based on other criteria like call duration (ignore calls under 30 seconds) or caller intent.
 
@@ -643,7 +647,7 @@ This prevents duplicate contacts as long as you're consistently sending the same
 
 Typically 5-30 seconds after the call ends. The webhook fires immediately when the call completes, and HubSpot processes the request in real-time. However, sync time can vary based on HubSpot's current API processing load. During high-traffic periods, it might take 2-5 minutes.
 
-If contacts aren't appearing after 5 minutes, there's likely a configuration error. Check your webhook logs in NextPhone and HubSpot's integration logs (Settings ’ Integrations ’ Connected Apps) for error messages.
+If contacts aren't appearing after 5 minutes, there's likely a configuration error. Check your webhook logs in NextPhone and HubSpot's integration logs (Settings ï¿½ Integrations ï¿½ Connected Apps) for error messages.
 
 ---
 

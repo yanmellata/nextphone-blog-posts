@@ -1,5 +1,9 @@
 # Call Recording & Transcription: Why It Matters for AI Receptionists
 
+**Meta Title:** AI Call Recording & Transcription: Save 145 Hours/Year 2025
+
+**Meta Description:** Transcription cuts voicemail time from 40 to 5 minutes dailyâ€”145 hours saved yearly. Searchable archives, legal compliance, CRM integration included.
+
 **Key Takeaways:**
 
 - Call transcription cuts voicemail time from 40 minutes to 5 minutes dailythat's 145 hours saved per year
@@ -85,7 +89,7 @@ The [AI learns from each call](https://www.withallo.com/blog/how-to-turn-your-vo
 
 This is why your transcripts get more accurate the longer you use the system.
 
-[IMAGE: Flowchart showing "Call ’ Audio Capture ’ AI Analysis ’ Text Transcript"]
+[IMAGE: Flowchart showing "Call ï¿½ Audio Capture ï¿½ AI Analysis ï¿½ Text Transcript"]
 
 ## Voicemail Transcription: Read Instead of Listening
 

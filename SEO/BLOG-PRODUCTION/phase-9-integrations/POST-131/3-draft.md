@@ -1,5 +1,9 @@
 # Copper CRM + NextPhone: Google Workspace Native Integration
 
+**Meta Title:** Copper CRM Phone Integration: Complete Your Google Workspace Stack 2025
+
+**Meta Description:** Copper CRM handles email and calendar, but not phone calls. Add AI receptionist to capture the 74.1% of calls you're missing and log leads automatically.
+
 **Key Takeaways:**
 
 - Copper CRM is Google Workspace's recommended CRM, but needs phone integration to capture all leads
@@ -56,7 +60,7 @@ As one plumber from our study put it: "I didn't even know I was missing that man
 
 Here's the math. A typical small contractor receives about 42 calls per month. If 74.1% go unanswered, that's 31 missed calls. If just 20% of those would have converted at an average project value of $3,500:
 
-31 missed calls × 20% conversion × $3,500 = $21,700 per month lost
+31 missed calls ï¿½ 20% conversion ï¿½ $3,500 = $21,700 per month lost
 
 That's $260,400 per year in revenue walking away because you couldn't answer the phone.
 
@@ -171,7 +175,7 @@ Let's say you're a 3-person consulting firm using Google Workspace and Copper. Y
 
 Capture just one additional $3,500 project per month because NextPhone answered a call you would have missed.
 
-$3,500 revenue ÷ $199 NextPhone cost = 17.6x return
+$3,500 revenue ï¿½ $199 NextPhone cost = 17.6x return
 
 Even one extra lead per month pays for the integration 17 times over.
 

@@ -1,5 +1,9 @@
 # Email Notifications After Calls: Automated Follow-Up & Call Summaries
 
+**Meta Title:** AI Call Email Notifications: Auto Summaries & Follow-Ups 2025
+
+**Meta Description:** 25.4% request callbacks but 80% are forgottenâ€”$113K/year lost. AI sends instant summaries with action items, urgency level, and CRM integration.
+
 **Key Takeaways:**
 
 - 25.4% of customers request callbacks - without automated tracking, 80% of these requests are forgotten, costing businesses an average of $113,400 per year
@@ -59,7 +63,7 @@ Email notifications after calls prevent this entirely. After every conversation
 
 Email notifications after calls are exactly what they sound like: automatic emails sent to you (and your team) immediately after a phone call ends. These aren't just voicemail transcriptsthey're comprehensive summaries of every conversation, whether you answered the call or not.
 
-The system works like this: Call ends ’ AI processes the conversation ’ Email generated with summary and details ’ Sent to designated team members ’ You take appropriate action.
+The system works like this: Call ends ï¿½ AI processes the conversation ï¿½ Email generated with summary and details ï¿½ Sent to designated team members ï¿½ You take appropriate action.
 
 No manual steps. No logging into a dashboard. The information arrives in your inbox within seconds of the call ending.
 

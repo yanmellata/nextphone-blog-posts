@@ -1,5 +1,9 @@
 # Samsara + NextPhone: Fleet Management Integration
 
+**Meta Title:** Samsara Fleet + AI Phone: GPS-Based Call Routing 2025
+
+**Meta Description:** Route emergency calls to the nearest technician using Samsara GPS data. AI checks location and availability before dispatchingâ€”reduce response times.
+
 **Key Takeaways:**
 
 - Route emergency calls to the nearest available technician using Samsara GPS data
@@ -70,7 +74,7 @@ Samsara has APIs for vehicle tracking, driver info, and route data. NextPhone qu
 
 ### The Integration Flow
 
-1. Emergency call comes in ’ NextPhone AI answers
+1. Emergency call comes in ï¿½ NextPhone AI answers
 2. AI collects: Customer location, problem type, urgency
 3. During or after call, webhook queries Samsara API: "Which techs are nearby and available?"
 4. Samsara returns: GPS locations of all fleet vehicles, current status (en route, idle, on job)
@@ -102,7 +106,7 @@ This bidirectional data flow enables smart routing.
 
 ### Step 1: Get Samsara API Access
 
-Log into Samsara dashboard ’ Admin ’ API Tokens. Generate a new API token with permissions:
+Log into Samsara dashboard ï¿½ Admin ï¿½ API Tokens. Generate a new API token with permissions:
 
 - Read vehicle locations
 - Read driver info
@@ -112,7 +116,7 @@ Copy the API token.
 
 ### Step 2: Configure NextPhone to Query Samsara
 
-In NextPhone ’ Integrations ’ Custom Functions ’ Add New.
+In NextPhone ï¿½ Integrations ï¿½ Custom Functions ï¿½ Add New.
 
 **Function Name:** "Find Nearest Tech"
 
@@ -198,7 +202,7 @@ If you prevent just 100 unnecessary miles per week through better routing, that'
 
 Techs spend less time driving between jobs, more time actually working. A tech who completes 4 jobs/day can complete 5 with optimized routing.
 
-5 jobs/day × $200 average = $1,000/day per tech. Over a year, that's significant revenue increase.
+5 jobs/day ï¿½ $200 average = $1,000/day per tech. Over a year, that's significant revenue increase.
 
 ### Better Fleet Utilization
 

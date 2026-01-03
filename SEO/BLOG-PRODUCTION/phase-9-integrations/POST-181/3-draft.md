@@ -1,5 +1,9 @@
 # Google Local Service Ads + AI Phone Integration: Instant Response & Call Tracking
 
+**Meta Title:** Google LSA + AI Phone Integration: Maximize Pay-Per-Lead ROI 2025
+
+**Meta Description:** LSA leads cost $15-$162 each. 5-minute response increases conversion 8x. AI answers 100% of LSA calls in under 5 secondsâ€”stop wasting ad spend.
+
 **Key Takeaways:**
 
 - Google Local Service Ads use pay-per-lead pricing ($15-$162 per lead depending on industry)
@@ -125,7 +129,7 @@ Worse, that customer doesn't wait around. They call the next contractor on the l
 
 For a typical contractor handling 42 calls per month, with 74.1% going unanswered, that's 31 missed calls. If just 20% of those would have converted at an average $3,500 job value:
 
-31 missed calls × 20% conversion × $3,500 = **$21,700 per month in lost revenue**
+31 missed calls ï¿½ 20% conversion ï¿½ $3,500 = **$21,700 per month in lost revenue**
 
 That's **$260,400 per year** you're leaving on the table.
 
@@ -278,7 +282,7 @@ Or for leads you couldn't take immediately:
 
 "We received your call about [service needed]. We'll call you back within 2 hours to schedule your appointment."
 
-The complete loop closes automatically. LSA lead calls ’ AI answers ’ collects info ’ books appointment ’ syncs to CRM ’ sends confirmation ’ you show up to the job.
+The complete loop closes automatically. LSA lead calls ï¿½ AI answers ï¿½ collects info ï¿½ books appointment ï¿½ syncs to CRM ï¿½ sends confirmation ï¿½ you show up to the job.
 
 ## LSA ROI CalculatorBefore vs After AI Integration
 

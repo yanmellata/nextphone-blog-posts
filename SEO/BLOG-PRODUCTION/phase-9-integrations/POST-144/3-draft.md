@@ -1,5 +1,9 @@
 # Verizon Business Phone + AI Receptionist Integration Guide
 
+**Meta Title:** Verizon Business AI Receptionist: Integration Setup Guide 2025
+
+**Meta Description:** Verizon auto-attendant uses menus, not conversation. Add AI receptionist via call forwarding in 5 minutes—keep your number, capture $260K in missed calls.
+
 **Key Takeaways:**
 
 - Verizon Business offers solid network coverage (99% nationwide) but lacks conversational AI - the auto attendant is menu-driven only
